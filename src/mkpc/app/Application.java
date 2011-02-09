@@ -8,6 +8,7 @@ import java.util.Properties;
 import javax.swing.*;
 
 import mkpc.comm.MKCommunication;
+import mkpc.fligthcontrol.MKCameraControlWindow;
 import mkpc.log.LogSystem;
 import mkpc.maps.ActivityIndicator;
 import mkpc.maps.MKWaypointEditorWindow;
@@ -304,10 +305,14 @@ public class Application extends SingleFrameApplication
         // set shared application
         sharedApplication = this;
         
-        
         // set user application settings
         MKSettings.loadSettingsFile("settings.xml");
         MKSettings.loadApplicationSettings();
+        
+        
+        // test load cameraControll
+        MKCameraControlWindow cameraControl = new MKCameraControlWindow();
+        this.show(cameraControl);
     }
 
     public static Application sharedApplication()
