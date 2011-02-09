@@ -161,3 +161,22 @@
 2011-02-09 11:04:10 (MEZ): Application did start!
 2011-02-09 11:04:12 (MEZ): Application close currectly!
 2011-02-09 11:04:14 (MEZ): Send: #acGAk
+2011-02-09 14:14:55 (MEZ): Application did start!
+2011-02-09 14:29:42 (MEZ): Application did start!
+2011-02-09 14:31:05 (MEZ): Application did start!
+2011-02-09 14:32:35 (MEZ): Application did start!
+2011-02-09 14:34:20 (MEZ): Application did start!
+2011-02-09 14:34:24 (MEZ): Application close currectly!
+2011-02-09 14:38:18 (MEZ): Application did start!
+2011-02-09 14:38:47 (MEZ): Application close currectly!
+2011-02-09 14:38:56 (MEZ): Application did start!
+2011-02-09 14:41:26 (MEZ): Application did start!
+2011-02-09 14:41:39 (MEZ): Application did start!
+2011-02-09 14:41:45 (MEZ): Application close currectly!
+2011-02-09 15:01:03 (MEZ): Application did start!
+2011-02-09 15:15:27 (MEZ): Application did start!
+2011-02-09 15:16:25 (MEZ): Application close currectly!
+2011-02-09 15:18:49 (MEZ): Application did start!
+2011-02-09 15:19:14 (MEZ): Application close currectly!
+2011-02-09 15:19:34 (MEZ): Application did start!
+2011-02-09 15:19:47 (MEZ): Application close currectly!
