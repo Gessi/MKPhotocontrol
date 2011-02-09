@@ -1,0 +1,1130 @@
+2010-10-12 15:16:09 (MESZ): Application did start!
+2010-10-12 15:16:47 (MESZ): Application did start!
+2010-10-12 15:17:11 (MESZ): Application did start!
+2010-10-12 15:17:16 (MESZ): Application close currectly!
+2010-10-12 15:17:18 (MESZ): Application did start!
+2010-10-12 15:18:12 (MESZ): Application close currectly!
+2010-10-12 15:18:14 (MESZ): Application close currectly!
+2010-10-12 15:18:17 (MESZ): Application close currectly!
+2010-10-12 15:20:25 (MESZ): Application did start!
+2010-10-12 15:20:41 (MESZ): Application close currectly!
+2010-10-12 15:21:39 (MESZ): Application did start!
+2010-10-12 15:22:56 (MESZ): Application close currectly!
+2010-10-12 15:22:59 (MESZ): Application did start!
+2010-10-12 15:23:14 (MESZ): Application close currectly!
+2010-10-12 15:23:18 (MESZ): Application did start!
+2010-10-12 15:23:44 (MESZ): Application close currectly!
+2010-10-12 15:23:51 (MESZ): Application did start!
+2010-10-12 15:24:17 (MESZ): Application did start!
+2010-10-12 15:24:20 (MESZ): Application close currectly!
+2010-10-12 15:25:21 (MESZ): Application did start!
+2010-10-12 15:25:48 (MESZ): Application close currectly!
+2010-10-12 15:26:25 (MESZ): Application did start!
+2010-10-12 15:26:35 (MESZ): Application close currectly!
+2010-10-12 15:27:31 (MESZ): Zoom range ends!
+2010-10-12 15:27:32 (MESZ): Zoom range ends!
+2010-10-12 15:27:32 (MESZ): Zoom range ends!
+2010-10-12 15:27:32 (MESZ): Zoom range ends!
+2010-10-12 15:27:38 (MESZ): Zoom range ends!
+2010-10-12 15:27:38 (MESZ): Zoom range ends!
+2010-10-12 15:27:45 (MESZ): Zoom range ends!
+2010-10-12 15:27:45 (MESZ): Zoom range ends!
+2010-10-12 15:27:47 (MESZ): Zoom range ends!
+2010-10-12 15:27:47 (MESZ): Zoom range ends!
+2010-10-12 15:27:47 (MESZ): Zoom range ends!
+2010-10-12 15:27:51 (MESZ): Zoom range ends!
+2010-10-12 15:27:52 (MESZ): Zoom range ends!
+2010-10-12 15:27:52 (MESZ): Zoom range ends!
+2010-10-12 15:27:52 (MESZ): Zoom range ends!
+2010-10-12 15:27:52 (MESZ): Zoom range ends!
+2010-10-12 15:27:52 (MESZ): Zoom range ends!
+2010-10-12 15:27:53 (MESZ): Zoom range ends!
+2010-10-12 15:27:53 (MESZ): Zoom range ends!
+2010-10-12 15:27:53 (MESZ): Zoom range ends!
+2010-10-12 15:27:53 (MESZ): Zoom range ends!
+2010-10-12 15:27:53 (MESZ): Zoom range ends!
+2010-10-12 15:27:56 (MESZ): Application close currectly!
+2010-10-12 15:31:30 (MESZ): Application did start!
+2010-10-12 15:31:33 (MESZ): Zoom range ends!
+2010-10-12 15:31:33 (MESZ): Zoom range ends!
+2010-10-12 15:31:33 (MESZ): Zoom range ends!
+2010-10-12 15:31:33 (MESZ): Zoom range ends!
+2010-10-12 15:31:33 (MESZ): Zoom range ends!
+2010-10-12 15:31:34 (MESZ): Zoom range ends!
+2010-10-12 15:31:34 (MESZ): Zoom range ends!
+2010-10-12 15:31:34 (MESZ): Zoom range ends!
+2010-10-12 15:31:34 (MESZ): Zoom range ends!
+2010-10-12 15:31:34 (MESZ): Zoom range ends!
+2010-10-12 15:31:35 (MESZ): Zoom range ends!
+2010-10-12 15:31:35 (MESZ): Zoom range ends!
+2010-10-12 15:31:35 (MESZ): Zoom range ends!
+2010-10-12 15:31:35 (MESZ): Zoom range ends!
+2010-10-12 15:31:35 (MESZ): Zoom range ends!
+2010-10-12 15:31:36 (MESZ): Zoom range ends!
+2010-10-12 15:31:36 (MESZ): Zoom range ends!
+2010-10-12 15:31:36 (MESZ): Zoom range ends!
+2010-10-12 15:31:36 (MESZ): Zoom range ends!
+2010-10-12 15:31:36 (MESZ): Zoom range ends!
+2010-10-12 15:31:36 (MESZ): Zoom range ends!
+2010-10-12 15:31:37 (MESZ): Zoom range ends!
+2010-10-12 15:31:37 (MESZ): Zoom range ends!
+2010-10-12 15:31:37 (MESZ): Zoom range ends!
+2010-10-12 15:31:37 (MESZ): Zoom range ends!
+2010-10-12 15:31:37 (MESZ): Zoom range ends!
+2010-10-12 15:31:38 (MESZ): Zoom range ends!
+2010-10-12 15:33:17 (MESZ): Application did start!
+2010-10-12 15:33:26 (MESZ): Zoom range ends!
+2010-10-12 15:33:26 (MESZ): Zoom range ends!
+2010-10-12 15:33:26 (MESZ): Zoom range ends!
+2010-10-12 15:33:26 (MESZ): Zoom range ends!
+2010-10-12 15:33:26 (MESZ): Zoom range ends!
+2010-10-12 15:33:26 (MESZ): Zoom range ends!
+2010-10-12 15:33:27 (MESZ): Zoom range ends!
+2010-10-12 15:33:27 (MESZ): Zoom range ends!
+2010-10-12 15:33:27 (MESZ): Zoom range ends!
+2010-10-12 15:33:27 (MESZ): Zoom range ends!
+2010-10-12 15:33:27 (MESZ): Zoom range ends!
+2010-10-12 15:33:28 (MESZ): Zoom range ends!
+2010-10-12 15:33:28 (MESZ): Zoom range ends!
+2010-10-12 15:33:28 (MESZ): Zoom range ends!
+2010-10-12 15:33:28 (MESZ): Zoom range ends!
+2010-10-12 15:33:28 (MESZ): Zoom range ends!
+2010-10-12 15:33:29 (MESZ): Zoom range ends!
+2010-10-12 15:33:29 (MESZ): Zoom range ends!
+2010-10-12 15:37:33 (MESZ): Application did start!
+2010-10-12 15:37:37 (MESZ): Zoom range ends!
+2010-10-12 15:37:37 (MESZ): Zoom range ends!
+2010-10-12 15:37:37 (MESZ): Zoom range ends!
+2010-10-12 15:37:37 (MESZ): Zoom range ends!
+2010-10-12 15:37:37 (MESZ): Zoom range ends!
+2010-10-12 15:37:38 (MESZ): Zoom range ends!
+2010-10-12 15:37:38 (MESZ): Zoom range ends!
+2010-10-12 15:37:38 (MESZ): Zoom range ends!
+2010-10-12 15:37:38 (MESZ): Zoom range ends!
+2010-10-12 15:37:38 (MESZ): Zoom range ends!
+2010-10-12 15:37:39 (MESZ): Zoom range ends!
+2010-10-12 15:37:39 (MESZ): Zoom range ends!
+2010-10-12 15:37:39 (MESZ): Zoom range ends!
+2010-10-12 15:37:39 (MESZ): Zoom range ends!
+2010-10-12 15:37:39 (MESZ): Zoom range ends!
+2010-10-12 15:37:39 (MESZ): Zoom range ends!
+2010-10-12 15:37:40 (MESZ): Zoom range ends!
+2010-10-12 15:37:40 (MESZ): Zoom range ends!
+2010-10-12 15:37:40 (MESZ): Zoom range ends!
+2010-10-12 15:37:40 (MESZ): Zoom range ends!
+2010-10-12 15:37:40 (MESZ): Zoom range ends!
+2010-10-12 15:37:40 (MESZ): Zoom range ends!
+2010-10-12 15:37:41 (MESZ): Zoom range ends!
+2010-10-12 15:37:41 (MESZ): Zoom range ends!
+2010-10-12 15:37:41 (MESZ): Zoom range ends!
+2010-10-12 15:37:41 (MESZ): Zoom range ends!
+2010-10-12 15:37:41 (MESZ): Zoom range ends!
+2010-10-12 15:37:42 (MESZ): Zoom range ends!
+2010-10-12 15:37:42 (MESZ): Zoom range ends!
+2010-10-12 15:37:42 (MESZ): Zoom range ends!
+2010-10-12 15:37:42 (MESZ): Zoom range ends!
+2010-10-12 15:37:42 (MESZ): Zoom range ends!
+2010-10-12 15:37:43 (MESZ): Zoom range ends!
+2010-10-12 15:37:43 (MESZ): Zoom range ends!
+2010-10-12 15:37:43 (MESZ): Zoom range ends!
+2010-10-12 15:37:43 (MESZ): Zoom range ends!
+2010-10-12 15:37:43 (MESZ): Zoom range ends!
+2010-10-12 15:37:43 (MESZ): Zoom range ends!
+2010-10-12 15:37:44 (MESZ): Zoom range ends!
+2010-10-12 15:37:44 (MESZ): Zoom range ends!
+2010-10-12 15:37:44 (MESZ): Zoom range ends!
+2010-10-12 15:37:44 (MESZ): Zoom range ends!
+2010-10-12 15:37:44 (MESZ): Zoom range ends!
+2010-10-12 15:37:45 (MESZ): Zoom range ends!
+2010-10-12 15:37:45 (MESZ): Zoom range ends!
+2010-10-12 15:37:45 (MESZ): Zoom range ends!
+2010-10-12 15:37:45 (MESZ): Zoom range ends!
+2010-10-12 15:37:45 (MESZ): Zoom range ends!
+2010-10-12 15:37:45 (MESZ): Zoom range ends!
+2010-10-12 15:37:46 (MESZ): Zoom range ends!
+2010-10-12 15:37:46 (MESZ): Zoom range ends!
+2010-10-12 15:37:46 (MESZ): Zoom range ends!
+2010-10-12 15:37:46 (MESZ): Zoom range ends!
+2010-10-12 15:37:46 (MESZ): Zoom range ends!
+2010-10-12 15:37:47 (MESZ): Zoom range ends!
+2010-10-12 15:37:47 (MESZ): Zoom range ends!
+2010-10-12 15:37:47 (MESZ): Zoom range ends!
+2010-10-12 15:37:47 (MESZ): Zoom range ends!
+2010-10-12 15:37:47 (MESZ): Zoom range ends!
+2010-10-12 15:37:47 (MESZ): Zoom range ends!
+2010-10-12 15:37:48 (MESZ): Zoom range ends!
+2010-10-12 15:37:48 (MESZ): Zoom range ends!
+2010-10-12 15:37:48 (MESZ): Zoom range ends!
+2010-10-12 15:38:16 (MESZ): Zoom range ends!
+2010-10-12 15:38:18 (MESZ): Zoom range ends!
+2010-10-12 15:38:18 (MESZ): Zoom range ends!
+2010-10-12 15:38:19 (MESZ): Zoom range ends!
+2010-10-12 15:38:19 (MESZ): Zoom range ends!
+2010-10-12 15:38:20 (MESZ): Zoom range ends!
+2010-10-12 15:38:20 (MESZ): Zoom range ends!
+2010-10-12 15:38:51 (MESZ): Application close currectly!
+2010-10-12 15:38:53 (MESZ): Application did start!
+2010-10-12 15:38:56 (MESZ): Zoom range ends!
+2010-10-12 15:38:57 (MESZ): Zoom range ends!
+2010-10-12 15:38:58 (MESZ): Zoom range ends!
+2010-10-12 15:38:58 (MESZ): Zoom range ends!
+2010-10-12 15:38:58 (MESZ): Zoom range ends!
+2010-10-12 15:38:58 (MESZ): Zoom range ends!
+2010-10-12 15:38:58 (MESZ): Zoom range ends!
+2010-10-12 15:38:59 (MESZ): Zoom range ends!
+2010-10-12 15:38:59 (MESZ): Zoom range ends!
+2010-10-12 15:38:59 (MESZ): Zoom range ends!
+2010-10-12 15:38:59 (MESZ): Zoom range ends!
+2010-10-12 15:38:59 (MESZ): Zoom range ends!
+2010-10-12 15:39:00 (MESZ): Zoom range ends!
+2010-10-12 15:39:00 (MESZ): Zoom range ends!
+2010-10-12 15:39:00 (MESZ): Zoom range ends!
+2010-10-12 15:39:00 (MESZ): Zoom range ends!
+2010-10-12 15:39:00 (MESZ): Zoom range ends!
+2010-10-12 15:39:01 (MESZ): Zoom range ends!
+2010-10-12 15:39:22 (MESZ): Application did start!
+2010-10-12 15:39:57 (MESZ): Application close currectly!
+2010-10-12 15:39:59 (MESZ): Application did start!
+2010-10-12 15:40:06 (MESZ): Zoom range ends!
+2010-10-12 15:40:06 (MESZ): Zoom range ends!
+2010-10-12 15:40:06 (MESZ): Zoom range ends!
+2010-10-12 15:40:06 (MESZ): Zoom range ends!
+2010-10-12 15:40:06 (MESZ): Zoom range ends!
+2010-10-12 15:40:07 (MESZ): Zoom range ends!
+2010-10-12 15:40:07 (MESZ): Zoom range ends!
+2010-10-12 15:40:07 (MESZ): Zoom range ends!
+2010-10-12 15:40:07 (MESZ): Zoom range ends!
+2010-10-12 15:40:07 (MESZ): Zoom range ends!
+2010-10-12 15:40:08 (MESZ): Zoom range ends!
+2010-10-12 15:40:08 (MESZ): Zoom range ends!
+2010-10-12 15:40:08 (MESZ): Zoom range ends!
+2010-10-12 15:40:08 (MESZ): Zoom range ends!
+2010-10-12 15:40:09 (MESZ): Zoom range ends!
+2010-10-12 15:40:09 (MESZ): Zoom range ends!
+2010-10-12 15:40:09 (MESZ): Zoom range ends!
+2010-10-12 15:40:09 (MESZ): Zoom range ends!
+2010-10-12 15:40:09 (MESZ): Zoom range ends!
+2010-10-12 15:40:09 (MESZ): Zoom range ends!
+2010-10-12 15:40:10 (MESZ): Zoom range ends!
+2010-10-12 15:40:10 (MESZ): Zoom range ends!
+2010-10-12 15:40:10 (MESZ): Zoom range ends!
+2010-10-12 15:40:10 (MESZ): Zoom range ends!
+2010-10-12 15:40:10 (MESZ): Zoom range ends!
+2010-10-12 15:40:11 (MESZ): Zoom range ends!
+2010-10-12 15:40:11 (MESZ): Zoom range ends!
+2010-10-12 15:40:11 (MESZ): Zoom range ends!
+2010-10-12 15:40:11 (MESZ): Zoom range ends!
+2010-10-12 15:40:11 (MESZ): Zoom range ends!
+2010-10-12 15:40:12 (MESZ): Zoom range ends!
+2010-10-12 15:40:38 (MESZ): Application did start!
+2010-10-12 15:40:51 (MESZ): Application did start!
+2010-10-12 15:40:59 (MESZ): Zoom range ends!
+2010-10-12 15:40:59 (MESZ): Zoom range ends!
+2010-10-12 15:40:59 (MESZ): Zoom range ends!
+2010-10-12 15:40:59 (MESZ): Zoom range ends!
+2010-10-12 15:41:00 (MESZ): Zoom range ends!
+2010-10-12 15:41:00 (MESZ): Zoom range ends!
+2010-10-12 15:41:00 (MESZ): Zoom range ends!
+2010-10-12 15:41:00 (MESZ): Zoom range ends!
+2010-10-12 15:41:00 (MESZ): Zoom range ends!
+2010-10-12 15:41:01 (MESZ): Zoom range ends!
+2010-10-12 15:41:01 (MESZ): Zoom range ends!
+2010-10-12 15:41:01 (MESZ): Zoom range ends!
+2010-10-12 15:41:01 (MESZ): Zoom range ends!
+2010-10-12 15:41:01 (MESZ): Zoom range ends!
+2010-10-12 15:41:01 (MESZ): Zoom range ends!
+2010-10-12 15:41:02 (MESZ): Zoom range ends!
+2010-10-12 15:41:02 (MESZ): Zoom range ends!
+2010-10-12 15:41:02 (MESZ): Zoom range ends!
+2010-10-12 15:41:02 (MESZ): Zoom range ends!
+2010-10-12 15:41:02 (MESZ): Zoom range ends!
+2010-10-12 15:41:03 (MESZ): Zoom range ends!
+2010-10-12 15:41:03 (MESZ): Zoom range ends!
+2010-10-12 15:41:03 (MESZ): Zoom range ends!
+2010-10-12 15:41:03 (MESZ): Zoom range ends!
+2010-10-12 15:41:03 (MESZ): Zoom range ends!
+2010-10-12 15:41:03 (MESZ): Zoom range ends!
+2010-10-12 15:41:04 (MESZ): Zoom range ends!
+2010-10-12 15:41:04 (MESZ): Zoom range ends!
+2010-10-12 15:41:04 (MESZ): Zoom range ends!
+2010-10-12 15:41:12 (MESZ): Application close currectly!
+2010-10-12 15:41:15 (MESZ): Application close currectly!
+2010-10-12 15:41:18 (MESZ): Application close currectly!
+2010-10-12 15:41:20 (MESZ): Application did start!
+2010-10-12 15:41:25 (MESZ): Zoom range ends!
+2010-10-12 15:41:25 (MESZ): Zoom range ends!
+2010-10-12 15:41:25 (MESZ): Zoom range ends!
+2010-10-12 15:41:26 (MESZ): Zoom range ends!
+2010-10-12 15:41:26 (MESZ): Zoom range ends!
+2010-10-12 15:41:26 (MESZ): Zoom range ends!
+2010-10-12 15:41:26 (MESZ): Zoom range ends!
+2010-10-12 15:41:27 (MESZ): Zoom range ends!
+2010-10-12 15:41:27 (MESZ): Zoom range ends!
+2010-10-12 15:41:27 (MESZ): Zoom range ends!
+2010-10-12 15:41:27 (MESZ): Zoom range ends!
+2010-10-12 15:41:27 (MESZ): Zoom range ends!
+2010-10-12 15:41:27 (MESZ): Zoom range ends!
+2010-10-12 15:41:28 (MESZ): Zoom range ends!
+2010-10-12 15:41:28 (MESZ): Zoom range ends!
+2010-10-12 15:41:28 (MESZ): Zoom range ends!
+2010-10-12 15:41:28 (MESZ): Zoom range ends!
+2010-10-12 15:41:28 (MESZ): Zoom range ends!
+2010-10-12 15:41:29 (MESZ): Zoom range ends!
+2010-10-12 15:41:31 (MESZ): Application close currectly!
+2010-10-12 15:42:26 (MESZ): Application did start!
+2010-10-12 15:42:36 (MESZ): Zoom range ends!
+2010-10-12 15:42:36 (MESZ): Zoom range ends!
+2010-10-12 15:42:36 (MESZ): Zoom range ends!
+2010-10-12 15:42:37 (MESZ): Zoom range ends!
+2010-10-12 15:42:37 (MESZ): Zoom range ends!
+2010-10-12 15:42:37 (MESZ): Zoom range ends!
+2010-10-12 15:42:37 (MESZ): Zoom range ends!
+2010-10-12 15:42:37 (MESZ): Zoom range ends!
+2010-10-12 15:42:37 (MESZ): Zoom range ends!
+2010-10-12 15:42:38 (MESZ): Zoom range ends!
+2010-10-12 15:42:38 (MESZ): Zoom range ends!
+2010-10-12 15:42:38 (MESZ): Zoom range ends!
+2010-10-12 15:42:38 (MESZ): Zoom range ends!
+2010-10-12 15:42:38 (MESZ): Zoom range ends!
+2010-10-12 15:42:39 (MESZ): Zoom range ends!
+2010-10-12 15:42:39 (MESZ): Zoom range ends!
+2010-10-12 15:42:39 (MESZ): Zoom range ends!
+2010-10-12 15:42:39 (MESZ): Zoom range ends!
+2010-10-12 15:42:39 (MESZ): Zoom range ends!
+2010-10-12 15:42:39 (MESZ): Zoom range ends!
+2010-10-12 15:42:40 (MESZ): Zoom range ends!
+2010-10-12 15:42:40 (MESZ): Zoom range ends!
+2010-10-12 15:44:53 (MESZ): Application close currectly!
+2010-10-12 16:11:38 (MESZ): Application did start!
+2010-10-12 16:12:27 (MESZ): Application did start!
+2010-10-12 16:27:34 (MESZ): Application close currectly!
+2010-10-12 16:27:37 (MESZ): Application close currectly!
+2010-10-12 19:07:31 (MESZ): Application did start!
+2010-10-12 19:08:24 (MESZ): Application did start!
+2010-10-12 19:08:29 (MESZ): Application close currectly!
+2010-10-12 19:08:32 (MESZ): Application close currectly!
+2010-10-12 19:08:54 (MESZ): Application did start!
+2010-10-12 19:09:23 (MESZ): Application did start!
+2010-10-12 19:09:33 (MESZ): Application did start!
+2010-10-12 19:09:51 (MESZ): Application did start!
+2010-10-12 19:10:01 (MESZ): Application did start!
+2010-10-12 19:10:28 (MESZ): Application did start!
+2010-10-12 19:10:38 (MESZ): Application did start!
+2010-10-12 19:11:09 (MESZ): Application did start!
+2010-10-12 19:12:48 (MESZ): Application close currectly!
+2010-10-12 19:12:49 (MESZ): Application close currectly!
+2010-10-12 19:12:51 (MESZ): Application close currectly!
+2010-10-12 19:12:52 (MESZ): Application close currectly!
+2010-10-12 19:12:53 (MESZ): Application close currectly!
+2010-10-12 19:12:54 (MESZ): Application close currectly!
+2010-10-12 19:15:13 (MESZ): Application did start!
+2010-10-12 19:15:28 (MESZ): Application did start!
+2010-10-12 19:15:30 (MESZ): Application close currectly!
+2010-10-12 19:15:33 (MESZ): Application close currectly!
+2010-10-12 19:15:34 (MESZ): Application did start!
+2010-10-12 19:16:50 (MESZ): Application did start!
+2010-10-12 19:17:02 (MESZ): Application did start!
+2010-10-12 19:17:32 (MESZ): Application did start!
+2010-10-12 19:18:34 (MESZ): Application close currectly!
+2010-10-12 19:18:38 (MESZ): Application close currectly!
+2010-10-12 19:18:46 (MESZ): Application close currectly!
+2010-10-12 19:22:14 (MESZ): Application did start!
+2010-10-12 19:26:00 (MESZ): Application did start!
+2010-10-12 19:27:07 (MESZ): Application did start!
+2010-10-12 19:27:37 (MESZ): Application close currectly!
+2010-10-12 19:27:42 (MESZ): Application close currectly!
+2010-10-12 19:28:54 (MESZ): Application did start!
+2010-10-12 19:29:04 (MESZ): Zoom range ends!
+2010-10-12 19:29:04 (MESZ): Zoom range ends!
+2010-10-12 19:29:05 (MESZ): Zoom range ends!
+2010-10-12 19:29:05 (MESZ): Zoom range ends!
+2010-10-12 19:29:05 (MESZ): Zoom range ends!
+2010-10-12 19:29:07 (MESZ): Zoom range ends!
+2010-10-12 19:29:13 (MESZ): Zoom range ends!
+2010-10-12 19:29:13 (MESZ): Zoom range ends!
+2010-10-12 19:29:13 (MESZ): Zoom range ends!
+2010-10-12 19:29:22 (MESZ): Application close currectly!
+2010-10-12 19:35:12 (MESZ): Application did start!
+2010-10-12 19:35:14 (MESZ): Zoom range ends!
+2010-10-12 19:35:14 (MESZ): Zoom range ends!
+2010-10-12 19:35:14 (MESZ): Zoom range ends!
+2010-10-12 19:35:14 (MESZ): Zoom range ends!
+2010-10-12 19:35:30 (MESZ): Application did start!
+2010-10-12 19:35:34 (MESZ): Zoom range ends!
+2010-10-12 19:35:34 (MESZ): Zoom range ends!
+2010-10-12 19:35:34 (MESZ): Zoom range ends!
+2010-10-12 19:35:36 (MESZ): Zoom range ends!
+2010-10-12 19:35:36 (MESZ): Zoom range ends!
+2010-10-12 19:35:36 (MESZ): Zoom range ends!
+2010-10-12 19:35:36 (MESZ): Zoom range ends!
+2010-10-12 19:35:36 (MESZ): Zoom range ends!
+2010-10-12 19:35:38 (MESZ): Zoom range ends!
+2010-10-12 19:35:39 (MESZ): Zoom range ends!
+2010-10-12 19:35:39 (MESZ): Zoom range ends!
+2010-10-12 19:35:39 (MESZ): Zoom range ends!
+2010-10-12 19:35:40 (MESZ): Zoom range ends!
+2010-10-12 19:38:16 (MESZ): Application did start!
+2010-10-12 19:38:21 (MESZ): Zoom range ends!
+2010-10-12 19:38:21 (MESZ): Zoom range ends!
+2010-10-12 19:38:21 (MESZ): Zoom range ends!
+2010-10-12 19:38:22 (MESZ): Zoom range ends!
+2010-10-12 19:38:26 (MESZ): Zoom range ends!
+2010-10-12 19:38:26 (MESZ): Zoom range ends!
+2010-10-12 19:38:27 (MESZ): Zoom range ends!
+2010-10-12 19:38:27 (MESZ): Zoom range ends!
+2010-10-12 19:38:27 (MESZ): Zoom range ends!
+2010-10-12 19:38:32 (MESZ): Zoom range ends!
+2010-10-12 19:38:32 (MESZ): Zoom range ends!
+2010-10-12 19:38:32 (MESZ): Zoom range ends!
+2010-10-12 19:38:32 (MESZ): Zoom range ends!
+2010-10-12 19:38:32 (MESZ): Zoom range ends!
+2010-10-12 19:38:32 (MESZ): Zoom range ends!
+2010-10-12 19:38:33 (MESZ): Zoom range ends!
+2010-10-12 19:38:33 (MESZ): Zoom range ends!
+2010-10-12 19:38:33 (MESZ): Zoom range ends!
+2010-10-12 19:38:33 (MESZ): Zoom range ends!
+2010-10-12 19:38:33 (MESZ): Zoom range ends!
+2010-10-12 19:38:33 (MESZ): Zoom range ends!
+2010-10-12 19:38:33 (MESZ): Zoom range ends!
+2010-10-12 19:38:35 (MESZ): Zoom range ends!
+2010-10-12 19:38:35 (MESZ): Zoom range ends!
+2010-10-12 19:38:35 (MESZ): Zoom range ends!
+2010-10-12 19:38:35 (MESZ): Zoom range ends!
+2010-10-12 19:38:35 (MESZ): Zoom range ends!
+2010-10-12 19:38:35 (MESZ): Zoom range ends!
+2010-10-12 19:38:35 (MESZ): Zoom range ends!
+2010-10-12 19:38:35 (MESZ): Zoom range ends!
+2010-10-12 19:38:35 (MESZ): Zoom range ends!
+2010-10-12 19:38:35 (MESZ): Zoom range ends!
+2010-10-12 19:38:35 (MESZ): Zoom range ends!
+2010-10-12 19:38:35 (MESZ): Zoom range ends!
+2010-10-12 19:38:35 (MESZ): Zoom range ends!
+2010-10-12 19:38:35 (MESZ): Zoom range ends!
+2010-10-12 19:38:35 (MESZ): Zoom range ends!
+2010-10-12 19:38:36 (MESZ): Zoom range ends!
+2010-10-12 19:38:36 (MESZ): Zoom range ends!
+2010-10-12 19:38:36 (MESZ): Zoom range ends!
+2010-10-12 19:38:37 (MESZ): Zoom range ends!
+2010-10-12 19:38:37 (MESZ): Zoom range ends!
+2010-10-12 19:38:37 (MESZ): Zoom range ends!
+2010-10-12 19:38:37 (MESZ): Zoom range ends!
+2010-10-12 19:38:37 (MESZ): Zoom range ends!
+2010-10-12 19:38:37 (MESZ): Zoom range ends!
+2010-10-12 19:38:37 (MESZ): Zoom range ends!
+2010-10-12 19:38:37 (MESZ): Zoom range ends!
+2010-10-12 19:38:37 (MESZ): Zoom range ends!
+2010-10-12 19:38:37 (MESZ): Zoom range ends!
+2010-10-12 19:38:37 (MESZ): Zoom range ends!
+2010-10-12 19:38:37 (MESZ): Zoom range ends!
+2010-10-12 19:38:37 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:38 (MESZ): Zoom range ends!
+2010-10-12 19:38:39 (MESZ): Zoom range ends!
+2010-10-12 19:38:39 (MESZ): Zoom range ends!
+2010-10-12 19:38:39 (MESZ): Zoom range ends!
+2010-10-12 19:38:39 (MESZ): Zoom range ends!
+2010-10-12 19:38:39 (MESZ): Zoom range ends!
+2010-10-12 19:38:39 (MESZ): Zoom range ends!
+2010-10-12 19:38:39 (MESZ): Zoom range ends!
+2010-10-12 19:38:39 (MESZ): Zoom range ends!
+2010-10-12 19:38:39 (MESZ): Zoom range ends!
+2010-10-12 19:38:39 (MESZ): Zoom range ends!
+2010-10-12 19:38:39 (MESZ): Zoom range ends!
+2010-10-12 19:38:39 (MESZ): Zoom range ends!
+2010-10-12 19:38:42 (MESZ): Zoom range ends!
+2010-10-12 19:38:42 (MESZ): Zoom range ends!
+2010-10-12 19:38:42 (MESZ): Zoom range ends!
+2010-10-12 19:38:42 (MESZ): Zoom range ends!
+2010-10-12 19:38:42 (MESZ): Zoom range ends!
+2010-10-12 19:38:42 (MESZ): Zoom range ends!
+2010-10-12 19:38:42 (MESZ): Zoom range ends!
+2010-10-12 19:38:42 (MESZ): Zoom range ends!
+2010-10-12 19:38:42 (MESZ): Zoom range ends!
+2010-10-12 19:38:42 (MESZ): Zoom range ends!
+2010-10-12 19:38:42 (MESZ): Zoom range ends!
+2010-10-12 19:38:43 (MESZ): Zoom range ends!
+2010-10-12 19:38:43 (MESZ): Zoom range ends!
+2010-10-12 19:38:43 (MESZ): Zoom range ends!
+2010-10-12 19:38:43 (MESZ): Zoom range ends!
+2010-10-12 19:38:43 (MESZ): Zoom range ends!
+2010-10-12 19:38:43 (MESZ): Zoom range ends!
+2010-10-12 19:38:43 (MESZ): Zoom range ends!
+2010-10-12 19:38:43 (MESZ): Zoom range ends!
+2010-10-12 19:38:43 (MESZ): Zoom range ends!
+2010-10-12 19:38:43 (MESZ): Zoom range ends!
+2010-10-12 19:38:43 (MESZ): Zoom range ends!
+2010-10-12 19:38:43 (MESZ): Zoom range ends!
+2010-10-12 19:38:43 (MESZ): Zoom range ends!
+2010-10-12 19:38:43 (MESZ): Zoom range ends!
+2010-10-12 19:38:43 (MESZ): Zoom range ends!
+2010-10-12 19:38:44 (MESZ): Zoom range ends!
+2010-10-12 19:38:44 (MESZ): Zoom range ends!
+2010-10-12 19:38:44 (MESZ): Zoom range ends!
+2010-10-12 19:38:44 (MESZ): Zoom range ends!
+2010-10-12 19:38:44 (MESZ): Zoom range ends!
+2010-10-12 19:38:44 (MESZ): Zoom range ends!
+2010-10-12 19:38:44 (MESZ): Zoom range ends!
+2010-10-12 19:38:44 (MESZ): Zoom range ends!
+2010-10-12 19:38:44 (MESZ): Zoom range ends!
+2010-10-12 19:38:44 (MESZ): Zoom range ends!
+2010-10-12 19:38:44 (MESZ): Zoom range ends!
+2010-10-12 19:38:44 (MESZ): Zoom range ends!
+2010-10-12 19:39:19 (MESZ): Application did start!
+2010-10-12 19:39:23 (MESZ): Zoom range ends!
+2010-10-12 19:39:23 (MESZ): Zoom range ends!
+2010-10-12 19:39:24 (MESZ): Zoom range ends!
+2010-10-12 19:39:26 (MESZ): Zoom range ends!
+2010-10-12 19:39:26 (MESZ): Zoom range ends!
+2010-10-12 19:39:26 (MESZ): Zoom range ends!
+2010-10-12 19:39:27 (MESZ): Application close currectly!
+2010-10-12 19:41:47 (MESZ): Application did start!
+2010-10-12 19:42:22 (MESZ): Application close currectly!
+2010-10-12 19:42:24 (MESZ): Application did start!
+2010-10-12 19:42:36 (MESZ): Zoom range ends!
+2010-10-12 19:42:36 (MESZ): Zoom range ends!
+2010-10-12 19:44:12 (MESZ): Application did start!
+2010-10-12 19:44:27 (MESZ): Zoom range ends!
+2010-10-12 19:44:27 (MESZ): Zoom range ends!
+2010-10-12 19:44:30 (MESZ): Zoom range ends!
+2010-10-12 19:44:30 (MESZ): Zoom range ends!
+2010-10-12 19:44:30 (MESZ): Zoom range ends!
+2010-10-12 19:44:31 (MESZ): Zoom range ends!
+2010-10-12 19:44:31 (MESZ): Zoom range ends!
+2010-10-12 19:44:31 (MESZ): Zoom range ends!
+2010-10-12 19:44:31 (MESZ): Zoom range ends!
+2010-10-12 19:44:32 (MESZ): Zoom range ends!
+2010-10-12 19:44:32 (MESZ): Zoom range ends!
+2010-10-12 19:44:32 (MESZ): Zoom range ends!
+2010-10-12 19:44:35 (MESZ): Zoom range ends!
+2010-10-12 19:44:35 (MESZ): Zoom range ends!
+2010-10-12 19:44:36 (MESZ): Zoom range ends!
+2010-10-12 19:44:36 (MESZ): Zoom range ends!
+2010-10-12 19:44:36 (MESZ): Zoom range ends!
+2010-10-12 19:44:36 (MESZ): Zoom range ends!
+2010-10-12 19:44:36 (MESZ): Zoom range ends!
+2010-10-12 19:44:36 (MESZ): Zoom range ends!
+2010-10-12 19:44:36 (MESZ): Zoom range ends!
+2010-10-12 19:44:37 (MESZ): Zoom range ends!
+2010-10-12 19:44:37 (MESZ): Zoom range ends!
+2010-10-12 19:44:37 (MESZ): Zoom range ends!
+2010-10-12 19:44:37 (MESZ): Zoom range ends!
+2010-10-12 19:44:37 (MESZ): Zoom range ends!
+2010-10-12 19:44:37 (MESZ): Zoom range ends!
+2010-10-12 19:44:37 (MESZ): Zoom range ends!
+2010-10-12 19:44:37 (MESZ): Zoom range ends!
+2010-10-12 19:44:37 (MESZ): Zoom range ends!
+2010-10-12 19:44:37 (MESZ): Zoom range ends!
+2010-10-12 19:44:37 (MESZ): Zoom range ends!
+2010-10-12 19:44:38 (MESZ): Zoom range ends!
+2010-10-12 19:44:38 (MESZ): Zoom range ends!
+2010-10-12 19:44:38 (MESZ): Zoom range ends!
+2010-10-12 19:44:38 (MESZ): Zoom range ends!
+2010-10-12 19:44:38 (MESZ): Zoom range ends!
+2010-10-12 19:44:39 (MESZ): Zoom range ends!
+2010-10-12 19:44:39 (MESZ): Zoom range ends!
+2010-10-12 19:44:39 (MESZ): Zoom range ends!
+2010-10-12 19:44:39 (MESZ): Zoom range ends!
+2010-10-12 19:44:39 (MESZ): Zoom range ends!
+2010-10-12 19:44:39 (MESZ): Zoom range ends!
+2010-10-12 19:44:39 (MESZ): Zoom range ends!
+2010-10-12 19:44:40 (MESZ): Zoom range ends!
+2010-10-12 19:44:40 (MESZ): Zoom range ends!
+2010-10-12 19:44:40 (MESZ): Zoom range ends!
+2010-10-12 19:44:40 (MESZ): Zoom range ends!
+2010-10-12 19:44:41 (MESZ): Zoom range ends!
+2010-10-12 19:44:41 (MESZ): Zoom range ends!
+2010-10-12 19:44:41 (MESZ): Zoom range ends!
+2010-10-12 19:44:41 (MESZ): Zoom range ends!
+2010-10-12 19:44:41 (MESZ): Zoom range ends!
+2010-10-12 19:44:41 (MESZ): Zoom range ends!
+2010-10-12 19:44:41 (MESZ): Zoom range ends!
+2010-10-12 19:45:57 (MESZ): Application close currectly!
+2010-10-12 19:51:01 (MESZ): Application did start!
+2010-10-12 19:53:01 (MESZ): Application did start!
+2010-10-12 19:53:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=17&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=17&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): Zoom range ends!
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): Zoom range ends!
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:27 (MESZ): Zoom range ends!
+2010-10-12 19:53:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0-50.0&zoom=18&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 19:53:35 (MESZ): Zoom range ends!
+2010-10-12 19:53:36 (MESZ): Zoom range ends!
+2010-10-12 19:53:36 (MESZ): Zoom range ends!
+2010-10-12 19:53:54 (MESZ): Zoom range ends!
+2010-10-12 19:53:55 (MESZ): Zoom range ends!
+2010-10-12 19:53:56 (MESZ): Zoom range ends!
+2010-10-12 19:53:56 (MESZ): Zoom range ends!
+2010-10-12 19:53:56 (MESZ): Zoom range ends!
+2010-10-12 19:54:00 (MESZ): Zoom range ends!
+2010-10-12 19:54:00 (MESZ): Zoom range ends!
+2010-10-12 19:54:02 (MESZ): Zoom range ends!
+2010-10-12 19:54:02 (MESZ): Zoom range ends!
+2010-10-12 19:54:02 (MESZ): Zoom range ends!
+2010-10-12 19:54:04 (MESZ): Zoom range ends!
+2010-10-12 19:54:04 (MESZ): Zoom range ends!
+2010-10-12 19:54:04 (MESZ): Zoom range ends!
+2010-10-12 19:54:04 (MESZ): Zoom range ends!
+2010-10-12 19:54:07 (MESZ): Zoom range ends!
+2010-10-12 19:54:08 (MESZ): Zoom range ends!
+2010-10-12 19:54:08 (MESZ): Zoom range ends!
+2010-10-12 19:54:08 (MESZ): Zoom range ends!
+2010-10-12 19:54:09 (MESZ): Zoom range ends!
+2010-10-12 19:54:17 (MESZ): Zoom range ends!
+2010-10-12 19:54:18 (MESZ): Zoom range ends!
+2010-10-12 19:54:18 (MESZ): Zoom range ends!
+2010-10-12 19:54:18 (MESZ): Zoom range ends!
+2010-10-12 19:54:18 (MESZ): Zoom range ends!
+2010-10-12 20:13:05 (MESZ): Application did start!
+2010-10-12 20:13:42 (MESZ): Application did start!
+2010-10-12 20:13:59 (MESZ): Application close currectly!
+2010-10-12 20:15:38 (MESZ): Application did start!
+2010-10-12 20:17:55 (MESZ): Application did start!
+2010-10-12 20:18:22 (MESZ): Application did start!
+2010-10-12 20:19:09 (MESZ): Application did start!
+2010-10-12 20:20:08 (MESZ): Application close currectly!
+2010-10-12 20:20:11 (MESZ): Application close currectly!
+2010-10-12 20:20:38 (MESZ): Application did start!
+2010-10-12 20:21:00 (MESZ): Application did start!
+2010-10-12 20:21:48 (MESZ): Application did start!
+2010-10-12 20:22:29 (MESZ): Application close currectly!
+2010-10-12 20:22:31 (MESZ): Application close currectly!
+2010-10-12 20:22:55 (MESZ): Application did start!
+2010-10-12 20:23:24 (MESZ): Application did start!
+2010-10-12 20:23:42 (MESZ): Application did start!
+2010-10-12 20:23:43 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=37.858178172004955,-78.12500000000003&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:23:59 (MESZ): Application did start!
+2010-10-12 20:24:00 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=61.10686229740654,-24.68750000000002&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:00 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=61.10686229740654,-69.68750000000003&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:00 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=31.06370081545191,-114.68750000000003&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:00 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=31.06370081545191,-24.68750000000002&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:00 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=76.6014578237135,-24.68750000000002&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:00 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=61.10686229740654,-114.68750000000003&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:08 (MESZ): Application close currectly!
+2010-10-12 20:24:10 (MESZ): Application close currectly!
+2010-10-12 20:24:12 (MESZ): Application close currectly!
+2010-10-12 20:24:14 (MESZ): Application close currectly!
+2010-10-12 20:24:15 (MESZ): Application did start!
+2010-10-12 20:24:16 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=31.06370081545191,-114.68750000000003&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:16 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=76.6014578237135,-114.68750000000003&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:16 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=76.6014578237135,-24.68750000000002&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:16 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=61.10686229740654,-114.68750000000003&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:16 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=31.06370081545191,-69.68750000000003&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:16 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=61.10686229740654,-24.68750000000002&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:16 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=76.6014578237135,-69.68750000000003&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:16 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=31.06370081545191,-24.68750000000002&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:16 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=61.10686229740654,-69.68750000000003&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:26 (MESZ): Application close currectly!
+2010-10-12 20:24:28 (MESZ): Application did start!
+2010-10-12 20:24:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=31.06370081545191,-69.68750000000003&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=61.10686229740654,-69.68750000000003&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=61.10686229740654,-24.68750000000002&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=76.6014578237135,-69.68750000000003&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=31.06370081545191,-114.68750000000003&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=76.6014578237135,-114.68750000000003&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=76.6014578237135,-24.68750000000002&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:28 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=61.10686229740654,-114.68750000000003&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=31.06370081545191,-24.68750000000002&zoom=3&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:24:37 (MESZ): Application close currectly!
+2010-10-12 20:24:46 (MESZ): Application did start!
+2010-10-12 20:27:26 (MESZ): Application did start!
+2010-10-12 20:28:31 (MESZ): Application close currectly!
+2010-10-12 20:28:33 (MESZ): Application did start!
+2010-10-12 20:28:34 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=88.19778610749766,130.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+
+2010-10-12 20:28:34 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=-76.45802313040025,130.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:28:34 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,130.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:28:34 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=88.19778610749766,-50.00000000000002&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:28:34 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=88.19778610749766,-230.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:28:34 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,-230.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:28:34 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,-50.00000000000002&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:28:34 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=-76.45802313040025,-230.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:28:49 (MESZ): Application did start!
+2010-10-12 20:28:50 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,39.99999999999998&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:28:50 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,-140.00000000000003&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:28:50 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,-50.00000000000002&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:28:50 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=-30.53478476302503,39.99999999999998&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:28:50 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=-30.53478476302503,-50.00000000000002&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:28:50 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:28:50 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=-30.53478476302503,-140.00000000000003&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:28:50 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,39.99999999999998&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:28:50 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-50.00000000000002&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:08 (MESZ): Application did start!
+2010-10-12 20:29:30 (MESZ): Application did start!
+2010-10-12 20:29:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,-27.50000000000002&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,-72.50000000000003&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=62.38478869859439,-50.00000000000002&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=33.348003997911775,-50.00000000000002&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=62.38478869859439,-72.50000000000003&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=33.348003997911775,-27.50000000000002&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=62.38478869859439,-27.50000000000002&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=33.348003997911775,-72.50000000000003&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,-50.00000000000002&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:51 (MESZ): Application did start!
+2010-10-12 20:29:51 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=56.69789518477791,-61.25000000000002&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:51 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=56.69789518477791,-38.75000000000002&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:51 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=67.16528272449847,-61.25000000000002&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:51 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=42.219600918738976,-83.75000000000003&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:51 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=67.16528272449847,-83.75000000000003&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:51 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=56.69789518477791,-83.75000000000003&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:51 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=67.16528272449847,-38.75000000000002&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:51 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=42.219600918738976,-61.25000000000002&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:51 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=42.219600918738976,-38.75000000000002&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:58 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:58 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:58 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:58 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:58 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:58 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:58 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:58 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:58 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=7&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=7&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=7&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=7&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=7&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=7&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=7&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=7&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:29:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=7&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:00 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:00 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:00 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:00 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:00 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:00 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:00 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:00 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=6&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:00 (MESZ): Dateischreibfehler: log\log-2010-10-12.txt (Der Prozess kann nicht auf die Datei zugreifen, da sie von einem anderen Prozess verwendet wird)
+2010-10-12 20:30:01 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:01 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:01 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:01 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:01 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:01 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:01 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:01 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:01 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=5&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): Zoom range ends!
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:02 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:03 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:03 (MESZ): Zoom range ends!
+2010-10-12 20:30:03 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:03 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:03 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:03 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:03 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:03 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:03 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:03 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:04 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:04 (MESZ): Zoom range ends!
+2010-10-12 20:30:04 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:04 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:04 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:04 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:04 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:04 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:04 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:04 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:04 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:05 (MESZ): Zoom range ends!
+2010-10-12 20:30:05 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:05 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:05 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:05 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:05 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:05 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:05 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:05 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=4&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:06 (MESZ): Application close currectly!
+2010-10-12 20:30:24 (MESZ): Application did start!
+2010-10-12 20:30:24 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:24 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:24 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:24 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:24 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:24 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:24 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:24 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:24 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:28 (MESZ): Application close currectly!
+2010-10-12 20:30:37 (MESZ): Application close currectly!
+2010-10-12 20:30:38 (MESZ): Application close currectly!
+2010-10-12 20:30:41 (MESZ): Application did start!
+2010-10-12 20:30:41 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:41 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:41 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:41 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:41 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:41 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:41 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:41 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:41 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:46 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:46 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:46 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:46 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:46 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:46 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:46 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:46 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:46 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:48 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:48 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:48 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:48 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:48 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:48 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:49 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:49 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:49 (MESZ): Zoom range ends!
+2010-10-12 20:30:49 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:49 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:49 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:49 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:49 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:49 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:49 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:49 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:49 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:50 (MESZ): Zoom range ends!
+2010-10-12 20:30:50 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:50 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:51 (MESZ): Zoom range ends!
+2010-10-12 20:30:51 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:51 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:51 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:51 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:51 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:51 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:51 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:51 (MESZ): Zoom range ends!
+2010-10-12 20:30:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): Zoom range ends!
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): Zoom range ends!
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): Zoom range ends!
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:53 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:54 (MESZ): Zoom range ends!
+2010-10-12 20:30:54 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:54 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:54 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:54 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:54 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:54 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:54 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:54 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:54 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:54 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:54 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:54 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:58 (MESZ): Zoom range ends!
+2010-10-12 20:30:58 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:58 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:58 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:30:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:20 (MESZ): Application did start!
+2010-10-12 20:31:21 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:21 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:21 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:21 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:21 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:21 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:21 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:21 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:23 (MESZ): Application close currectly!
+2010-10-12 20:31:24 (MESZ): Application close currectly!
+2010-10-12 20:31:27 (MESZ): Application did start!
+2010-10-12 20:31:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=81.34626428377479,-140.00000000000003&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:59 (MESZ): Application did start!
+2010-10-12 20:31:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,-50.00000000000002&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,-50.00000000000002&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,-50.00000000000002&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,-50.00000000000002&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,-50.00000000000002&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,-50.00000000000002&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,-50.00000000000002&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:31:59 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=49.99999999999999,-50.00000000000002&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:08 (MESZ): Application close currectly!
+2010-10-12 20:32:15 (MESZ): Application did start!
+2010-10-12 20:32:15 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:15 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:15 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:16 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:22 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:22 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:22 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:22 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:22 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:22 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:22 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:22 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:22 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:22 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:22 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:22 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:22 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:22 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:22 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:23 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:24 (MESZ): Zoom range ends!
+2010-10-12 20:32:24 (MESZ): Zoom range ends!
+2010-10-12 20:32:25 (MESZ): Zoom range ends!
+2010-10-12 20:32:25 (MESZ): Zoom range ends!
+2010-10-12 20:32:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:27 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): Zoom range ends!
+2010-10-12 20:32:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): Zoom range ends!
+2010-10-12 20:32:29 (MESZ): Zoom range ends!
+2010-10-12 20:32:29 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:29 (MESZ): Zoom range ends!
+2010-10-12 20:32:29 (MESZ): Zoom range ends!
+2010-10-12 20:32:30 (MESZ): Zoom range ends!
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:31 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): Zoom range ends!
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): Zoom range ends!
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): Zoom range ends!
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): Zoom range ends!
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:32:32 (MESZ): Zoom range ends!
+2010-10-12 20:32:33 (MESZ): Zoom range ends!
+2010-10-12 20:32:33 (MESZ): Zoom range ends!
+2010-10-12 20:32:35 (MESZ): Application close currectly!
+2010-10-12 20:34:25 (MESZ): Application did start!
+2010-10-12 20:34:25 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:25 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:25 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:25 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:25 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:25 (MESZ): Dateischreibfehler: log\log-2010-10-12.txt (Der Prozess kann nicht auf die Datei zugreifen, da sie von einem anderen Prozess verwendet wird)
+2010-10-12 20:34:25 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:25 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:26 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:33 (MESZ): Application close currectly!
+2010-10-12 20:34:51 (MESZ): Application did start!
+2010-10-12 20:34:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:52 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=1&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:55 (MESZ): Zoom range ends!
+2010-10-12 20:34:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:56 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:57 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:57 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:34:57 (MESZ): URLImageRequest: Cann't download requested Image from URL: http://maps.google.com/maps/api/staticmap?center=50.0,-50.0&zoom=2&maptype=roadmap&size=400x300&sensor=false
+2010-10-12 20:35:03 (MESZ): Application close currectly!

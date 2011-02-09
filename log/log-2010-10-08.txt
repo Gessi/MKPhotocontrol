@@ -1,0 +1,69 @@
+2010-10-08 10:21:12 (MESZ):Application did start!
+2010-10-08 10:24:10 (MESZ):Application did start!
+2010-10-08 10:24:16 (MESZ):Application did start!
+2010-10-08 13:39:32 (MESZ):Application did start!
+2010-10-08 13:43:05 (MESZ):Application did start!
+2010-10-08 13:55:26 (MESZ):Application did start!
+2010-10-08 13:56:01 (MESZ):Application did start!
+2010-10-08 13:56:44 (MESZ):Application did start!
+2010-10-08 13:57:01 (MESZ):Application did start!
+2010-10-08 13:57:24 (MESZ):Application did start!
+2010-10-08 14:02:16 (MESZ):Application did start!
+2010-10-08 14:02:53 (MESZ):Application did start!
+2010-10-08 14:03:36 (MESZ):Application did start!
+2010-10-08 14:03:53 (MESZ):Application did start!
+2010-10-08 14:13:35 (MESZ):Application did start!
+2010-10-08 14:14:10 (MESZ):Application did start!
+2010-10-08 14:15:14 (MESZ):Application did start!
+2010-10-08 14:16:17 (MESZ):Application did start!
+2010-10-08 14:16:46 (MESZ):Application did start!
+2010-10-08 14:17:31 (MESZ):Application did start!
+2010-10-08 14:17:47 (MESZ):Application did start!
+2010-10-08 14:18:04 (MESZ):Application did start!
+2010-10-08 14:18:10 (MESZ):Application did start!
+2010-10-08 14:18:20 (MESZ):Application did start!
+2010-10-08 14:18:32 (MESZ):Application did start!
+2010-10-08 14:18:53 (MESZ):Application did start!
+2010-10-08 18:33:43 (MESZ):Application did start!
+2010-10-08 18:34:06 (MESZ):No media player found
+2010-10-08 18:39:29 (MESZ):Application did start!
+2010-10-08 18:40:05 (MESZ):No media player found
+2010-10-08 18:41:43 (MESZ):Application did start!
+2010-10-08 18:42:06 (MESZ):No media player found
+2010-10-08 18:43:40 (MESZ):Application did start!
+2010-10-08 18:45:13 (MESZ):Application did start!
+2010-10-08 18:45:27 (MESZ):Application did start!
+2010-10-08 18:45:47 (MESZ):Application did start!
+2010-10-08 18:46:35 (MESZ):Application did start!
+2010-10-08 18:46:51 (MESZ):No media player found
+2010-10-08 18:54:16 (MESZ):Application did start!
+2010-10-08 18:54:28 (MESZ):No media player found
+2010-10-08 18:56:58 (MESZ):Application did start!
+2010-10-08 18:57:07 (MESZ):No media player found
+2010-10-08 18:57:17 (MESZ):Application did start!
+2010-10-08 19:50:42 (MESZ):Application did start!
+2010-10-08 19:53:03 (MESZ):Application did start!
+2010-10-08 19:53:25 (MESZ):No media player found
+2010-10-08 19:55:44 (MESZ):Application did start!
+2010-10-08 19:56:29 (MESZ):Application did start!
+2010-10-08 19:57:20 (MESZ):Application did start!
+2010-10-08 20:11:51 (MESZ):Application did start!
+2010-10-08 20:14:14 (MESZ):Application did start!
+2010-10-08 20:30:52 (MESZ):Application did start!
+2010-10-08 20:35:06 (MESZ):Application did start!
+2010-10-08 20:40:25 (MESZ): Application did start!
+2010-10-08 20:41:05 (MESZ): Application did start!
+2010-10-08 20:42:34 (MESZ): Application did start!
+2010-10-08 20:42:36 (MESZ): Application close currectly!
+2010-10-08 21:10:46 (MESZ): Application did start!
+2010-10-08 21:11:21 (MESZ): Application close currectly!
+2010-10-08 21:15:34 (MESZ): Application did start!
+2010-10-08 21:15:45 (MESZ): Application did start!
+2010-10-08 21:19:23 (MESZ): Application did start!
+2010-10-08 21:19:25 (MESZ): Application close currectly!
+2010-10-08 21:20:19 (MESZ): Application did start!
+2010-10-08 21:20:37 (MESZ): Application close currectly!
+2010-10-08 21:21:16 (MESZ): Application did start!
+2010-10-08 21:21:44 (MESZ): Application did start!
+2010-10-08 21:23:35 (MESZ): Application close currectly!
+2010-10-08 21:23:37 (MESZ): Application close currectly!

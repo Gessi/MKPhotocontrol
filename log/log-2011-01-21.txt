@@ -1,0 +1,1719 @@
+2011-01-21 10:14:38 (MEZ): Application did start!
+2011-01-21 10:14:39 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1121,155,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 10:14:40 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1121,155,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 10:14:43 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 10:14:46 (MEZ): cbmp_console.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Console,when=1295601286268,modifiers=Button1] on cbmp_console
+2011-01-21 10:14:46 (MEZ): Selected
+2011-01-21 10:14:48 (MEZ): cbmp_console.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Console,when=1295601288428,modifiers=Button1] on cbmp_console
+2011-01-21 10:14:48 (MEZ): not selected
+2011-01-21 10:14:50 (MEZ): cbmp_console.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Console,when=1295601290724,modifiers=Button1] on cbmp_console
+2011-01-21 10:14:50 (MEZ): Selected
+2011-01-21 10:14:52 (MEZ): cbmp_console.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Console,when=1295601292444,modifiers=Button1] on cbmp_console
+2011-01-21 10:14:52 (MEZ): not selected
+2011-01-21 10:15:00 (MEZ): cbmp_console.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Console,when=1295601300340,modifiers=Button1] on cbmp_console
+2011-01-21 10:15:00 (MEZ): Selected
+2011-01-21 10:15:02 (MEZ): cbmp_console.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Console,when=1295601302372,modifiers=Button1] on cbmp_console
+2011-01-21 10:15:02 (MEZ): not selected
+2011-01-21 10:15:03 (MEZ): cbmp_console.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Console,when=1295601303996,modifiers=Button1] on cbmp_console
+2011-01-21 10:15:03 (MEZ): Selected
+2011-01-21 10:15:05 (MEZ): cbmp_console.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Console,when=1295601305620,modifiers=Button1] on cbmp_console
+2011-01-21 10:15:05 (MEZ): not selected
+2011-01-21 10:15:07 (MEZ): cbmp_console.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Console,when=1295601307428,modifiers=Button1] on cbmp_console
+2011-01-21 10:15:07 (MEZ): Selected
+2011-01-21 10:15:09 (MEZ): cbmp_console.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Console,when=1295601309044,modifiers=Button1] on cbmp_console
+2011-01-21 10:15:09 (MEZ): not selected
+2011-01-21 10:15:10 (MEZ): cbmp_console.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Console,when=1295601310652,modifiers=Button1] on cbmp_console
+2011-01-21 10:15:10 (MEZ): Selected
+2011-01-21 10:15:12 (MEZ): cbmp_console.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Console,when=1295601312476,modifiers=Button1] on cbmp_console
+2011-01-21 10:15:12 (MEZ): not selected
+2011-01-21 10:15:46 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 10:15:49 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 10:15:50 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 10:15:50 (MEZ): Application close currectly!
+2011-01-21 10:16:50 (MEZ): Application did start!
+2011-01-21 10:16:50 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 10:16:52 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 10:18:20 (MEZ): Application did start!
+2011-01-21 10:18:21 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 10:18:23 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 10:18:39 (MEZ): Application did start!
+2011-01-21 10:18:40 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 10:18:41 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 10:57:59 (MEZ): Application did start!
+2011-01-21 10:58:00 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 10:58:01 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295603881500,modifiers=Button1] on btn_connectCopter
+2011-01-21 10:58:01 (MEZ): ÷ffne Serialport
+2011-01-21 10:58:24 (MEZ): serial Portname: COM12
+2011-01-21 10:58:24 (MEZ): serial Portname: COM13
+2011-01-21 10:58:32 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295603912204,modifiers=Button1] on btn_sendCommand
+2011-01-21 10:58:32 (MEZ): Send: #av@w
+2011-01-21 10:58:42 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 10:58:56 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 10:58:58 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 10:59:10 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 10:59:32 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295603972148,modifiers=Button1] on btn_sendCommand
+2011-01-21 10:59:32 (MEZ): Send: #by}===========MW
+2011-01-21 10:59:41 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295603981628,modifiers=Button1] on btn_sendCommand
+2011-01-21 10:59:41 (MEZ): Send: #by============LW
+2011-01-21 10:59:52 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295603992668,modifiers=Button1] on btn_sendCommand
+2011-01-21 10:59:52 (MEZ): Send: #by0===========LJ
+2011-01-21 11:00:23 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295604023508,modifiers=Button1] on btn_sendCommand
+2011-01-21 11:00:23 (MEZ): Send: #byß===========NA
+2011-01-21 11:00:37 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295604037444,modifiers=Button1] on btn_sendCommand
+2011-01-21 11:00:37 (MEZ): Send: #by-===========LG
+2011-01-21 11:00:54 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295604054108,modifiers=Button1] on btn_sendCommand
+2011-01-21 11:00:54 (MEZ): Send: #by!===========K{
+2011-01-21 11:02:01 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295604121660,modifiers=Button1] on btn_sendCommand
+2011-01-21 11:02:01 (MEZ): Send: #by}===========MW
+2011-01-21 11:02:39 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295604159668,modifiers=Button1] on btn_sendCommand
+2011-01-21 11:02:39 (MEZ): Send: #by!===========K{
+2011-01-21 11:03:33 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 11:04:01 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 11:04:17 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:30:33 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:30:39 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:30:43 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:30:46 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:30:46 (MEZ): Application close currectly!
+2011-01-21 13:30:57 (MEZ): Application did start!
+2011-01-21 13:30:58 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 13:31:50 (MEZ): cbmp_3DViewWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=3D Ansicht,when=1295613110238,modifiers=Button1] on cbmp_3DViewWindow
+2011-01-21 13:31:51 (MEZ): TEST
+2011-01-21 13:32:09 (MEZ): showSatellite.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Google Satellitenbild,when=1295613129449,modifiers=Button1] on showSatellite
+2011-01-21 13:32:09 (MEZ): http://maps.google.com/maps/api/staticmap?center=50.97373499999999,11.022398999999984&zoom=16&maptype=satellite&size=500x360&sensor=false
+2011-01-21 13:32:09 (MEZ): Image has been loaded.
+2011-01-21 13:32:14 (MEZ): cbmp_console.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Console,when=1295613134742,modifiers=] on cbmp_console
+2011-01-21 13:32:14 (MEZ): Selected
+2011-01-21 13:32:17 (MEZ): cbmp_console.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Console,when=1295613137502,modifiers=] on cbmp_console
+2011-01-21 13:32:17 (MEZ): not selected
+2011-01-21 13:32:35 (MEZ): cbmp_3DViewWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=3D Ansicht,when=1295613155004,modifiers=] on cbmp_3DViewWindow
+2011-01-21 13:33:14 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:39:52 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:39:52 (MEZ): Application close currectly!
+2011-01-21 13:47:58 (MEZ): Application did start!
+2011-01-21 13:47:59 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 13:48:02 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295614082057,modifiers=Button1] on btn_makePhoto
+2011-01-21 13:48:02 (MEZ): Please open connection at first.
+2011-01-21 13:48:04 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295614084553,modifiers=Button1] on btn_connectCopter
+2011-01-21 13:48:04 (MEZ): ÷ffne Serialport
+2011-01-21 13:48:33 (MEZ): serial Portname: COM12
+2011-01-21 13:48:33 (MEZ): serial Portname: COM13
+2011-01-21 13:48:44 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295614124105,modifiers=Button1] on btn_makePhoto
+2011-01-21 13:48:44 (MEZ): Send: #by}===========MW
+2011-01-21 13:48:44 (MEZ): Send: #by?===========I]
+2011-01-21 13:49:02 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:49:12 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:49:27 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295614167830,modifiers=Button1] on btn_sendCommand
+2011-01-21 13:49:27 (MEZ): Send: #av@w
+2011-01-21 13:49:33 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:49:33 (MEZ): Application close currectly!
+2011-01-21 13:49:36 (MEZ): Application did start!
+2011-01-21 13:49:37 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 13:49:39 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295614179578,modifiers=Button1] on btn_connectCopter
+2011-01-21 13:49:39 (MEZ): ÷ffne Serialport
+2011-01-21 13:50:03 (MEZ): serial Portname: COM12
+2011-01-21 13:50:03 (MEZ): serial Portname: COM13
+2011-01-21 13:50:03 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:50:03 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:50:03 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:50:03 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:50:09 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:50:12 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:50:23 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295614223505,modifiers=Button1] on btn_sendCommand
+2011-01-21 13:50:23 (MEZ): Send: txt_commandInputWk
+2011-01-21 13:50:28 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295614228617,modifiers=Button1] on btn_sendCommand
+2011-01-21 13:50:28 (MEZ): Send: txt_commandInputWk
+2011-01-21 13:50:39 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295614239737,modifiers=Button1] on btn_makePhoto
+2011-01-21 13:50:39 (MEZ): Send: #by?===========I]
+2011-01-21 13:50:39 (MEZ): Send: #by}===========MW
+2011-01-21 13:50:49 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:51:15 (MEZ): Application did start!
+2011-01-21 13:51:16 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 13:51:17 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295614277665,modifiers=Button1] on btn_connectCopter
+2011-01-21 13:51:17 (MEZ): ÷ffne Serialport
+2011-01-21 13:51:42 (MEZ): serial Portname: COM12
+2011-01-21 13:51:42 (MEZ): serial Portname: COM13
+2011-01-21 13:52:16 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295614336370,modifiers=Button1] on btn_makePhoto
+2011-01-21 13:52:16 (MEZ): Send: #by}===========MW
+2011-01-21 13:52:16 (MEZ): Send: #by ===========KZ
+2011-01-21 13:52:22 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:54:18 (MEZ): Application did start!
+2011-01-21 13:54:19 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 13:54:28 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 13:54:28 (MEZ): Application close currectly!
+2011-01-21 14:07:38 (MEZ): Application did start!
+2011-01-21 14:07:39 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:07:40 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295615260641,modifiers=Button1] on btn_connectCopter
+2011-01-21 14:07:40 (MEZ): ÷ffne Serialport
+2011-01-21 14:08:13 (MEZ): Application did start!
+2011-01-21 14:08:14 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:08:15 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295615295137,modifiers=Button1] on btn_connectCopter
+2011-01-21 14:08:15 (MEZ): ÷ffne Serialport
+2011-01-21 14:08:37 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:08:38 (MEZ): serial Portname: COM12
+2011-01-21 14:08:38 (MEZ): serial Portname: COM13
+2011-01-21 14:08:45 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:08:47 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:09:00 (MEZ): Application did start!
+2011-01-21 14:09:01 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:09:02 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295615342425,modifiers=Button1] on btn_connectCopter
+2011-01-21 14:09:02 (MEZ): ÷ffne Serialport
+2011-01-21 14:09:27 (MEZ): serial Portname: COM12
+2011-01-21 14:09:27 (MEZ): serial Portname: COM13
+2011-01-21 14:09:55 (MEZ): Application did start!
+2011-01-21 14:09:56 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:09:58 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295615398401,modifiers=Button1] on btn_connectCopter
+2011-01-21 14:09:58 (MEZ): ÷ffne Serialport
+2011-01-21 14:10:20 (MEZ): serial Portname: COM12
+2011-01-21 14:10:20 (MEZ): serial Portname: COM13
+2011-01-21 14:10:48 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295615448297,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:10:48 (MEZ): Send: #by}===========MW
+2011-01-21 14:10:48 (MEZ): Send: #by}===========MW
+2011-01-21 14:10:55 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295615455490,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:10:55 (MEZ): Send: #by}===========MW
+2011-01-21 14:10:55 (MEZ): Send: #by}===========MW
+2011-01-21 14:10:58 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:16:39 (MEZ): Application did start!
+2011-01-21 14:16:40 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:16:41 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295615801649,modifiers=Button1] on btn_connectCopter
+2011-01-21 14:16:41 (MEZ): ÷ffne Serialport
+2011-01-21 14:16:42 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295615802881,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:16:42 (MEZ): Please open connection at first.
+2011-01-21 14:17:05 (MEZ): serial Portname: COM12
+2011-01-21 14:17:05 (MEZ): serial Portname: COM13
+2011-01-21 14:17:48 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295615868737,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:17:48 (MEZ): Send: #bc!AF
+2011-01-21 14:17:56 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295615876314,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:17:56 (MEZ): Send: #bcMAr
+2011-01-21 14:17:58 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:18:43 (MEZ): Application did start!
+2011-01-21 14:18:44 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:18:46 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295615926249,modifiers=Button1] on btn_connectCopter
+2011-01-21 14:18:46 (MEZ): ÷ffne Serialport
+2011-01-21 14:19:10 (MEZ): serial Portname: COM12
+2011-01-21 14:19:10 (MEZ): serial Portname: COM13
+2011-01-21 14:19:10 (MEZ): Port belegt
+2011-01-21 14:19:21 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:19:26 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:19:26 (MEZ): Application close currectly!
+2011-01-21 14:19:36 (MEZ): Application did start!
+2011-01-21 14:19:37 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:19:40 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295615980562,modifiers=Button1] on btn_connectCopter
+2011-01-21 14:19:40 (MEZ): ÷ffne Serialport
+2011-01-21 14:19:55 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:20:04 (MEZ): serial Portname: COM12
+2011-01-21 14:20:04 (MEZ): serial Portname: COM13
+2011-01-21 14:20:07 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:20:12 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295616012017,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:20:12 (MEZ): Send: #av@w
+2011-01-21 14:20:12 (MEZ): #
+2011-01-21 14:20:12 (MEZ): cV=>UH============PM
+2011-01-21 14:20:18 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295616018443,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:20:18 (MEZ): Send: #bcMAr
+2011-01-21 14:20:18 (MEZ): #
+2011-01-21 14:20:18 (MEZ): cC?M=D=LMC============TH
+2011-01-21 14:20:19 (MEZ): #
+2011-01-21 14:20:19 (MEZ): cC?]=C=LiC============Ts
+2011-01-21 14:20:19 (MEZ): #
+2011-01-21 14:20:19 (MEZ): cC?]=C=L=C============TG
+2011-01-21 14:20:20 (MEZ): #cC
+2011-01-21 14:20:20 (MEZ): ?]=C=LAC============TK
+2011-01-21 14:20:21 (MEZ): #
+2011-01-21 14:20:21 (MEZ): cC?]=D=KyC============UC
+2011-01-21 14:20:21 (MEZ): #
+2011-01-21 14:20:21 (MEZ): cC?]=D=LIC============TT
+2011-01-21 14:20:22 (MEZ): #cC?
+2011-01-21 14:20:22 (MEZ): ]=C=LMC============TW
+2011-01-21 14:20:28 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295616028913,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:20:28 (MEZ): Send: #bc!AF
+2011-01-21 14:20:28 (MEZ): #
+2011-01-21 14:20:29 (MEZ): cC?]=C=L]C============Tg
+2011-01-21 14:20:30 (MEZ): #
+2011-01-21 14:20:30 (MEZ): cC?]=C=K]C============Tf
+2011-01-21 14:20:31 (MEZ): #c
+2011-01-21 14:20:31 (MEZ): C?]=D=KeC============To
+2011-01-21 14:20:41 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295616041777,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:20:41 (MEZ): Send: #bc=Ab
+2011-01-21 14:20:45 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295616045313,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:20:45 (MEZ): Send: #bc=Ab
+2011-01-21 14:20:53 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295616053866,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:20:53 (MEZ): Send: #bcGAl
+2011-01-21 14:20:53 (MEZ): #
+2011-01-21 14:20:53 (MEZ): cC?]=D=KmC============Tw
+2011-01-21 14:20:54 (MEZ): #c
+2011-01-21 14:20:54 (MEZ): C?]=D=L=C============TH
+2011-01-21 14:20:54 (MEZ): #
+2011-01-21 14:20:54 (MEZ): cC?]=D=LEC============TP
+2011-01-21 14:20:55 (MEZ): #
+2011-01-21 14:20:55 (MEZ): cC?M=D=KmC============Tg
+2011-01-21 14:20:55 (MEZ): #
+2011-01-21 14:20:55 (MEZ): cC?M=C=KqC============Tj
+2011-01-21 14:20:55 (MEZ): #cC?
+2011-01-21 14:20:55 (MEZ): M=C=LAC============S{
+2011-01-21 14:20:56 (MEZ): #cC
+2011-01-21 14:20:56 (MEZ): ?]=D=LMC============TX
+2011-01-21 14:20:56 (MEZ): #
+2011-01-21 14:20:56 (MEZ): cC?]=C=LUC============T_
+2011-01-21 14:20:57 (MEZ): #
+2011-01-21 14:20:57 (MEZ): cC?M=D=LqC============Tl
+2011-01-21 14:20:57 (MEZ): #cC
+2011-01-21 14:20:57 (MEZ): ?M=D=LiC============Td
+2011-01-21 14:21:00 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295616060225,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:21:00 (MEZ): Send: #bcGAl
+2011-01-21 14:21:00 (MEZ): #
+2011-01-21 14:21:00 (MEZ): cC?]=D=LYC============Td
+2011-01-21 14:21:00 (MEZ): #cC?
+2011-01-21 14:21:00 (MEZ): ]=D=LaC============Tl
+2011-01-21 14:21:01 (MEZ): #
+2011-01-21 14:21:01 (MEZ): cC?M=D=LuC============Tp
+2011-01-21 14:21:01 (MEZ): #c
+2011-01-21 14:21:01 (MEZ): C?]=C=L]C============Tg
+2011-01-21 14:21:01 (MEZ): #cC?
+2011-01-21 14:21:01 (MEZ): ]=D=LMC============TX
+2011-01-21 14:21:02 (MEZ): #
+2011-01-21 14:21:02 (MEZ): cC?M=D=LMC============TH
+2011-01-21 14:21:02 (MEZ): #
+2011-01-21 14:21:02 (MEZ): cC?]=D=LMC============TX
+2011-01-21 14:21:03 (MEZ): #cC?
+2011-01-21 14:21:03 (MEZ): ]=C=KuC============U>
+2011-01-21 14:21:03 (MEZ): #
+2011-01-21 14:21:03 (MEZ): cC?]=D=LAC============TL
+2011-01-21 14:21:03 (MEZ): #c
+2011-01-21 14:21:03 (MEZ): C?M=D=LEC============T@
+2011-01-21 14:21:05 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295616065403,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:21:05 (MEZ): Send: #bcGAl
+2011-01-21 14:21:05 (MEZ): #
+2011-01-21 14:21:05 (MEZ): cC?M=D=KiC============Tc
+2011-01-21 14:21:05 (MEZ): #cC?
+2011-01-21 14:21:05 (MEZ): M=C=L]C============TW
+2011-01-21 14:21:06 (MEZ): #
+2011-01-21 14:21:06 (MEZ): cC?]=C=LMC============TW
+2011-01-21 14:21:06 (MEZ): #c
+2011-01-21 14:21:06 (MEZ): C?M=D=LYC============TT
+2011-01-21 14:21:07 (MEZ): #
+2011-01-21 14:21:07 (MEZ): cC?M=D=KaC============T[
+2011-01-21 14:21:07 (MEZ): #
+2011-01-21 14:21:07 (MEZ): cC?M=D=KYC============TS
+2011-01-21 14:21:07 (MEZ): #cC
+2011-01-21 14:21:07 (MEZ): ?M=D=KQC============TK
+2011-01-21 14:21:08 (MEZ): #
+2011-01-21 14:21:08 (MEZ): cC?M=D=LQC============TL
+2011-01-21 14:21:08 (MEZ): #c
+2011-01-21 14:21:08 (MEZ): C?M=C=LYC============TS
+2011-01-21 14:21:09 (MEZ): #
+2011-01-21 14:21:09 (MEZ): cC?]=C=LYC============Tc
+2011-01-21 14:21:10 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295616070338,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:21:10 (MEZ): Send: #bcGAl
+2011-01-21 14:21:10 (MEZ): #
+2011-01-21 14:21:10 (MEZ): cC?M=D=LeC============T`
+2011-01-21 14:21:10 (MEZ): #c
+2011-01-21 14:21:10 (MEZ): C?M=D=LIC============TD
+2011-01-21 14:21:11 (MEZ): #cC?
+2011-01-21 14:21:11 (MEZ): ]=D=LEC============TP
+2011-01-21 14:21:11 (MEZ): #
+2011-01-21 14:21:11 (MEZ): cC?]=D=LMC============TX
+2011-01-21 14:21:12 (MEZ): #c
+2011-01-21 14:21:12 (MEZ): C?]=D=L=C============TH
+2011-01-21 14:21:12 (MEZ): #
+2011-01-21 14:21:12 (MEZ): cC?M=D=KeC============T_
+2011-01-21 14:21:12 (MEZ): #
+2011-01-21 14:21:12 (MEZ): cC?M=C=KaC============TZ
+2011-01-21 14:21:13 (MEZ): #
+2011-01-21 14:21:13 (MEZ): cC?M=D=LEC============T@
+2011-01-21 14:21:13 (MEZ): #cC
+2011-01-21 14:21:13 (MEZ): ?M=C=LUC============TO
+2011-01-21 14:21:14 (MEZ): #
+2011-01-21 14:21:14 (MEZ): cC?]=C=KaC============Tj
+2011-01-21 14:21:16 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:21:42 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:21:43 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295616103066,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:21:43 (MEZ): Send: #by}===========MW
+2011-01-21 14:21:43 (MEZ): Send: #by?===========I]
+2011-01-21 14:21:49 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295616109497,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:21:49 (MEZ): Send: #by}===========MW
+2011-01-21 14:21:49 (MEZ): Send: #by?===========I]
+2011-01-21 14:24:27 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:24:27 (MEZ): Application close currectly!
+2011-01-21 14:28:34 (MEZ): Application did start!
+2011-01-21 14:28:34 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:28:37 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295616517793,modifiers=Button1] on btn_connectCopter
+2011-01-21 14:28:37 (MEZ): ÷ffne Serialport
+2011-01-21 14:28:38 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:28:57 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:29:05 (MEZ): serial Portname: COM12
+2011-01-21 14:29:05 (MEZ): serial Portname: COM13
+2011-01-21 14:29:15 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295616555921,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:29:15 (MEZ): Send: #by!===========K{
+2011-01-21 14:29:25 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295616565057,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:29:25 (MEZ): Send: #by!===========K{
+2011-01-21 14:29:43 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295616583881,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:29:43 (MEZ): Send: #by}===========MW
+2011-01-21 14:29:44 (MEZ): Send: #by?===========I]
+2011-01-21 14:30:27 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:31:03 (MEZ): Application did start!
+2011-01-21 14:31:04 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:31:09 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:31:11 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:31:12 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295616672841,modifiers=Button1] on btn_connectCopter
+2011-01-21 14:31:12 (MEZ): ÷ffne Serialport
+2011-01-21 14:31:37 (MEZ): serial Portname: COM12
+2011-01-21 14:31:37 (MEZ): serial Portname: COM13
+2011-01-21 14:32:15 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295616735634,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:32:15 (MEZ): Send: #by}===========MW
+2011-01-21 14:32:15 (MEZ): Send: #by ===========KZ
+2011-01-21 14:32:31 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295616751002,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:32:31 (MEZ): Send: #by!===========K{
+2011-01-21 14:32:36 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295616756633,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:32:36 (MEZ): Send: #by}===========MW
+2011-01-21 14:32:36 (MEZ): Send: #by ===========KZ
+2011-01-21 14:32:39 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295616759417,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:32:39 (MEZ): Send: #by!===========K{
+2011-01-21 14:32:48 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:33:14 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:33:26 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295616806242,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:33:26 (MEZ): Send: #by}===========MW
+2011-01-21 14:33:26 (MEZ): Send: #by ===========KZ
+2011-01-21 14:33:28 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295616808817,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:33:28 (MEZ): Send: #by ===========Kz
+2011-01-21 14:33:43 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:33:43 (MEZ): Application close currectly!
+2011-01-21 14:33:58 (MEZ): Application did start!
+2011-01-21 14:33:59 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:34:15 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295616855402,modifiers=Button1] on btn_connectCopter
+2011-01-21 14:34:15 (MEZ): ÷ffne Serialport
+2011-01-21 14:34:37 (MEZ): serial Portname: COM12
+2011-01-21 14:34:37 (MEZ): serial Portname: COM13
+2011-01-21 14:34:51 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295616891146,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:34:51 (MEZ): Send: #by}===========MW
+2011-01-21 14:34:51 (MEZ): Send: #by ===========Kz
+2011-01-21 14:34:56 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295616896001,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:34:56 (MEZ): Send: #by}===========MW
+2011-01-21 14:34:56 (MEZ): Send: #by ===========Kz
+2011-01-21 14:34:59 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295616899929,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:34:59 (MEZ): Send: #by}===========MW
+2011-01-21 14:35:00 (MEZ): Send: #by ===========Kz
+2011-01-21 14:35:02 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:35:21 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:35:27 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295616927274,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:35:27 (MEZ): Send: #by}===========MW
+2011-01-21 14:35:27 (MEZ): Send: #by ===========Kz
+2011-01-21 14:35:39 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:35:40 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:35:42 (MEZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1295616942378,modifiers=Button1] on cbmp_webcamWindow
+2011-01-21 14:35:42 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,1065,43,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:35:46 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1295616946098,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@16dfa45,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-21 14:35:46 (MEZ): Devices: [DirectSoundCapture : dsound://
+LINEAR, 48000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 48000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 44100.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 32000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 32000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 22050.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 16000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 16000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 11025.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 8000.0 Hz, 8-bit, Mono, Unsigned
+, JavaSound audio capture : javasound://44100
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+, vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-21 14:36:03 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1295616963026,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@16dfa45,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-21 14:36:05 (MEZ): Devices: [DirectSoundCapture : dsound://
+LINEAR, 48000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 48000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 44100.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 32000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 32000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 22050.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 16000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 16000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 11025.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 8000.0 Hz, 8-bit, Mono, Unsigned
+, JavaSound audio capture : javasound://44100
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+, vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-21 14:36:08 (MEZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame1
+2011-01-21 14:36:08 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,959,51,400x295,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x257,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:36:32 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295616992049,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:36:32 (MEZ): Send: #by}===========MW
+2011-01-21 14:36:32 (MEZ): Send: #by ===========Kz
+2011-01-21 14:36:38 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295616998874,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:36:38 (MEZ): Send: #by}===========MW
+2011-01-21 14:36:39 (MEZ): Send: #by ===========Kz
+2011-01-21 14:36:41 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617001457,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:36:41 (MEZ): Send: #by}===========MW
+2011-01-21 14:36:41 (MEZ): Send: #by ===========Kz
+2011-01-21 14:36:42 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617002841,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:36:42 (MEZ): Send: #by}===========MW
+2011-01-21 14:36:42 (MEZ): Send: #by ===========Kz
+2011-01-21 14:36:45 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617005585,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:36:45 (MEZ): Send: #by}===========MW
+2011-01-21 14:36:45 (MEZ): Send: #by ===========Kz
+2011-01-21 14:36:46 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617006553,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:36:46 (MEZ): Send: #by}===========MW
+2011-01-21 14:36:46 (MEZ): Send: #by ===========Kz
+2011-01-21 14:36:48 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617008049,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:36:48 (MEZ): Send: #by}===========MW
+2011-01-21 14:36:48 (MEZ): Send: #by ===========Kz
+2011-01-21 14:36:52 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617012666,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:36:52 (MEZ): Send: #by}===========MW
+2011-01-21 14:36:52 (MEZ): Send: #by ===========Kz
+2011-01-21 14:36:53 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617013810,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:36:53 (MEZ): Send: #by}===========MW
+2011-01-21 14:36:53 (MEZ): Send: #by ===========Kz
+2011-01-21 14:36:55 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617015322,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:36:55 (MEZ): Send: #by}===========MW
+2011-01-21 14:36:55 (MEZ): Send: #by ===========Kz
+2011-01-21 14:37:06 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:38:22 (MEZ): Application did start!
+2011-01-21 14:38:22 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:38:25 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295617105457,modifiers=Button1] on btn_connectCopter
+2011-01-21 14:38:25 (MEZ): ÷ffne Serialport
+2011-01-21 14:38:49 (MEZ): serial Portname: COM12
+2011-01-21 14:38:49 (MEZ): serial Portname: COM13
+2011-01-21 14:39:25 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617165129,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:39:25 (MEZ): Send: #by}===========MW
+2011-01-21 14:39:25 (MEZ): Send: #by ===========Kz
+2011-01-21 14:39:30 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:39:38 (MEZ): Application did start!
+2011-01-21 14:39:39 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:39:40 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295617180841,modifiers=Button1] on btn_connectCopter
+2011-01-21 14:39:40 (MEZ): ÷ffne Serialport
+2011-01-21 14:39:51 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617191138,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:39:51 (MEZ): Please open connection at first.
+2011-01-21 14:39:54 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617194945,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:39:54 (MEZ): Please open connection at first.
+2011-01-21 14:39:58 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617198577,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:39:58 (MEZ): Please open connection at first.
+2011-01-21 14:40:00 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617200545,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:40:00 (MEZ): Please open connection at first.
+2011-01-21 14:40:02 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295617202961,modifiers=Button1] on btn_sendCommand
+2011-01-21 14:40:02 (MEZ): Please open connection at first.
+2011-01-21 14:40:03 (MEZ): serial Portname: COM12
+2011-01-21 14:40:03 (MEZ): serial Portname: COM13
+2011-01-21 14:40:06 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617206074,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:40:06 (MEZ): Send: #by}===========MW
+2011-01-21 14:40:06 (MEZ): Send: #by ===========Kz
+2011-01-21 14:40:07 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617207802,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:40:07 (MEZ): Send: #by}===========MW
+2011-01-21 14:40:07 (MEZ): Send: #by ===========Kz
+2011-01-21 14:40:10 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617210289,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:40:10 (MEZ): Send: #by}===========MW
+2011-01-21 14:40:10 (MEZ): Send: #by ===========Kz
+2011-01-21 14:40:11 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617211969,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:40:11 (MEZ): Send: #by}===========MW
+2011-01-21 14:40:12 (MEZ): Send: #by ===========Kz
+2011-01-21 14:40:15 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617215129,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:40:15 (MEZ): Send: #by}===========MW
+2011-01-21 14:40:15 (MEZ): Send: #by ===========Kz
+2011-01-21 14:40:18 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617218233,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:40:18 (MEZ): Send: #by}===========MW
+2011-01-21 14:40:18 (MEZ): Send: #by ===========Kz
+2011-01-21 14:40:19 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617219977,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:40:19 (MEZ): Send: #by}===========MW
+2011-01-21 14:40:20 (MEZ): Send: #by ===========Kz
+2011-01-21 14:40:21 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617221666,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:40:21 (MEZ): Send: #by}===========MW
+2011-01-21 14:40:21 (MEZ): Send: #by ===========Kz
+2011-01-21 14:40:23 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617223474,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:40:23 (MEZ): Send: #by}===========MW
+2011-01-21 14:40:23 (MEZ): Send: #by ===========Kz
+2011-01-21 14:40:25 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:40:38 (MEZ): Application did start!
+2011-01-21 14:40:39 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:40:42 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617242758,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:40:42 (MEZ): Please open connection at first.
+2011-01-21 14:40:43 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295617243426,modifiers=Button1] on btn_connectCopter
+2011-01-21 14:40:43 (MEZ): ÷ffne Serialport
+2011-01-21 14:41:06 (MEZ): serial Portname: COM12
+2011-01-21 14:41:06 (MEZ): serial Portname: COM13
+2011-01-21 14:41:32 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617292890,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:41:32 (MEZ): Send: #by}===========MW
+2011-01-21 14:41:33 (MEZ): Send: #by ===========Kz
+2011-01-21 14:41:38 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617298577,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:41:38 (MEZ): Send: #by}===========MW
+2011-01-21 14:41:38 (MEZ): Send: #by ===========Kz
+2011-01-21 14:42:04 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617324817,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:42:04 (MEZ): Send: #by}===========MW
+2011-01-21 14:42:04 (MEZ): Send: #by ===========Kz
+2011-01-21 14:42:07 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617327058,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:42:07 (MEZ): Send: #by}===========MW
+2011-01-21 14:42:07 (MEZ): Send: #by ===========Kz
+2011-01-21 14:42:09 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617329274,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:42:09 (MEZ): Send: #by}===========MW
+2011-01-21 14:42:09 (MEZ): Send: #by ===========Kz
+2011-01-21 14:42:11 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617331649,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:42:11 (MEZ): Send: #by}===========MW
+2011-01-21 14:42:11 (MEZ): Send: #by ===========Kz
+2011-01-21 14:42:13 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617333697,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:42:13 (MEZ): Send: #by}===========MW
+2011-01-21 14:42:13 (MEZ): Send: #by ===========Kz
+2011-01-21 14:42:17 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617337265,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:42:17 (MEZ): Send: #by}===========MW
+2011-01-21 14:42:17 (MEZ): Send: #by ===========Kz
+2011-01-21 14:42:19 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617339841,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:42:19 (MEZ): Send: #by}===========MW
+2011-01-21 14:42:19 (MEZ): Send: #by ===========Kz
+2011-01-21 14:42:22 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617342825,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:42:22 (MEZ): Send: #by}===========MW
+2011-01-21 14:42:23 (MEZ): Send: #by ===========Kz
+2011-01-21 14:42:25 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617345514,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:42:25 (MEZ): Send: #by}===========MW
+2011-01-21 14:42:25 (MEZ): Send: #by ===========Kz
+2011-01-21 14:42:28 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617348106,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:42:28 (MEZ): Send: #by}===========MW
+2011-01-21 14:42:28 (MEZ): Send: #by ===========Kz
+2011-01-21 14:42:30 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:42:47 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:43:19 (MEZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1295617399906,modifiers=Button1] on cbmp_webcamWindow
+2011-01-21 14:43:20 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,1065,43,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:43:22 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1295617402865,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@f1f051,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-21 14:43:22 (MEZ): Devices: [DirectSoundCapture : dsound://
+LINEAR, 48000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 48000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 44100.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 32000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 32000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 22050.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 16000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 16000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 11025.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 8000.0 Hz, 8-bit, Mono, Unsigned
+, JavaSound audio capture : javasound://44100
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+, vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-21 14:43:32 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1295617412169,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@f1f051,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-21 14:43:34 (MEZ): Devices: [DirectSoundCapture : dsound://
+LINEAR, 48000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 48000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 44100.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 32000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 32000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 22050.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 16000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 16000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 11025.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 8000.0 Hz, 8-bit, Mono, Unsigned
+, JavaSound audio capture : javasound://44100
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+, vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-21 14:43:37 (MEZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame1
+2011-01-21 14:43:38 (MEZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame1
+2011-01-21 14:43:38 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,578,105,400x300,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:43:41 (MEZ): mp_exit.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Beenden,when=1295617421129,modifiers=Button1] on mp_exit
+2011-01-21 14:43:41 (MEZ): Application close currectly!
+2011-01-21 14:44:41 (MEZ): Application did start!
+2011-01-21 14:44:42 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:44:45 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:45:02 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,846,81,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:45:02 (MEZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1295617502706,modifiers=Button1] on cbmp_webcamWindow
+2011-01-21 14:45:02 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,578,105,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:45:04 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1295617504386,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@dcb03b,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-21 14:45:04 (MEZ): Devices: [DirectSoundCapture : dsound://
+LINEAR, 48000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 48000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 44100.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 32000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 32000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 22050.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 16000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 16000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 11025.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 8000.0 Hz, 8-bit, Mono, Unsigned
+, JavaSound audio capture : javasound://44100
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+, vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-21 14:45:15 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,848,65,400x300,invalid,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:45:18 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617518522,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:45:18 (MEZ): Please open connection at first.
+2011-01-21 14:45:20 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617520338,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:45:20 (MEZ): Please open connection at first.
+2011-01-21 14:45:21 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295617521818,modifiers=Button1] on btn_connectCopter
+2011-01-21 14:45:21 (MEZ): ÷ffne Serialport
+2011-01-21 14:45:45 (MEZ): serial Portname: COM12
+2011-01-21 14:45:45 (MEZ): serial Portname: COM13
+2011-01-21 14:45:54 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617554130,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:45:54 (MEZ): Send: #by}===========MW
+2011-01-21 14:45:54 (MEZ): Send: #by ===========Kz
+2011-01-21 14:46:08 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,848,65,400x300,invalid,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:46:30 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,840,87,555x420,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,539x382,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:46:30 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617590838,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:46:30 (MEZ): Send: #by}===========MW
+2011-01-21 14:46:30 (MEZ): Send: #by ===========Kz
+2011-01-21 14:46:33 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617593894,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:46:33 (MEZ): Send: #by}===========MW
+2011-01-21 14:46:34 (MEZ): Send: #by ===========Kz
+2011-01-21 14:46:36 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617596701,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:46:36 (MEZ): Send: #by}===========MW
+2011-01-21 14:46:36 (MEZ): Send: #by ===========Kz
+2011-01-21 14:46:39 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617599701,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:46:39 (MEZ): Send: #by}===========MW
+2011-01-21 14:46:39 (MEZ): Send: #by ===========Kz
+2011-01-21 14:46:42 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617602405,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:46:42 (MEZ): Send: #by}===========MW
+2011-01-21 14:46:42 (MEZ): Send: #by ===========Kz
+2011-01-21 14:46:44 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617604901,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:46:44 (MEZ): Send: #by}===========MW
+2011-01-21 14:46:45 (MEZ): Send: #by ===========Kz
+2011-01-21 14:46:47 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617607294,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:46:47 (MEZ): Send: #by}===========MW
+2011-01-21 14:46:47 (MEZ): Send: #by ===========Kz
+2011-01-21 14:46:49 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617609958,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:46:49 (MEZ): Send: #by}===========MW
+2011-01-21 14:46:50 (MEZ): Send: #by ===========Kz
+2011-01-21 14:46:54 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617614149,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:46:54 (MEZ): Send: #by ===========Kz
+2011-01-21 14:46:56 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617616813,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:46:56 (MEZ): Send: #by}===========MW
+2011-01-21 14:46:56 (MEZ): Send: #by ===========Kz
+2011-01-21 14:46:59 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295617619685,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:46:59 (MEZ): Send: #by}===========MW
+2011-01-21 14:46:59 (MEZ): Send: #by ===========Kz
+2011-01-21 14:47:03 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:49:24 (MEZ): Application did start!
+2011-01-21 14:49:24 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:54:32 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295618072078,modifiers=Button1] on btn_connectCopter
+2011-01-21 14:54:32 (MEZ): ÷ffne Serialport
+2011-01-21 14:54:38 (MEZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1295618078159,modifiers=Button1] on cbmp_webcamWindow
+2011-01-21 14:54:38 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,578,105,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:54:40 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1295618080931,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@eac5a,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-21 14:54:40 (MEZ): Devices: [DirectSoundCapture : dsound://
+LINEAR, 48000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 48000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 44100.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 32000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 32000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 22050.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 16000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 16000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 11025.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 8000.0 Hz, 8-bit, Mono, Unsigned
+, JavaSound audio capture : javasound://44100
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+, vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-21 14:54:59 (MEZ): serial Portname: COM12
+2011-01-21 14:54:59 (MEZ): serial Portname: COM13
+2011-01-21 14:55:06 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,945,190,400x300,invalid,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:55:06 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618106185,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:55:06 (MEZ): Send: #by}===========MW
+2011-01-21 14:55:06 (MEZ): Send: #by ===========Kz
+2011-01-21 14:55:11 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618111927,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:55:11 (MEZ): Send: #by}===========MW
+2011-01-21 14:55:12 (MEZ): Send: #by ===========Kz
+2011-01-21 14:55:16 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:55:16 (MEZ): Application close currectly!
+2011-01-21 14:55:33 (MEZ): Application did start!
+2011-01-21 14:55:34 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:55:42 (MEZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1295618142753,modifiers=Button1] on cbmp_webcamWindow
+2011-01-21 14:55:42 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,945,190,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:55:44 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,945,190,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:55:44 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295618144279,modifiers=Button1] on btn_connectCopter
+2011-01-21 14:55:44 (MEZ): ÷ffne Serialport
+2011-01-21 14:55:45 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,945,190,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:55:46 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1295618146902,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@16f25a7,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-21 14:55:46 (MEZ): Devices: [DirectSoundCapture : dsound://
+LINEAR, 48000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 48000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 44100.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 32000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 32000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 22050.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 16000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 16000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 11025.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 8000.0 Hz, 8-bit, Mono, Unsigned
+, JavaSound audio capture : javasound://44100
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+, vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-21 14:55:56 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,945,190,400x300,invalid,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:56:07 (MEZ): serial Portname: COM12
+2011-01-21 14:56:07 (MEZ): serial Portname: COM13
+2011-01-21 14:56:09 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618169933,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:56:09 (MEZ): Send: #by}===========MW
+2011-01-21 14:56:10 (MEZ): Send: #by ===========Kz
+2011-01-21 14:56:14 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618174902,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:56:14 (MEZ): Send: #by}===========MW
+2011-01-21 14:56:15 (MEZ): Send: #by ===========Kz
+2011-01-21 14:56:18 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618178154,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:56:18 (MEZ): Send: #by}===========MW
+2011-01-21 14:56:18 (MEZ): Send: #by ===========Kz
+2011-01-21 14:56:21 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618181252,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:56:21 (MEZ): Send: #by}===========MW
+2011-01-21 14:56:21 (MEZ): Send: #by ===========Kz
+2011-01-21 14:56:33 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618193224,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:56:33 (MEZ): Send: #by}===========MW
+2011-01-21 14:56:33 (MEZ): Send: #by ===========Kz
+2011-01-21 14:56:36 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618196441,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:56:36 (MEZ): Send: #by}===========MW
+2011-01-21 14:56:36 (MEZ): Send: #by ===========Kz
+2011-01-21 14:56:45 (MEZ): Error 09 writing data to sd card (R=40).
+
+ FAT16 deinit
+2011-01-21 14:56:45 (MEZ): ...
+2011-01-21 14:56:45 (MEZ): 
+ S
+2011-01-21 14:56:45 (MEZ): DC deinit...okok
+2011-01-21 14:56:57 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618217797,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:56:57 (MEZ): Send: #by}===========MW
+2011-01-21 14:56:57 (MEZ): Send: #by ===========Kz
+2011-01-21 14:57:01 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618221321,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:57:01 (MEZ): Send: #by}===========MW
+2011-01-21 14:57:01 (MEZ): Send: #by ===========Kz
+2011-01-21 14:57:04 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618224619,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:57:04 (MEZ): Send: #by}===========MW
+2011-01-21 14:57:04 (MEZ): Send: #by ===========Kz
+2011-01-21 14:57:13 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:57:17 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:57:18 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618238926,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:57:18 (MEZ): Send: #by}===========MW
+2011-01-21 14:57:19 (MEZ): Send: #by ===========Kz
+2011-01-21 14:57:22 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,945,190,400x300,invalid,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:57:26 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,981,102,400x300,invalid,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:57:26 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618246167,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:57:26 (MEZ): Send: #by}===========MW
+2011-01-21 14:57:26 (MEZ): Send: #by ===========Kz
+2011-01-21 14:57:37 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618257566,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:57:37 (MEZ): Send: #by}===========MW
+2011-01-21 14:57:37 (MEZ): Send: #by ===========Kz
+2011-01-21 14:57:43 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618263758,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:57:43 (MEZ): Send: #by}===========MW
+2011-01-21 14:57:43 (MEZ): Send: #by ===========Kz
+2011-01-21 14:57:51 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618271242,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:57:51 (MEZ): Send: #by}===========MW
+2011-01-21 14:57:51 (MEZ): Send: #by ===========Kz
+2011-01-21 14:57:55 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618275407,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:57:55 (MEZ): Send: #by}===========MW
+2011-01-21 14:57:55 (MEZ): Send: #by ===========Kz
+2011-01-21 14:57:58 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618278786,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:57:58 (MEZ): Send: #by}===========MW
+2011-01-21 14:57:58 (MEZ): Send: #by ===========Kz
+2011-01-21 14:58:03 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618283130,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:58:03 (MEZ): Send: #by}===========MW
+2011-01-21 14:58:03 (MEZ): Send: #by ===========Kz
+2011-01-21 14:58:06 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618286582,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:58:06 (MEZ): Send: #by}===========MW
+2011-01-21 14:58:06 (MEZ): Send: #by ===========Kz
+2011-01-21 14:58:10 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618290818,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:58:10 (MEZ): Send: #by}===========MW
+2011-01-21 14:58:10 (MEZ): Send: #by ===========Kz
+2011-01-21 14:58:24 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618304181,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:58:24 (MEZ): Send: #by}===========MW
+2011-01-21 14:58:24 (MEZ): Send: #by ===========Kz
+2011-01-21 14:58:31 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618311262,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:58:31 (MEZ): Send: #by}===========MW
+2011-01-21 14:58:31 (MEZ): Send: #by ===========Kz
+2011-01-21 14:58:32 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:58:45 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 14:58:48 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618328089,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:58:48 (MEZ): Send: #by}===========MW
+2011-01-21 14:58:48 (MEZ): Send: #by ===========Kz
+2011-01-21 14:59:16 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618356088,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:59:16 (MEZ): Send: #by}===========MW
+2011-01-21 14:59:16 (MEZ): Send: #by ===========Kz
+2011-01-21 14:59:18 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,981,102,400x300,invalid,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:59:26 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,981,102,400x300,invalid,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 14:59:26 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618366137,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:59:26 (MEZ): Send: #by}===========MW
+2011-01-21 14:59:26 (MEZ): Send: #by ===========Kz
+2011-01-21 14:59:29 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618369369,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:59:29 (MEZ): Send: #by}===========MW
+2011-01-21 14:59:29 (MEZ): Send: #by ===========Kz
+2011-01-21 14:59:32 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618372120,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:59:32 (MEZ): Send: #by}===========MW
+2011-01-21 14:59:32 (MEZ): Send: #by ===========Kz
+2011-01-21 14:59:35 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618375957,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:59:35 (MEZ): Send: #by}===========MW
+2011-01-21 14:59:36 (MEZ): Send: #by ===========Kz
+2011-01-21 14:59:38 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618378865,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:59:38 (MEZ): Send: #by}===========MW
+2011-01-21 14:59:39 (MEZ): Send: #by ===========Kz
+2011-01-21 14:59:43 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618383233,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:59:43 (MEZ): Send: #by}===========MW
+2011-01-21 14:59:43 (MEZ): Send: #by ===========Kz
+2011-01-21 14:59:49 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618389057,modifiers=Button1] on btn_makePhoto
+2011-01-21 14:59:49 (MEZ): Send: #by}===========MW
+2011-01-21 14:59:49 (MEZ): Send: #by ===========Kz
+2011-01-21 14:59:51 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,981,102,400x300,invalid,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:00:10 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,981,102,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:00:10 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618410801,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:00:10 (MEZ): Send: #by}===========MW
+2011-01-21 15:00:10 (MEZ): Send: #by ===========Kz
+2011-01-21 15:00:19 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618419953,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:00:19 (MEZ): Send: #by}===========MW
+2011-01-21 15:00:20 (MEZ): Send: #by ===========Kz
+2011-01-21 15:01:00 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618460760,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:01:00 (MEZ): Send: #by}===========MW
+2011-01-21 15:01:00 (MEZ): Send: #by ===========Kz
+2011-01-21 15:01:03 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618463920,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:01:03 (MEZ): Send: #by}===========MW
+2011-01-21 15:01:04 (MEZ): Send: #by ===========Kz
+2011-01-21 15:01:07 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618467054,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:01:07 (MEZ): Send: #by}===========MW
+2011-01-21 15:01:07 (MEZ): Send: #by ===========Kz
+2011-01-21 15:01:10 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618470718,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:01:10 (MEZ): Send: #by}===========MW
+2011-01-21 15:01:10 (MEZ): Send: #by ===========Kz
+2011-01-21 15:01:14 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618474240,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:01:14 (MEZ): Send: #by}===========MW
+2011-01-21 15:01:14 (MEZ): Send: #by ===========Kz
+2011-01-21 15:01:23 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618483137,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:01:23 (MEZ): Send: #by}===========MW
+2011-01-21 15:01:23 (MEZ): Send: #by ===========Kz
+2011-01-21 15:01:26 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618486681,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:01:26 (MEZ): Send: #by}===========MW
+2011-01-21 15:01:26 (MEZ): Send: #by ===========Kz
+2011-01-21 15:01:31 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618491756,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:01:31 (MEZ): Send: #by}===========MW
+2011-01-21 15:01:31 (MEZ): Send: #by ===========Kz
+2011-01-21 15:01:34 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618494602,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:01:34 (MEZ): Send: #by}===========MW
+2011-01-21 15:01:34 (MEZ): Send: #by ===========Kz
+2011-01-21 15:01:37 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618497785,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:01:37 (MEZ): Send: #by}===========MW
+2011-01-21 15:01:37 (MEZ): Send: #by ===========Kz
+2011-01-21 15:01:41 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618501039,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:01:41 (MEZ): Send: #by}===========MW
+2011-01-21 15:01:41 (MEZ): Send: #by ===========Kz
+2011-01-21 15:01:44 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618504246,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:01:44 (MEZ): Send: #by}===========MW
+2011-01-21 15:01:44 (MEZ): Send: #by ===========Kz
+2011-01-21 15:01:47 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618507548,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:01:47 (MEZ): Send: #by}===========MW
+2011-01-21 15:01:47 (MEZ): Send: #by ===========Kz
+2011-01-21 15:01:51 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618511142,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:01:51 (MEZ): Send: #by}===========MW
+2011-01-21 15:01:51 (MEZ): Send: #by ===========Kz
+2011-01-21 15:01:56 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618516869,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:01:56 (MEZ): Send: #by}===========MW
+2011-01-21 15:01:57 (MEZ): Send: #by ===========Kz
+2011-01-21 15:02:00 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618520761,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:02:00 (MEZ): Send: #by}===========MW
+2011-01-21 15:02:00 (MEZ): Send: #by ===========Kz
+2011-01-21 15:02:04 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618524934,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:02:04 (MEZ): Send: #by}===========MW
+2011-01-21 15:02:05 (MEZ): Send: #by ===========Kz
+2011-01-21 15:02:16 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618536965,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:02:17 (MEZ): Send: #by}===========MW
+2011-01-21 15:02:17 (MEZ): Send: #by ===========Kz
+2011-01-21 15:02:23 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618543896,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:02:23 (MEZ): Send: #by}===========MW
+2011-01-21 15:02:24 (MEZ): Send: #by ===========Kz
+2011-01-21 15:02:30 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,981,102,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:03:45 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,981,102,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:03:45 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618625180,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:03:45 (MEZ): Send: #by}===========MW
+2011-01-21 15:03:45 (MEZ): Send: #by ===========Kz
+2011-01-21 15:03:48 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618628516,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:03:48 (MEZ): Send: #by}===========MW
+2011-01-21 15:03:48 (MEZ): Send: #by ===========Kz
+2011-01-21 15:06:24 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:08:30 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:08:31 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618911607,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:08:31 (MEZ): Send: #by}===========MW
+2011-01-21 15:08:31 (MEZ): Send: #by ===========Kz
+2011-01-21 15:08:32 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopterFinshed,when=1295618912791,modifiers=Button1] on btn_connectCopter
+2011-01-21 15:08:34 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:08:34 (MEZ): Application close currectly!
+2011-01-21 15:09:11 (MEZ): Application did start!
+2011-01-21 15:09:12 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:09:12 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:09:27 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:09:30 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295618970728,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:09:30 (MEZ): Please open connection at first.
+2011-01-21 15:09:31 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295618971952,modifiers=Button1] on btn_connectCopter
+2011-01-21 15:09:31 (MEZ): ÷ffne Serialport
+2011-01-21 15:09:55 (MEZ): serial Portname: COM12
+2011-01-21 15:09:55 (MEZ): serial Portname: COM13
+2011-01-21 15:10:05 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619005855,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:10:06 (MEZ): Send: #by}===========MW
+2011-01-21 15:10:06 (MEZ): Send: #by ===========Kz
+2011-01-21 15:10:10 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619010567,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:10:10 (MEZ): Send: #by}===========MW
+2011-01-21 15:10:10 (MEZ): Send: #by ===========Kz
+2011-01-21 15:10:14 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619014063,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:10:14 (MEZ): Send: #by}===========MW
+2011-01-21 15:10:14 (MEZ): Send: #by ===========Kz
+2011-01-21 15:10:19 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619019927,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:10:19 (MEZ): Send: #by}===========MW
+2011-01-21 15:10:20 (MEZ): Send: #by ===========Kz
+2011-01-21 15:10:23 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619023047,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:10:23 (MEZ): Send: #by}===========MW
+2011-01-21 15:10:23 (MEZ): Send: #by ===========Kz
+2011-01-21 15:10:26 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619026919,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:10:26 (MEZ): Send: #by}===========MW
+2011-01-21 15:10:27 (MEZ): Send: #by ===========Kz
+2011-01-21 15:10:30 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619030303,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:10:30 (MEZ): Send: #by}===========MW
+2011-01-21 15:10:30 (MEZ): Send: #by ===========Kz
+2011-01-21 15:10:33 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619033359,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:10:33 (MEZ): Send: #by}===========MW
+2011-01-21 15:10:33 (MEZ): Send: #by ===========Kz
+2011-01-21 15:10:36 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619036647,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:10:36 (MEZ): Send: #by}===========MW
+2011-01-21 15:10:36 (MEZ): Send: #by ===========Kz
+2011-01-21 15:10:40 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619040903,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:10:40 (MEZ): Send: #by}===========MW
+2011-01-21 15:10:41 (MEZ): Send: #by ===========Kz
+2011-01-21 15:10:43 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619043975,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:10:44 (MEZ): Send: #by}===========MW
+2011-01-21 15:10:44 (MEZ): Send: #by ===========Kz
+2011-01-21 15:10:47 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619047799,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:10:47 (MEZ): Send: #by}===========MW
+2011-01-21 15:10:47 (MEZ): Send: #by ===========Kz
+2011-01-21 15:10:52 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619052215,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:10:52 (MEZ): Send: #by}===========MW
+2011-01-21 15:10:52 (MEZ): Send: #by ===========Kz
+2011-01-21 15:10:56 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619056528,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:10:56 (MEZ): Send: #by}===========MW
+2011-01-21 15:10:56 (MEZ): Send: #by ===========Kz
+2011-01-21 15:10:59 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619059623,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:10:59 (MEZ): Send: #by}===========MW
+2011-01-21 15:10:59 (MEZ): Send: #by ===========Kz
+2011-01-21 15:11:04 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619064263,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:11:04 (MEZ): Send: #by}===========MW
+2011-01-21 15:11:04 (MEZ): Send: #by ===========Kz
+2011-01-21 15:11:07 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619067431,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:11:07 (MEZ): Send: #by}===========MW
+2011-01-21 15:11:07 (MEZ): Send: #by ===========Kz
+2011-01-21 15:11:12 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619072719,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:11:12 (MEZ): Send: #by}===========MW
+2011-01-21 15:11:12 (MEZ): Send: #by ===========Kz
+2011-01-21 15:12:14 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619134863,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:12:14 (MEZ): Send: #by}===========MW
+2011-01-21 15:12:14 (MEZ): Send: #by ===========Kz
+2011-01-21 15:12:19 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619139215,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:12:19 (MEZ): Send: #by}===========MW
+2011-01-21 15:12:19 (MEZ): Send: #by ===========Kz
+2011-01-21 15:12:22 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619142215,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:12:22 (MEZ): Send: #by}===========MW
+2011-01-21 15:12:22 (MEZ): Send: #by ===========Kz
+2011-01-21 15:12:25 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619145767,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:12:25 (MEZ): Send: #by}===========MW
+2011-01-21 15:12:25 (MEZ): Send: #by ===========Kz
+2011-01-21 15:12:29 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619148991,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:12:29 (MEZ): Send: #by}===========MW
+2011-01-21 15:12:29 (MEZ): Send: #by ===========Kz
+2011-01-21 15:12:32 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:12:45 (MEZ): Application did start!
+2011-01-21 15:12:46 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:12:47 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295619167527,modifiers=Button1] on btn_connectCopter
+2011-01-21 15:12:47 (MEZ): ÷ffne Serialport
+2011-01-21 15:13:10 (MEZ): serial Portname: COM12
+2011-01-21 15:13:10 (MEZ): serial Portname: COM13
+2011-01-21 15:13:14 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619194983,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:13:14 (MEZ): Send: #by»===========Nb
+2011-01-21 15:13:15 (MEZ): Send: #by ===========Kz
+2011-01-21 15:13:18 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619198287,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:13:18 (MEZ): Send: #by»===========Nb
+2011-01-21 15:13:18 (MEZ): Send: #by ===========Kz
+2011-01-21 15:13:21 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619201623,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:13:21 (MEZ): Send: #by»===========Nb
+2011-01-21 15:13:21 (MEZ): Send: #by ===========Kz
+2011-01-21 15:13:25 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619205127,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:13:25 (MEZ): Send: #by»===========Nb
+2011-01-21 15:13:25 (MEZ): Send: #by ===========Kz
+2011-01-21 15:13:28 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619208263,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:13:28 (MEZ): Send: #by»===========Nb
+2011-01-21 15:13:28 (MEZ): Send: #by ===========Kz
+2011-01-21 15:13:33 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619213880,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:13:33 (MEZ): Send: #by»===========Nb
+2011-01-21 15:13:33 (MEZ): Send: #by ===========Kz
+2011-01-21 15:13:37 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619217527,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:13:37 (MEZ): Send: #by»===========Nb
+2011-01-21 15:13:37 (MEZ): Send: #by ===========Kz
+2011-01-21 15:13:43 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619223487,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:13:43 (MEZ): Send: #by»===========Nb
+2011-01-21 15:13:43 (MEZ): Send: #by ===========Kz
+2011-01-21 15:13:48 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619228703,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:13:48 (MEZ): Send: #by»===========Nb
+2011-01-21 15:13:48 (MEZ): Send: #by ===========Kz
+2011-01-21 15:14:07 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619247143,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:14:07 (MEZ): Send: #by»===========Nb
+2011-01-21 15:14:07 (MEZ): Send: #by ===========Kz
+2011-01-21 15:14:11 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619251327,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:14:11 (MEZ): Send: #by»===========Nb
+2011-01-21 15:14:11 (MEZ): Send: #by ===========Kz
+2011-01-21 15:14:14 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619254855,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:14:14 (MEZ): Send: #by»===========Nb
+2011-01-21 15:14:14 (MEZ): Send: #by ===========Kz
+2011-01-21 15:14:18 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619258399,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:14:18 (MEZ): Send: #by»===========Nb
+2011-01-21 15:14:18 (MEZ): Send: #by ===========Kz
+2011-01-21 15:14:21 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619261655,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:14:21 (MEZ): Send: #by»===========Nb
+2011-01-21 15:14:21 (MEZ): Send: #by ===========Kz
+2011-01-21 15:14:24 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619264647,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:14:24 (MEZ): Send: #by»===========Nb
+2011-01-21 15:14:24 (MEZ): Send: #by ===========Kz
+2011-01-21 15:14:27 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619267767,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:14:27 (MEZ): Send: #by»===========Nb
+2011-01-21 15:14:27 (MEZ): Send: #by ===========Kz
+2011-01-21 15:14:32 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619272479,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:14:32 (MEZ): Send: #by»===========Nb
+2011-01-21 15:14:32 (MEZ): Send: #by ===========Kz
+2011-01-21 15:17:12 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619432671,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:17:12 (MEZ): Send: #by»===========Nb
+2011-01-21 15:17:12 (MEZ): Send: #by ===========Kz
+2011-01-21 15:17:15 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619435711,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:17:15 (MEZ): Send: #by»===========Nb
+2011-01-21 15:17:15 (MEZ): Send: #by ===========Kz
+2011-01-21 15:17:22 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619442248,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:17:22 (MEZ): Send: #by»===========Nb
+2011-01-21 15:17:22 (MEZ): Send: #by ===========Kz
+2011-01-21 15:17:25 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619445311,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:17:25 (MEZ): Send: #by»===========Nb
+2011-01-21 15:17:25 (MEZ): Send: #by ===========Kz
+2011-01-21 15:17:28 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619448303,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:17:28 (MEZ): Send: #by»===========Nb
+2011-01-21 15:17:28 (MEZ): Send: #by ===========Kz
+2011-01-21 15:17:31 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619451887,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:17:31 (MEZ): Send: #by»===========Nb
+2011-01-21 15:17:32 (MEZ): Send: #by ===========Kz
+2011-01-21 15:17:35 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:17:46 (MEZ): Application did start!
+2011-01-21 15:17:47 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:17:52 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619472927,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:17:52 (MEZ): Please open connection at first.
+2011-01-21 15:17:54 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295619474919,modifiers=Button1] on btn_connectCopter
+2011-01-21 15:17:54 (MEZ): ÷ffne Serialport
+2011-01-21 15:18:17 (MEZ): serial Portname: COM12
+2011-01-21 15:18:17 (MEZ): serial Portname: COM13
+2011-01-21 15:18:22 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619502055,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:18:22 (MEZ): Send: #by»===========Nb
+2011-01-21 15:18:22 (MEZ): Send: #by ===========Kz
+2011-01-21 15:18:27 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619506999,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:18:27 (MEZ): Send: #by»===========Nb
+2011-01-21 15:18:27 (MEZ): Send: #by ===========Kz
+2011-01-21 15:18:31 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619511759,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:18:31 (MEZ): Send: #by»===========Nb
+2011-01-21 15:18:31 (MEZ): Send: #by ===========Kz
+2011-01-21 15:18:51 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619531759,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:18:51 (MEZ): Send: #bcMAr
+2011-01-21 15:18:51 (MEZ): #
+2011-01-21 15:18:51 (MEZ): cC==@y|mU=============VP
+2011-01-21 15:18:52 (MEZ): #
+2011-01-21 15:18:52 (MEZ): cC==@y|mYK============Vb
+2011-01-21 15:18:53 (MEZ): #cC=
+2011-01-21 15:18:53 (MEZ): =@y|mU=============VP
+2011-01-21 15:18:53 (MEZ): #
+2011-01-21 15:18:53 (MEZ): cC==@y|my=============Vt
+2011-01-21 15:18:54 (MEZ): #
+2011-01-21 15:18:54 (MEZ): cC==@y|mE=============V@
+2011-01-21 15:18:55 (MEZ): #
+2011-01-21 15:18:55 (MEZ): cC==@y|m==============Ux
+2011-01-21 15:18:55 (MEZ): #cC=
+2011-01-21 15:18:55 (MEZ): =@y|nA=============V=
+2011-01-21 15:18:57 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619537551,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:18:57 (MEZ): Send: #av@w
+2011-01-21 15:18:57 (MEZ): #
+2011-01-21 15:18:57 (MEZ): cV=>UH============PM
+2011-01-21 15:19:17 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619557335,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:19:17 (MEZ): Send: #by»===========Nb
+2011-01-21 15:19:17 (MEZ): Send: #by ===========Kz
+2011-01-21 15:19:24 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619564689,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:19:24 (MEZ): Send: #by}===========MW
+2011-01-21 15:19:27 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619567879,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:19:27 (MEZ): Send: #by}===========MW
+2011-01-21 15:19:29 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619569375,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:19:29 (MEZ): Send: #by}===========MW
+2011-01-21 15:19:31 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619571839,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:19:31 (MEZ): Send: #by}===========MW
+2011-01-21 15:19:33 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619573079,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:19:33 (MEZ): Send: #by}===========MW
+2011-01-21 15:19:37 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619577535,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:19:37 (MEZ): Send: #by}===========MW
+2011-01-21 15:19:46 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619586055,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:19:46 (MEZ): Send: #by ===========Kz
+2011-01-21 15:19:49 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619589959,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:19:49 (MEZ): Send: #by ===========Kz
+2011-01-21 15:19:57 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619597143,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:19:57 (MEZ): Send: #by»===========Nb
+2011-01-21 15:19:57 (MEZ): Send: #by ===========Kz
+2011-01-21 15:19:59 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:19:59 (MEZ): Application close currectly!
+2011-01-21 15:20:12 (MEZ): Application did start!
+2011-01-21 15:20:13 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:20:15 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295619615079,modifiers=Button1] on btn_connectCopter
+2011-01-21 15:20:15 (MEZ): ÷ffne Serialport
+2011-01-21 15:20:39 (MEZ): serial Portname: COM12
+2011-01-21 15:20:39 (MEZ): serial Portname: COM13
+2011-01-21 15:20:44 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619644303,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:20:44 (MEZ): Send: #by}===========MW
+2011-01-21 15:20:44 (MEZ): Send: #by ===========Kz
+2011-01-21 15:20:48 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619648791,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:20:48 (MEZ): Send: #by}===========MW
+2011-01-21 15:20:48 (MEZ): Send: #by ===========Kz
+2011-01-21 15:20:53 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619653327,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:20:53 (MEZ): Send: #by}===========MW
+2011-01-21 15:20:53 (MEZ): Send: #by ===========Kz
+2011-01-21 15:21:17 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619677495,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:21:17 (MEZ): Send: #by}===========MW
+2011-01-21 15:21:17 (MEZ): Send: #by ===========Kz
+2011-01-21 15:21:22 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619682823,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:21:22 (MEZ): Send: #by}===========MW
+2011-01-21 15:21:22 (MEZ): Send: #by ===========Kz
+2011-01-21 15:21:27 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619687807,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:21:27 (MEZ): Send: #by}===========MW
+2011-01-21 15:21:27 (MEZ): Send: #by ===========Kz
+2011-01-21 15:21:38 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619698951,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:21:38 (MEZ): Send: #by}===========MW
+2011-01-21 15:21:39 (MEZ): Send: #by ===========Kz
+2011-01-21 15:21:47 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619707055,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:21:47 (MEZ): Send: #by}===========MW
+2011-01-21 15:21:47 (MEZ): Send: #by ===========Kz
+2011-01-21 15:21:51 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619711887,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:21:51 (MEZ): Send: #by}===========MW
+2011-01-21 15:21:52 (MEZ): Send: #by ===========Kz
+2011-01-21 15:21:56 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619716543,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:21:56 (MEZ): Send: #by}===========MW
+2011-01-21 15:21:56 (MEZ): Send: #by ===========Kz
+2011-01-21 15:22:24 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619744511,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:22:24 (MEZ): Send: #by==========J]
+2011-01-21 15:22:30 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619750151,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:22:30 (MEZ): Send: #by}===========MW
+2011-01-21 15:22:30 (MEZ): Send: #by ===========Kz
+2011-01-21 15:22:36 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619756056,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:22:36 (MEZ): Send: #by}===========MW
+2011-01-21 15:22:36 (MEZ): Send: #by ===========Kz
+2011-01-21 15:22:39 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:22:43 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:22:49 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619769383,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:22:49 (MEZ): Send: #by==========J]
+2011-01-21 15:23:03 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619783215,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:23:03 (MEZ): Send: #by@{
+2011-01-21 15:23:10 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619790039,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:23:10 (MEZ): Send: #by}===========MW
+2011-01-21 15:23:10 (MEZ): Send: #by ===========Kz
+2011-01-21 15:23:17 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:23:28 (MEZ): Application did start!
+2011-01-21 15:23:29 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:23:32 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295619812839,modifiers=Button1] on btn_connectCopter
+2011-01-21 15:23:32 (MEZ): ÷ffne Serialport
+2011-01-21 15:23:56 (MEZ): serial Portname: COM12
+2011-01-21 15:23:56 (MEZ): serial Portname: COM13
+2011-01-21 15:24:02 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619842983,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:24:02 (MEZ): Send: #by============LW
+2011-01-21 15:24:03 (MEZ): Send: #by ===========Kz
+2011-01-21 15:24:20 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619860431,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:24:20 (MEZ): Send: #by==========J]
+2011-01-21 15:24:28 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619868447,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:24:28 (MEZ): Send: #by ===========Kz
+2011-01-21 15:24:34 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619874751,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:24:34 (MEZ): Send: #by ===========Kz
+2011-01-21 15:24:39 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619879424,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:24:39 (MEZ): Send: #by============LW
+2011-01-21 15:24:39 (MEZ): Send: #by ===========Kz
+2011-01-21 15:24:48 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopterFinshed,when=1295619888791,modifiers=Button1] on btn_connectCopter
+2011-01-21 15:24:49 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619889807,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:24:49 (MEZ): Send: #by============LW
+2011-01-21 15:24:49 (MEZ): Send: #by ===========Kz
+2011-01-21 15:24:58 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopterFinshed,when=1295619898648,modifiers=Button1] on btn_connectCopter
+2011-01-21 15:25:08 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619908735,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:25:08 (MEZ): Send: #by ===========Kz
+2011-01-21 15:25:10 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619910783,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:25:10 (MEZ): Send: #by ===========Kz
+2011-01-21 15:25:12 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295619912495,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:25:12 (MEZ): Send: #by ===========Kz
+2011-01-21 15:25:17 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619917095,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:25:17 (MEZ): Send: #by============LW
+2011-01-21 15:25:17 (MEZ): Send: #by ===========Kz
+2011-01-21 15:25:27 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:25:35 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:25:36 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295619936527,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:25:36 (MEZ): Send: #by============LW
+2011-01-21 15:25:36 (MEZ): Send: #by ===========Kz
+2011-01-21 15:25:38 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:26:19 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:26:23 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:26:23 (MEZ): Application close currectly!
+2011-01-21 15:37:55 (MEZ): Application did start!
+2011-01-21 15:37:55 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:37:59 (MEZ): mp_settings.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Einstellungen,when=1295620679015,modifiers=Button1] on mp_settings
+2011-01-21 15:37:59 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.app.MKSettingsWindow[frame1,981,102,400x300,layout=java.awt.BorderLayout,title=Einstellungen,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:38:02 (MEZ): btn_save.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Speichern,when=1295620682880,modifiers=Button1] on btn_save
+2011-01-21 15:38:03 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.app.MKSettingsWindow[frame1,981,102,400x300,invalid,hidden,layout=java.awt.BorderLayout,title=Einstellungen,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:38:04 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295620684632,modifiers=Button1] on btn_connectCopter
+2011-01-21 15:38:04 (MEZ): ÷ffne Serialport
+2011-01-21 15:38:20 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:38:27 (MEZ): serial Portname: COM12
+2011-01-21 15:38:27 (MEZ): serial Portname: COM13
+2011-01-21 15:38:27 (MEZ): serial Portname: COM14
+2011-01-21 15:38:27 (MEZ): serial Portname: COM15
+2011-01-21 15:38:27 (MEZ): serial Portname: COM16
+2011-01-21 15:38:27 (MEZ): serial Portname: COM17
+2011-01-21 15:38:27 (MEZ): serial Portname: COM18
+2011-01-21 15:38:27 (MEZ): serial Portname: COM19
+2011-01-21 15:38:27 (MEZ): serial Portname: COM20
+2011-01-21 15:38:27 (MEZ): Port belegt
+2011-01-21 15:38:29 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:38:32 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:40:31 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:40:31 (MEZ): Application close currectly!
+2011-01-21 15:46:03 (MEZ): Application did start!
+2011-01-21 15:46:04 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:46:05 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295621165255,modifiers=Button1] on btn_connectCopter
+2011-01-21 15:46:05 (MEZ): ÷ffne Serialport
+2011-01-21 15:46:13 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:46:16 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:46:18 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:46:21 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:46:23 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:46:25 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:46:46 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:46:46 (MEZ): Application close currectly!
+2011-01-21 15:46:49 (MEZ): Application did start!
+2011-01-21 15:46:50 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:46:51 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295621211871,modifiers=Button1] on btn_connectCopter
+2011-01-21 15:46:51 (MEZ): ÷ffne Serialport
+2011-01-21 15:47:14 (MEZ): serial Portname: COM12
+2011-01-21 15:47:14 (MEZ): serial Portname: COM13
+2011-01-21 15:47:14 (MEZ): serial Portname: COM14
+2011-01-21 15:47:14 (MEZ): serial Portname: COM15
+2011-01-21 15:47:14 (MEZ): serial Portname: COM16
+2011-01-21 15:47:14 (MEZ): serial Portname: COM17
+2011-01-21 15:47:14 (MEZ): serial Portname: COM18
+2011-01-21 15:47:14 (MEZ): serial Portname: COM19
+2011-01-21 15:47:14 (MEZ): serial Portname: COM20
+2011-01-21 15:47:22 (MEZ): mp_settings.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Einstellungen,when=1295621242912,modifiers=Button1] on mp_settings
+2011-01-21 15:47:23 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.app.MKSettingsWindow[frame1,981,102,400x300,layout=java.awt.BorderLayout,title=Einstellungen,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:47:27 (MEZ): btn_save.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Speichern,when=1295621247455,modifiers=Button1] on btn_save
+2011-01-21 15:47:28 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.app.MKSettingsWindow[frame1,981,102,400x300,invalid,layout=java.awt.BorderLayout,title=Einstellungen,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:47:31 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.app.MKSettingsWindow[frame1,981,102,400x300,invalid,layout=java.awt.BorderLayout,title=Einstellungen,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:47:32 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.app.MKSettingsWindow[frame1,981,102,400x300,invalid,hidden,layout=java.awt.BorderLayout,title=Einstellungen,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:47:53 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:48:31 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:48:34 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295621314568,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:48:36 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:48:42 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:48:57 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295621337335,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:48:57 (MEZ): Send: txt_commandInputWk
+2011-01-21 15:48:58 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295621338751,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:48:58 (MEZ): Send: txt_commandInputWk
+2011-01-21 15:48:58 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295621338968,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:48:58 (MEZ): Send: txt_commandInputWk
+2011-01-21 15:48:59 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295621339151,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:48:59 (MEZ): Send: txt_commandInputWk
+2011-01-21 15:48:59 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295621339319,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:48:59 (MEZ): Send: txt_commandInputWk
+2011-01-21 15:48:59 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295621339495,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:48:59 (MEZ): Send: txt_commandInputWk
+2011-01-21 15:48:59 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295621339655,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:48:59 (MEZ): Send: txt_commandInputWk
+2011-01-21 15:48:59 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295621339791,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:48:59 (MEZ): Send: txt_commandInputWk
+2011-01-21 15:48:59 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295621339959,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:48:59 (MEZ): Send: txt_commandInputWk
+2011-01-21 15:49:00 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295621340143,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:49:00 (MEZ): Send: txt_commandInputWk
+2011-01-21 15:49:00 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295621340311,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:49:00 (MEZ): Send: txt_commandInputWk
+2011-01-21 15:49:00 (MEZ): btn_sendCommand.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonSendCommand,when=1295621340471,modifiers=Button1] on btn_sendCommand
+2011-01-21 15:49:00 (MEZ): Send: txt_commandInputWk
+2011-01-21 15:49:02 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-21 15:49:02 (MEZ): Application close currectly!
+2011-01-21 15:49:28 (MEZ): Application did start!
+2011-01-21 15:49:29 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,1100,68,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-21 15:49:31 (MEZ): btn_connectCopter.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonConnectCopter,when=1295621371951,modifiers=Button1] on btn_connectCopter
+2011-01-21 15:49:31 (MEZ): ÷ffne Serialport
+2011-01-21 15:49:59 (MEZ): serial Portname: COM12
+2011-01-21 15:49:59 (MEZ): serial Portname: COM13
+2011-01-21 15:50:51 (MEZ): btn_makePhoto.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=buttonMakePhoto,when=1295621451295,modifiers=Button1] on btn_makePhoto
+2011-01-21 15:50:54 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame

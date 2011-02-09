@@ -1,0 +1,20 @@
+2010-10-27 09:20:47 (MESZ): Application did start!
+2010-10-27 09:20:59 (MESZ): Application close currectly!
+2010-10-27 17:02:39 (MESZ): Application did start!
+2010-10-27 17:02:41 (MESZ): Eine 3D Darstellung ist derzeitig nur unter Windows mšglich.
+2010-10-27 18:52:33 (MESZ): Application did start!
+2010-10-27 18:52:35 (MESZ): Application close currectly!
+2010-10-27 20:19:23 (MESZ): Application did start!
+2010-10-27 20:21:14 (MESZ): Application did start!
+2010-10-27 20:21:24 (MESZ): No bluetooht module founded!
+2010-10-27 20:31:37 (MESZ): Application close currectly!
+2010-10-27 22:12:45 (MESZ): Application did start!
+2010-10-27 22:12:48 (MESZ): No bluetooht module founded!
+2010-10-27 22:13:18 (MESZ): Application did start!
+2010-10-27 22:13:23 (MESZ): No bluetooht module founded!
+2010-10-27 22:13:57 (MESZ): Application did start!
+2010-10-27 22:14:01 (MESZ): No bluetooht module founded!
+2010-10-27 22:14:06 (MESZ): Application close currectly!
+2010-10-27 22:17:20 (MESZ): Application did start!
+2010-10-27 22:17:22 (MESZ): No bluetooht module founded!
+2010-10-27 22:17:28 (MESZ): Application close currectly!

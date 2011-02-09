@@ -1,0 +1,37 @@
+2010-10-24 11:41:23 (MESZ): Application did start!
+2010-10-24 11:42:20 (MESZ): Waypoint wurde angelegt, Lat:50.97400788159907 Long:11.02902889251709
+2010-10-24 11:42:20 (MESZ): Waypoint wurde angelegt, Lat:50.97412948326711 Long:11.030874252319336
+2010-10-24 11:42:21 (MESZ): Waypoint wurde angelegt, Lat:50.97308910314929 Long:11.031174659729004
+2010-10-24 11:42:22 (MESZ): Waypoint wurde angelegt, Lat:50.97308910314929 Long:11.029908657073975
+2010-10-24 11:42:22 (MESZ): Waypoint wurde angelegt, Lat:50.97358902897198 Long:11.033170223236084
+2010-10-24 11:42:23 (MESZ): Waypoint wurde angelegt, Lat:50.9743186407845 Long:11.03252649307251
+2010-10-24 11:42:24 (MESZ): Waypoint wurde angelegt, Lat:50.97507526314935 Long:11.033449172973633
+2010-10-24 11:42:24 (MESZ): Waypoint wurde angelegt, Lat:50.97437268564797 Long:11.03402853012085
+2010-10-24 11:42:25 (MESZ): Waypoint wurde angelegt, Lat:50.973359333991986 Long:11.03450059890747
+2010-10-24 11:42:25 (MESZ): Waypoint wurde angelegt, Lat:50.97265673053036 Long:11.033341884613037
+2010-10-24 11:42:26 (MESZ): Waypoint wurde angelegt, Lat:50.971940604525656 Long:11.031668186187744
+2010-10-24 11:42:26 (MESZ): Waypoint wurde angelegt, Lat:50.971967628348956 Long:11.029672622680664
+2010-10-24 11:42:28 (MESZ): Waypoint wurde angelegt, Lat:50.97195411643927 Long:11.033642292022705
+2010-10-24 11:42:28 (MESZ): Waypoint wurde angelegt, Lat:50.974142994543904 Long:11.036324501037598
+2010-10-24 11:42:29 (MESZ): Waypoint wurde angelegt, Lat:50.975183351052316 Long:11.035187244415283
+2010-10-24 11:42:30 (MESZ): Waypoint wurde angelegt, Lat:50.973548494646295 Long:11.035423278808594
+2010-10-24 11:42:30 (MESZ): Waypoint wurde angelegt, Lat:50.972710777327855 Long:11.035122871398926
+2010-10-24 11:42:47 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-24 11:42:47 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-24 11:44:57 (MESZ): Waypoint wurde angelegt, Lat:50.98526819650192 Long:11.04398488998413
+2010-10-24 11:45:10 (MESZ): Waypoint wurde angelegt, Lat:50.98526819650192 Long:11.044049263000488
+2010-10-24 11:45:22 (MESZ): Waypoint wurde angelegt, Lat:50.98455226497768 Long:11.044145822525024
+2010-10-24 11:45:32 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-24 11:45:33 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-24 11:45:33 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-24 11:45:33 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-24 11:45:38 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-24 11:45:38 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-24 11:45:38 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-24 11:45:38 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-24 11:45:39 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-24 11:45:39 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-24 11:45:39 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-24 11:45:39 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-24 11:45:39 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-24 11:45:44 (MESZ): Application close currectly!

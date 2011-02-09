@@ -1,0 +1,439 @@
+2011-01-12 10:18:21 (MEZ): Application did start!
+2011-01-12 10:18:23 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,662,169,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 10:18:23 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,invalid,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 10:18:24 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 10:27:58 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-12 10:27:58 (MEZ): Application close currectly!
+2011-01-12 11:25:27 (MEZ): Application did start!
+2011-01-12 11:25:29 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,662,169,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:25:29 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,invalid,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:25:30 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:25:30 (MEZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1294827930881,modifiers=Button1] on cbmp_webcamWindow
+2011-01-12 11:25:31 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame2,904,34,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:25:51 (MEZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame2
+2011-01-12 11:25:51 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame2,746,179,400x300,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:25:52 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-12 11:25:52 (MEZ): Application close currectly!
+2011-01-12 11:29:28 (MEZ): Application did start!
+2011-01-12 11:29:28 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,662,169,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:29:28 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,invalid,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:29:29 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:29:30 (MEZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1294828170274,modifiers=Button1] on cbmp_webcamWindow
+2011-01-12 11:29:30 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame2,746,179,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:29:34 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1294828174345,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@aff61d,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-12 11:29:34 (MEZ): Devices: 1
+2011-01-12 11:29:55 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1294828195321,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@aff61d,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-12 11:29:57 (MEZ): Devices: 1
+2011-01-12 11:30:03 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1294828203066,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@aff61d,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-12 11:30:05 (MEZ): Devices: 1
+2011-01-12 11:30:19 (MEZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame2
+2011-01-12 11:30:21 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame2,746,179,400x300,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:30:23 (MEZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1294828223554,modifiers=Button1] on cbmp_webcamWindow
+2011-01-12 11:30:23 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame3,746,179,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:30:24 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1294828224898,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@aff61d,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-12 11:30:25 (MEZ): Devices: 1
+2011-01-12 11:30:58 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame3,746,179,442x381,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,426x343,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:30:58 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-12 11:30:58 (MEZ): Application close currectly!
+2011-01-12 11:39:10 (MEZ): Application did start!
+2011-01-12 11:39:14 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,662,169,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:39:14 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,invalid,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:39:15 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:39:15 (MEZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1294828755963,modifiers=Button1] on cbmp_webcamWindow
+2011-01-12 11:39:16 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame2,746,179,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:39:19 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1294828759615,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@19d75ee,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-12 11:39:19 (MEZ): Devices: 1
+2011-01-12 11:42:38 (MEZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame2
+2011-01-12 11:42:39 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame2,-8,-8,1456x876,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,maximized,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,1440x838,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:42:42 (MEZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1294828962116,modifiers=Button1] on cbmp_webcamWindow
+2011-01-12 11:42:42 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame3,746,179,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 11:42:49 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1294828969699,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@19d75ee,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-12 11:42:49 (MEZ): Devices: 1
+2011-01-12 13:50:07 (MEZ): Application did start!
+2011-01-12 13:50:08 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,662,169,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 13:50:08 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,invalid,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 13:50:08 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 13:50:09 (MEZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1294836609592,modifiers=Button1] on cbmp_webcamWindow
+2011-01-12 13:50:09 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame2,746,179,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 13:50:11 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1294836611792,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@8530b8,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-12 13:50:11 (MEZ): Devices: 1
+2011-01-12 14:01:24 (MEZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame2
+2011-01-12 14:06:38 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-12 14:06:46 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-12 14:06:47 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-12 14:08:51 (MEZ): Application did start!
+2011-01-12 14:08:52 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,662,169,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:08:52 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,invalid,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:08:54 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:08:55 (MEZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1294837735089,modifiers=Button1] on cbmp_webcamWindow
+2011-01-12 14:08:55 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame2,746,179,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:08:56 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1294837736753,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@1da669c,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-12 14:08:56 (MEZ): Devices: 1
+2011-01-12 14:09:20 (MEZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame2
+2011-01-12 14:09:21 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame2,746,179,367x336,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,351x298,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:09:21 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-12 14:12:23 (MEZ): Application did start!
+2011-01-12 14:12:24 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,662,169,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:12:24 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,invalid,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:12:25 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:12:26 (MEZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1294837946345,modifiers=Button1] on cbmp_webcamWindow
+2011-01-12 14:12:26 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame2,746,179,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:12:28 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1294837948345,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@13f210f,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-12 14:12:28 (MEZ): Devices: 1
+2011-01-12 14:12:55 (MEZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame2
+2011-01-12 14:12:56 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame2,746,179,400x300,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:12:57 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-12 14:12:57 (MEZ): Application close currectly!
+2011-01-12 14:13:05 (MEZ): Application did start!
+2011-01-12 14:13:06 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,662,169,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:13:06 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,invalid,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:13:07 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:13:08 (MEZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1294837988576,modifiers=Button1] on cbmp_webcamWindow
+2011-01-12 14:13:08 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame2,746,179,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:13:09 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1294837989872,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@26e9f9,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-12 14:13:09 (MEZ): Devices: 1
+2011-01-12 14:13:19 (MEZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame2
+2011-01-12 14:13:20 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame2,746,179,400x300,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:13:20 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-12 14:13:20 (MEZ): Application close currectly!
+2011-01-12 14:16:35 (MEZ): Application did start!
+2011-01-12 14:16:36 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,662,169,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:16:36 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,invalid,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:16:37 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.maps.MKWaypointEditorWindow[frame1,160,153,210x400,layout=java.awt.BorderLayout,title=,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,3,25,204x372,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:16:38 (MEZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1294838198416,modifiers=Button1] on cbmp_webcamWindow
+2011-01-12 14:16:38 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame2,746,179,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:16:40 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1294838200368,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@13f210f,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-12 14:16:40 (MEZ): Devices: 1
+2011-01-12 14:25:45 (MEZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame2
+2011-01-12 14:25:46 (MEZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame1
+2011-01-12 14:25:46 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-12 14:25:46 (MEZ): Application close currectly!
+2011-01-12 14:31:44 (MEZ): Application did start!
+2011-01-12 14:31:44 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.fligthcontrol.MKParamSettingsWindow[frame0,662,169,210x406,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,194x368,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:31:47 (MEZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1294839107344,modifiers=Button1] on cbmp_webcamWindow
+2011-01-12 14:31:47 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,746,179,400x300,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:31:49 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1294839109976,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@32efa7,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-12 14:31:50 (MEZ): Devices: [DirectSoundCapture : dsound://
+LINEAR, 48000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 48000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 44100.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 32000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 32000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 22050.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 16000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 16000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 11025.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 8000.0 Hz, 8-bit, Mono, Unsigned
+, JavaSound audio capture : javasound://44100
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+, vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-12 14:31:58 (MEZ): mainFrame.windowGainedFocus, event=java.awt.event.WindowEvent[WINDOW_GAINED_FOCUS,opposite=mkpc.webcam.MKWebcamWindow[frame1,746,179,400x300,invalid,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=DISPOSE_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,30,384x262,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on mainFrame
+2011-01-12 14:33:27 (MEZ): mainFrame.windowLostFocus, event=java.awt.event.WindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-12 14:54:48 (MEZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1294840488186,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@32efa7,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-12 14:54:48 (MEZ): Devices: [DirectSoundCapture : dsound://
+LINEAR, 48000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 48000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 48000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 44100.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 32000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 32000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 32000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 22050.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 16000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 16000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 16000.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 11025.0 Hz, 8-bit, Mono, Unsigned
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 8-bit, Stereo, Unsigned
+LINEAR, 8000.0 Hz, 8-bit, Mono, Unsigned
+, JavaSound audio capture : javasound://44100
+LINEAR, 44100.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 44100.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 22050.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 11025.0 Hz, 16-bit, Mono, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Stereo, LittleEndian, Signed
+LINEAR, 8000.0 Hz, 16-bit, Mono, LittleEndian, Signed
+, vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2011-01-12 15:58:17 (MEZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame1
+2011-01-12 15:58:19 (MEZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2011-01-12 15:58:19 (MEZ): Application close currectly!

@@ -1,0 +1,67 @@
+2010-10-20 08:49:26 (MESZ): Application did start!
+2010-10-20 08:49:44 (MESZ): Application did start!
+2010-10-20 08:50:03 (MESZ): Application did start!
+2010-10-20 08:52:48 (MESZ): Application did start!
+2010-10-20 08:54:19 (MESZ): Application did start!
+2010-10-20 08:54:25 (MESZ): Application close currectly!
+2010-10-20 08:56:50 (MESZ): Application did start!
+2010-10-20 08:57:20 (MESZ): Application close currectly!
+2010-10-20 08:57:37 (MESZ): Application did start!
+2010-10-20 08:57:59 (MESZ): Application did start!
+2010-10-20 08:58:07 (MESZ): Application close currectly!
+2010-10-20 08:58:26 (MESZ): Application did start!
+2010-10-20 08:58:55 (MESZ): Application did start!
+2010-10-20 08:59:02 (MESZ): Application close currectly!
+2010-10-20 08:59:05 (MESZ): Application close currectly!
+2010-10-20 08:59:07 (MESZ): Application close currectly!
+2010-10-20 09:03:06 (MESZ): Application did start!
+2010-10-20 09:03:50 (MESZ): Application did start!
+2010-10-20 09:04:45 (MESZ): Application did start!
+2010-10-20 09:04:57 (MESZ): Application close currectly!
+2010-10-20 09:05:13 (MESZ): Application did start!
+2010-10-20 09:05:23 (MESZ): Application close currectly!
+2010-10-20 09:05:31 (MESZ): Application did start!
+2010-10-20 09:05:37 (MESZ): Application close currectly!
+2010-10-20 09:05:54 (MESZ): Application did start!
+2010-10-20 09:06:02 (MESZ): Application close currectly!
+2010-10-20 09:09:03 (MESZ): Application did start!
+2010-10-20 09:09:17 (MESZ): Application close currectly!
+2010-10-20 09:10:32 (MESZ): Application did start!
+2010-10-20 09:10:38 (MESZ): Application close currectly!
+2010-10-20 09:10:55 (MESZ): Application did start!
+2010-10-20 09:11:01 (MESZ): Application close currectly!
+2010-10-20 09:11:46 (MESZ): Application did start!
+2010-10-20 09:11:51 (MESZ): Application close currectly!
+2010-10-20 09:12:01 (MESZ): Application did start!
+2010-10-20 09:12:08 (MESZ): Application close currectly!
+2010-10-20 09:12:36 (MESZ): Application did start!
+2010-10-20 09:12:41 (MESZ): Application close currectly!
+2010-10-20 09:13:11 (MESZ): Application did start!
+2010-10-20 09:13:15 (MESZ): Application close currectly!
+2010-10-20 09:13:48 (MESZ): Application did start!
+2010-10-20 09:13:54 (MESZ): Application close currectly!
+2010-10-20 09:15:23 (MESZ): Application did start!
+2010-10-20 09:15:32 (MESZ): Application close currectly!
+2010-10-20 09:16:35 (MESZ): Application did start!
+2010-10-20 09:16:52 (MESZ): Application close currectly!
+2010-10-20 09:26:24 (MESZ): Application did start!
+2010-10-20 09:26:28 (MESZ): Application close currectly!
+2010-10-20 09:26:35 (MESZ): Application did start!
+2010-10-20 09:26:43 (MESZ): Application close currectly!
+2010-10-20 09:27:14 (MESZ): Application did start!
+2010-10-20 09:30:16 (MESZ): Application close currectly!
+2010-10-20 09:33:36 (MESZ): Application did start!
+2010-10-20 09:34:46 (MESZ): Waypoint wurde angelegt, Lat:50.97438619685399 Long:11.022377014160156
+2010-10-20 09:34:47 (MESZ): Waypoint wurde angelegt, Lat:50.97353498319654 Long:11.022806167602539
+2010-10-20 09:34:47 (MESZ): Waypoint wurde angelegt, Lat:50.97331879946583 Long:11.024072170257568
+2010-10-20 09:52:45 (MESZ): Application close currectly!
+2010-10-20 13:42:39 (MESZ): Application did start!
+2010-10-20 13:45:15 (MESZ): Application did start!
+2010-10-20 16:58:04 (MESZ): Application did start!
+2010-10-20 16:58:21 (MESZ): Application close currectly!
+2010-10-20 18:22:22 (MESZ): Application did start!
+2010-10-20 18:22:30 (MESZ): Application close currectly!
+2010-10-20 18:30:25 (MESZ): Application did start!
+2010-10-20 18:31:18 (MESZ): Waypoint wurde angelegt, Lat:50.97396059197552 Long:11.023144125938416
+2010-10-20 18:31:20 (MESZ): Waypoint wurde angelegt, Lat:50.97391330230379 Long:11.023181676864624
+2010-10-20 18:31:41 (MESZ): Application close currectly!

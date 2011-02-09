@@ -1,0 +1,67 @@
+package mkpc.comm;
+
+/**
+ * This class represent all Commands of the copter you can send
+ * @author bk
+ *
+ */
+public class  MKCommand
+{
+	public final static char
+		DebugValueRequest = 'd',
+		DebugValueResponse='D',
+		DebugLabelRequest='a',
+		DebugLabelResponse='A',
+		ExternControlRequest='b',
+		ExternControlResponse='B',
+		GetExternControlRequest='g',
+		GetExternControlResponse='G',
+		VersionRequest='v',
+		VersionResponse='V',
+		DisplayMenuRequest='l',
+		DisplayMenuResponse='L',
+		DisplayRequest='h',
+		DisplayResponse='H',
+		SettingsRequest='q',
+		SettingsResponse='Q',
+		WriteSettingsRequest='s',
+		WriteSettingsResponse='S',
+		ChangeSettingsRequest='f',
+		ChangeSettingsResponse='F',
+		ChannelsValueRequest='p',
+		ChannelsValueResponse='P',
+		Set3DDataIntervalRequest='c',
+		Set3DDataIntervalResponse='C',
+		MixerReadRequest='n',
+		MixerReadResponse='N',
+		MixerWriteRequest='m',
+		MixerWriteResponse='M',
+		RedirectRequest='u',
+		EngineTestRequest='t',
+		EnginTestResponse='T',
+		OsdRequest='o',
+		OsdResponse='O',
+		CompassHeadingRequest='K',
+		CompassHeadingResponse='k',
+		SerialPotiRequest='y',
+		SerialPotiResponse='Y',
+		BLParameterRequest='u',
+		BLParameterResponse='U',
+		WriteBLParameterRequest='w',
+		WriteBLParameterResponse='W',
+		SerialLinkTestRequest='z',
+		SerialLinkTestResponse='Z',
+		ErrorTextRequest='e',
+		ErrorTextResponse='E',
+		SendTargetPositionRequest='s',
+		//SendTargetPositionResponse='S',
+		SendWaypointRequest='w',
+		SendWaypointResponse='W',
+		WaypointRequest='x',
+		WaypointResponse='X',
+		RedirectUARTRequest='u',
+		//RedirectURATResponse='U',
+		HeadingRequest='w',
+		HeadingResponse='K',
+		SetNCParameterRequest='j';	// ?
+}

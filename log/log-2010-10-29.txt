@@ -1,0 +1,378 @@
+2010-10-29 09:45:35 (MESZ): Application did start!
+2010-10-29 09:45:38 (MESZ): No bluetooht module founded!
+2010-10-29 09:46:20 (MESZ): Application did start!
+2010-10-29 09:46:24 (MESZ): No bluetooht module founded!
+2010-10-29 09:46:38 (MESZ): Application close currectly!
+2010-10-29 09:53:32 (MESZ): Application did start!
+2010-10-29 09:53:35 (MESZ): No bluetooht module founded!
+2010-10-29 09:53:38 (MESZ): Application close currectly!
+2010-10-29 09:53:58 (MESZ): Application did start!
+2010-10-29 09:54:01 (MESZ): No bluetooht module founded!
+2010-10-29 10:08:26 (MESZ): Application did start!
+2010-10-29 10:08:29 (MESZ): No bluetooht module founded!
+2010-10-29 10:08:33 (MESZ): Application close currectly!
+2010-10-29 10:17:33 (MESZ): Application did start!
+2010-10-29 10:17:36 (MESZ): mp_bluetoothDevice.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Bluetooth Gerät,when=1288340256677,modifiers=Button1] on mp_bluetoothDevice
+2010-10-29 10:17:36 (MESZ): No bluetooht module founded!
+2010-10-29 10:17:48 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 10:17:48 (MESZ): Application close currectly!
+2010-10-29 10:20:32 (MESZ): Application did start!
+2010-10-29 10:20:34 (MESZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1288340434990,modifiers=Button1] on cbmp_webcamWindow
+2010-10-29 10:20:35 (MESZ): Devices: 1
+2010-10-29 10:20:42 (MESZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame0
+2010-10-29 10:20:45 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 10:20:45 (MESZ): Application close currectly!
+2010-10-29 10:26:30 (MESZ): Application did start!
+2010-10-29 10:26:32 (MESZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1288340792765,modifiers=Button1] on cbmp_webcamWindow
+2010-10-29 10:26:32 (MESZ): Devices: 1
+2010-10-29 10:26:50 (MESZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame0
+2010-10-29 10:26:54 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 10:26:54 (MESZ): Application close currectly!
+2010-10-29 10:29:30 (MESZ): Application did start!
+2010-10-29 10:29:33 (MESZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1288340973181,modifiers=Button1] on cbmp_webcamWindow
+2010-10-29 10:29:35 (MESZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1288340975054,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@193c0cf,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2010-10-29 10:50:10 (MESZ): Application did start!
+2010-10-29 10:50:12 (MESZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1288342212917,modifiers=Button1] on cbmp_webcamWindow
+2010-10-29 10:50:16 (MESZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1288342216446,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@193c0cf,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2010-10-29 10:50:16 (MESZ): Devices: 1
+2010-10-29 10:50:34 (MESZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame0
+2010-10-29 10:51:11 (MESZ): Application did start!
+2010-10-29 10:51:14 (MESZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1288342274454,modifiers=Button1] on cbmp_webcamWindow
+2010-10-29 10:51:16 (MESZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1288342276166,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@1d1e730,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2010-10-29 10:51:16 (MESZ): Devices: 1
+2010-10-29 10:51:40 (MESZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1288342300077,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@1d1e730,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2010-10-29 10:51:42 (MESZ): Devices: 1
+2010-10-29 10:51:51 (MESZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame0
+2010-10-29 10:52:10 (MESZ): Application did start!
+2010-10-29 10:52:14 (MESZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1288342334173,modifiers=Button1] on cbmp_webcamWindow
+2010-10-29 10:52:15 (MESZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1288342335461,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@1e57e8f,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2010-10-29 10:52:15 (MESZ): Devices: 1
+2010-10-29 10:52:28 (MESZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame0
+2010-10-29 10:53:00 (MESZ): Application did start!
+2010-10-29 10:53:03 (MESZ): cbmp_webcamWindow.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Webcam,when=1288342383318,modifiers=Button1] on cbmp_webcamWindow
+2010-10-29 10:53:04 (MESZ): deviceBox.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1288342384733,modifiers=Button1] on javax.swing.JComboBox[,0,0,384x20,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@1a116c9,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=vfw:Microsoft WDM Image Capture (Win32):0 : vfw://0
+YUV Video Format: Size = java.awt.Dimension[width=640,height=480] MaxDataLength = 614400 DataType = class [B yuvType = 32 StrideY = 1280 StrideUV = 1280 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+RGB, 160x120, Length=57600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=480, Flipped
+RGB, 176x144, Length=76032, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=528, Flipped
+RGB, 320x240, Length=230400, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=960, Flipped
+RGB, 352x288, Length=304128, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1056, Flipped
+RGB, 640x480, Length=921600, 24-bit, Masks=3:2:1, PixelStride=3, LineStride=1920, Flipped
+YUV Video Format: Size = java.awt.Dimension[width=160,height=120] MaxDataLength = 38400 DataType = class [B yuvType = 32 StrideY = 320 StrideUV = 320 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=176,height=144] MaxDataLength = 50688 DataType = class [B yuvType = 32 StrideY = 352 StrideUV = 352 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=320,height=240] MaxDataLength = 153600 DataType = class [B yuvType = 32 StrideY = 640 StrideUV = 640 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+YUV Video Format: Size = java.awt.Dimension[width=352,height=288] MaxDataLength = 202752 DataType = class [B yuvType = 32 StrideY = 704 StrideUV = 704 OffsetY = 0 OffsetU = 1 OffsetV = 3
+
+]
+2010-10-29 10:53:04 (MESZ): Devices: 1
+2010-10-29 10:53:14 (MESZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame0
+2010-10-29 10:53:17 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 10:53:17 (MESZ): Application close currectly!
+2010-10-29 10:53:51 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 10:53:51 (MESZ): Application close currectly!
+2010-10-29 14:06:37 (MESZ): Application did start!
+2010-10-29 14:06:40 (MESZ): mp_bluetoothDevice.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Bluetooth Gerät,when=1288354000655,modifiers=Button1] on mp_bluetoothDevice
+2010-10-29 14:06:40 (MESZ): No bluetooht module founded!
+2010-10-29 14:06:44 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 14:06:44 (MESZ): Application close currectly!
+2010-10-29 14:34:48 (MESZ): Application did start!
+2010-10-29 14:34:51 (MESZ): mp_bluetoothDevice.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Bluetooth Gerät,when=1288355690998,modifiers=Button1] on mp_bluetoothDevice
+2010-10-29 14:34:51 (MESZ): No bluetooht module founded!
+2010-10-29 15:53:27 (MESZ): Application did start!
+2010-10-29 15:53:34 (MESZ): cbmp_waypointEditor.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Waypoint Editor,when=1288360414277,modifiers=Button1] on cbmp_waypointEditor
+2010-10-29 15:53:35 (MESZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame0
+2010-10-29 15:53:40 (MESZ): mp_bluetoothDevice.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Bluetooth Gerät,when=1288360420182,modifiers=Button1] on mp_bluetoothDevice
+2010-10-29 15:53:40 (MESZ): No bluetooht module founded!
+2010-10-29 15:53:45 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 15:53:46 (MESZ): Application close currectly!
+2010-10-29 17:58:40 (MESZ): Application did start!
+2010-10-29 17:58:42 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 17:58:42 (MESZ): Application close currectly!
+2010-10-29 17:59:40 (MESZ): Application did start!
+2010-10-29 17:59:49 (MESZ): mp_bluetoothDevice.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Bluetooth Gerät,when=1288367989230,modifiers=Button1] on mp_bluetoothDevice
+2010-10-29 17:59:49 (MESZ): No bluetooht module founded!
+2010-10-29 17:59:49 (MESZ): BluetoothStack not detected
+2010-10-29 18:11:25 (MESZ): Application did start!
+2010-10-29 18:11:27 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(302,166),absolute(607,349),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:11:27 (MESZ): single tap
+2010-10-29 18:11:27 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(302,166),absolute(607,349),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:11:27 (MESZ): Waypoint wurde angelegt, Lat:50.97392681364348 Long:11.02351427078247
+2010-10-29 18:11:46 (MESZ): Application did start!
+2010-10-29 18:11:48 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 18:11:48 (MESZ): Application close currectly!
+2010-10-29 18:11:49 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(267,202),absolute(572,385),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:11:49 (MESZ): single tap
+2010-10-29 18:11:49 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(267,202),absolute(572,385),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:11:49 (MESZ): Waypoint wurde angelegt, Lat:50.97344040293816 Long:11.0227632522583
+2010-10-29 18:11:52 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(351,276),absolute(656,459),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:11:52 (MESZ): single tap
+2010-10-29 18:11:52 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(345,274),absolute(650,457),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:11:52 (MESZ): single tap
+2010-10-29 18:11:53 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(214,258),absolute(519,441),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:11:53 (MESZ): single tap
+2010-10-29 18:11:53 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(214,258),absolute(519,441),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:11:53 (MESZ): Waypoint wurde angelegt, Lat:50.972683753936984 Long:11.021625995635986
+2010-10-29 18:12:38 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(215,227),absolute(520,410),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:12:38 (MESZ): single tap
+2010-10-29 18:12:38 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(215,227),absolute(520,410),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:12:38 (MESZ): Waypoint wurde angelegt, Lat:50.97310261472877 Long:11.021647453308105
+2010-10-29 18:12:39 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(378,269),absolute(683,452),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:12:39 (MESZ): single tap
+2010-10-29 18:12:39 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(378,269),absolute(683,452),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:12:39 (MESZ): Waypoint wurde angelegt, Lat:50.97253512500603 Long:11.025145053863525
+2010-10-29 18:12:46 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 18:12:46 (MESZ): Application close currectly!
+2010-10-29 18:14:00 (MESZ): Application did start!
+2010-10-29 18:14:02 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(312,165),absolute(617,348),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:14:02 (MESZ): single tap
+2010-10-29 18:14:02 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(312,165),absolute(617,348),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:14:02 (MESZ): Waypoint wurde angelegt, Lat:50.973940324979246 Long:11.023728847503662
+2010-10-29 18:14:22 (MESZ): Application did start!
+2010-10-29 18:14:29 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 18:14:29 (MESZ): Application close currectly!
+2010-10-29 18:15:42 (MESZ): Application did start!
+2010-10-29 18:15:43 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(234,215),absolute(539,398),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:15:43 (MESZ): single tap
+2010-10-29 18:15:44 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(234,215),absolute(539,398),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:15:44 (MESZ): Waypoint wurde angelegt, Lat:50.973264753375894 Long:11.02205514907837
+2010-10-29 18:15:50 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 18:15:50 (MESZ): Application close currectly!
+2010-10-29 18:15:54 (MESZ): Application did start!
+2010-10-29 18:15:56 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(295,204),absolute(600,387),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:15:56 (MESZ): single tap
+2010-10-29 18:15:57 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(295,204),absolute(600,387),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:15:57 (MESZ): Waypoint wurde angelegt, Lat:50.97341337997183 Long:11.023364067077637
+2010-10-29 18:15:59 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 18:15:59 (MESZ): Application close currectly!
+2010-10-29 18:16:04 (MESZ): Application did start!
+2010-10-29 18:16:06 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(271,184),absolute(576,367),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:16:06 (MESZ): single tap
+2010-10-29 18:16:06 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(271,184),absolute(576,367),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:16:06 (MESZ): Waypoint wurde angelegt, Lat:50.973683608927644 Long:11.022849082946777
+2010-10-29 18:16:07 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(271,184),absolute(576,367),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:16:07 (MESZ): single tap
+2010-10-29 18:16:07 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(271,184),absolute(576,367),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:16:07 (MESZ): Waypoint wurde angelegt, Lat:50.973683608927644 Long:11.022849082946777
+2010-10-29 18:16:13 (MESZ): Application did start!
+2010-10-29 18:16:15 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(287,189),absolute(592,372),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:16:15 (MESZ): single tap
+2010-10-29 18:16:15 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(287,189),absolute(592,372),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:16:15 (MESZ): Waypoint wurde angelegt, Lat:50.9736160518361 Long:11.023192405700684
+2010-10-29 18:16:16 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(287,189),absolute(592,372),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:16:16 (MESZ): single tap
+2010-10-29 18:16:16 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(287,189),absolute(592,372),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:16:16 (MESZ): Waypoint wurde angelegt, Lat:50.9736160518361 Long:11.023192405700684
+2010-10-29 18:16:19 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 18:16:19 (MESZ): Application close currectly!
+2010-10-29 18:16:20 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 18:16:20 (MESZ): Application close currectly!
+2010-10-29 18:21:13 (MESZ): Application did start!
+2010-10-29 18:21:14 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(258,168),absolute(563,351),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:21:14 (MESZ): single tap
+2010-10-29 18:21:14 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(258,168),absolute(563,351),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:21:14 (MESZ): Waypoint wurde angelegt, Lat:50.97389979096019 Long:11.022570133209229
+2010-10-29 18:22:55 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 18:22:55 (MESZ): Application close currectly!
+2010-10-29 18:24:47 (MESZ): Application did start!
+2010-10-29 18:24:49 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(315,79),absolute(620,262),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:24:49 (MESZ): single tap
+2010-10-29 18:24:49 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(315,79),absolute(620,262),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:24:49 (MESZ): Waypoint wurde angelegt, Lat:50.975102285148694 Long:11.02379322052002
+2010-10-29 18:25:12 (MESZ): cbmp_waypointEditor.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Waypoint Editor,when=1288369512365,modifiers=Button1] on cbmp_waypointEditor
+2010-10-29 18:25:33 (MESZ): Application did start!
+2010-10-29 18:25:36 (MESZ): cbmp_waypointEditor.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Waypoint Editor,when=1288369536892,modifiers=Button1] on cbmp_waypointEditor
+2010-10-29 18:25:51 (MESZ): Application did start!
+2010-10-29 18:25:54 (MESZ): cbmp_waypointEditor.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Waypoint Editor,when=1288369554708,modifiers=Button1] on cbmp_waypointEditor
+2010-10-29 18:26:01 (MESZ): wps_start.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288369561260,modifiers=Button1] on wps_start
+2010-10-29 18:26:05 (MESZ): wps_photocontrol.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288369565389,modifiers=Button1] on wps_photocontrol
+2010-10-29 18:26:06 (MESZ): wps_waypoint.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288369566053,modifiers=Button1] on wps_waypoint
+2010-10-29 18:26:07 (MESZ): btn_deleteWaypoint.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288369567501,modifiers=Button1] on btn_deleteWaypoint
+2010-10-29 18:26:07 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-29 18:26:10 (MESZ): btn_deleteWaypoint.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288369570157,modifiers=Button1] on btn_deleteWaypoint
+2010-10-29 18:26:10 (MESZ): Nichts kann NICHT gelöscht werden.
+2010-10-29 18:26:11 (MESZ): btn_waypointUp.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288369571036,modifiers=Button1] on btn_waypointUp
+2010-10-29 18:26:11 (MESZ): btn_waypointDown.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288369571740,modifiers=Button1] on btn_waypointDown
+2010-10-29 18:26:12 (MESZ): btn_waypointDown.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288369572788,modifiers=Button1] on btn_waypointDown
+2010-10-29 18:26:13 (MESZ): btn_waypointDown.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288369573588,modifiers=Button1] on btn_waypointDown
+2010-10-29 18:26:14 (MESZ): btn_waypointDown.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288369574484,modifiers=Button1] on btn_waypointDown
+2010-10-29 18:26:15 (MESZ): btn_waypointUp.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288369575068,modifiers=Button1] on btn_waypointUp
+2010-10-29 18:31:32 (MESZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame0
+2010-10-29 18:31:32 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 18:31:32 (MESZ): Application close currectly!
+2010-10-29 18:31:59 (MESZ): Application did start!
+2010-10-29 18:32:06 (MESZ): cbmp_waypointEditor.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Waypoint Editor,when=1288369926316,modifiers=Button1] on cbmp_waypointEditor
+2010-10-29 18:32:13 (MESZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame0
+2010-10-29 18:32:16 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 18:32:16 (MESZ): Application close currectly!
+2010-10-29 18:33:02 (MESZ): Application did start!
+2010-10-29 18:33:03 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(84,56),absolute(389,243),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:33:03 (MESZ): single tap
+2010-10-29 18:33:04 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(84,56),absolute(389,243),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:33:04 (MESZ): Waypoint wurde angelegt, Lat:50.97541303701073 Long:11.018836498260498
+2010-10-29 18:33:08 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 18:33:08 (MESZ): Application close currectly!
+2010-10-29 18:33:11 (MESZ): Application did start!
+2010-10-29 18:33:13 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(249,172),absolute(554,359),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:33:13 (MESZ): single tap
+2010-10-29 18:33:13 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(249,172),absolute(554,359),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:33:13 (MESZ): Waypoint wurde angelegt, Lat:50.97384574554639 Long:11.022377014160156
+2010-10-29 18:33:19 (MESZ): showSatellite.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Google Satellitenbild,when=1288369999221,modifiers=Button1] on showSatellite
+2010-10-29 18:33:19 (MESZ): http://maps.google.com/maps/api/staticmap?center=50.97373499999999,11.022398999999984&zoom=16&maptype=satellite&size=500x360&sensor=false
+2010-10-29 18:33:20 (MESZ): showSatellite.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Zurück zur Roadmap,when=1288370000493,modifiers=Button1] on javax.swing.JButton[,5,5,150x26,alignmentX=0.0,alignmentY=0.5,border=com.sun.java.swing.plaf.windows.XPStyle$XPEmptyBorder@1dc423f,flags=16777504,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Zurück zur Roadmap,defaultCapable=true]
+2010-10-29 18:33:20 (MESZ): Image has been loaded.
+2010-10-29 18:33:26 (MESZ): cbmp_waypointEditor.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Waypoint Editor,when=1288370006789,modifiers=Button1] on cbmp_waypointEditor
+2010-10-29 18:33:31 (MESZ): this.windowClosing, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame0
+2010-10-29 18:33:32 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 18:33:32 (MESZ): Application close currectly!
+2010-10-29 18:34:08 (MESZ): Application did start!
+2010-10-29 18:34:11 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(186,181),absolute(491,368),button=1,modifiers=Button1,clickCount=1] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:34:11 (MESZ): single tap
+2010-10-29 18:34:11 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(186,181),absolute(491,368),button=1,modifiers=Button1,clickCount=2] on org.jdesktop.swingx.JXMapViewer[,0,0,500x360,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2010-10-29 18:34:11 (MESZ): Waypoint wurde angelegt, Lat:50.97372414313539 Long:11.02102518081665
+2010-10-29 18:34:16 (MESZ): showSatellite.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Google Satellitenbild,when=1288370056237,modifiers=Button1] on showSatellite
+2010-10-29 18:34:16 (MESZ): http://maps.google.com/maps/api/staticmap?center=50.97373499999999,11.022398999999984&zoom=16&maptype=satellite&size=500x360&sensor=false
+2010-10-29 18:34:16 (MESZ): Image has been loaded.
+2010-10-29 18:34:20 (MESZ): cbmp_waypointEditor.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Waypoint Editor,when=1288370060860,modifiers=Button1] on cbmp_waypointEditor
+2010-10-29 18:34:24 (MESZ): mp_bluetoothDevice.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Bluetooth Gerät,when=1288370064700,modifiers=Button1] on mp_bluetoothDevice
+2010-10-29 18:34:24 (MESZ): No bluetooht module founded!
+2010-10-29 18:34:24 (MESZ): BluetoothStack not detected
+2010-10-29 18:34:47 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(454,186),absolute(759,373),button=1,modifiers=Button1,clickCount=1] on mkpc.maps.GMapPanel[,0,0,500x360,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=500,height=360]]
+2010-10-29 18:34:47 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(454,186),absolute(759,373),button=1,modifiers=Button1,clickCount=2] on mkpc.maps.GMapPanel[,0,0,500x360,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=500,height=360]]
+2010-10-29 18:34:47 (MESZ): Waypoint wurde angelegt, Lat:50.973656586102834 Long:11.02677583694458
+2010-10-29 18:34:48 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(405,207),absolute(710,394),button=1,modifiers=Button1,clickCount=2] on mkpc.maps.GMapPanel[,0,0,500x360,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=500,height=360]]
+2010-10-29 18:34:48 (MESZ): Waypoint wurde angelegt, Lat:50.97337284549284 Long:11.025724411010742
+2010-10-29 18:34:49 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(399,215),absolute(704,402),button=1,modifiers=Button1,clickCount=1] on mkpc.maps.GMapPanel[,0,0,500x360,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=500,height=360]]
+2010-10-29 18:34:49 (MESZ): showSatellite.actionPerformed, event=java.awt.event.MouseEvent[MOUSE_CLICKED,(399,215),absolute(704,402),button=1,modifiers=Button1,clickCount=2] on mkpc.maps.GMapPanel[,0,0,500x360,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=500,height=360]]
+2010-10-29 18:34:49 (MESZ): Waypoint wurde angelegt, Lat:50.973264753375894 Long:11.025595664978027
+2010-10-29 18:34:57 (MESZ): cbmp_waypointEditor.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Waypoint Editor,when=1288370097956,modifiers=Button1] on cbmp_waypointEditor
+2010-10-29 18:35:00 (MESZ): cbmp_waypointEditor.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Waypoint Editor,when=1288370100388,modifiers=Button1] on cbmp_waypointEditor
+2010-10-29 18:35:01 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 3 lastIndex= 3 isAdjusting= true ]
+2010-10-29 18:35:01 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 2 lastIndex= 3 isAdjusting= true ]
+2010-10-29 18:35:01 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 2 lastIndex= 3 isAdjusting= false ]
+2010-10-29 18:35:01 (MESZ): WaypointRenderer: Draw selected!
+2010-10-29 18:35:02 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 2 lastIndex= 3 isAdjusting= true ]
+2010-10-29 18:35:02 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 2 lastIndex= 3 isAdjusting= true ]
+2010-10-29 18:35:03 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 1 lastIndex= 2 isAdjusting= true ]
+2010-10-29 18:35:03 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 0 lastIndex= 1 isAdjusting= true ]
+2010-10-29 18:35:04 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 0 lastIndex= 1 isAdjusting= true ]
+2010-10-29 18:35:04 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 1 lastIndex= 2 isAdjusting= true ]
+2010-10-29 18:35:05 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 1 lastIndex= 2 isAdjusting= true ]
+2010-10-29 18:35:05 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 0 lastIndex= 1 isAdjusting= true ]
+2010-10-29 18:35:06 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 0 lastIndex= 3 isAdjusting= false ]
+2010-10-29 18:35:06 (MESZ): WaypointRenderer: Draw selected!
+2010-10-29 18:35:07 (MESZ): btn_waypointUp.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288370107053,modifiers=Button1] on btn_waypointUp
+2010-10-29 18:35:09 (MESZ): btn_waypointDown.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288370109501,modifiers=Button1] on btn_waypointDown
+2010-10-29 18:35:09 (MESZ): Move Opject to index: 1
+2010-10-29 18:35:09 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 0 lastIndex= 0 isAdjusting= false ]
+2010-10-29 18:35:09 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 0 lastIndex= 1 isAdjusting= false ]
+2010-10-29 18:35:09 (MESZ): WaypointRenderer: Draw selected!
+2010-10-29 18:35:10 (MESZ): btn_waypointDown.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288370110749,modifiers=Button1] on btn_waypointDown
+2010-10-29 18:35:10 (MESZ): Move Opject to index: 2
+2010-10-29 18:35:10 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 1 lastIndex= 1 isAdjusting= false ]
+2010-10-29 18:35:10 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 1 lastIndex= 2 isAdjusting= false ]
+2010-10-29 18:35:10 (MESZ): WaypointRenderer: Draw selected!
+2010-10-29 18:35:15 (MESZ): btn_waypointDown.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288370115364,modifiers=Button1] on btn_waypointDown
+2010-10-29 18:35:15 (MESZ): Move Opject to index: 3
+2010-10-29 18:35:15 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 2 lastIndex= 2 isAdjusting= false ]
+2010-10-29 18:35:15 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 2 lastIndex= 3 isAdjusting= false ]
+2010-10-29 18:35:15 (MESZ): WaypointRenderer: Draw selected!
+2010-10-29 18:35:17 (MESZ): btn_waypointUp.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288370117844,modifiers=Button1] on btn_waypointUp
+2010-10-29 18:35:17 (MESZ): Move Opject to index: 2
+2010-10-29 18:35:17 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 3 lastIndex= 3 isAdjusting= false ]
+2010-10-29 18:35:17 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 2 lastIndex= 3 isAdjusting= false ]
+2010-10-29 18:35:17 (MESZ): WaypointRenderer: Draw selected!
+2010-10-29 18:35:18 (MESZ): btn_waypointUp.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288370118692,modifiers=Button1] on btn_waypointUp
+2010-10-29 18:35:18 (MESZ): Move Opject to index: 1
+2010-10-29 18:35:18 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 2 lastIndex= 2 isAdjusting= false ]
+2010-10-29 18:35:18 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 1 lastIndex= 2 isAdjusting= false ]
+2010-10-29 18:35:18 (MESZ): WaypointRenderer: Draw selected!
+2010-10-29 18:35:20 (MESZ): btn_waypointUp.actionPerformed, event=java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=,when=1288370120556,modifiers=Button1] on btn_waypointUp
+2010-10-29 18:35:20 (MESZ): Move Opject to index: 0
+2010-10-29 18:35:20 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 1 lastIndex= 1 isAdjusting= false ]
+2010-10-29 18:35:20 (MESZ): wayPointList.valueChanged, event=javax.swing.event.ListSelectionEvent[ source=javax.swing.JList[,0,0,152x370,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=50331944,maximumSize=,minimumSize=,preferredSize=,fixedCellHeight=-1,fixedCellWidth=-1,horizontalScrollIncrement=-1,selectionBackground=javax.swing.plaf.ColorUIResource[r=51,g=153,b=255],selectionForeground=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],visibleRowCount=8,layoutOrientation=0] firstIndex= 0 lastIndex= 1 isAdjusting= false ]
+2010-10-29 18:35:20 (MESZ): WaypointRenderer: Draw selected!
+2010-10-29 18:35:22 (MESZ): mainFrame.windowClosed, event=java.awt.event.WindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on mainFrame
+2010-10-29 18:35:22 (MESZ): Application close currectly!

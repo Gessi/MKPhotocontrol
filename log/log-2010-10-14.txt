@@ -1,0 +1,275 @@
+2010-10-14 09:12:52 (MESZ): Application did start!
+2010-10-14 09:12:52 (MESZ): Application did start!
+2010-10-14 09:12:55 (MESZ): Application close currectly!
+2010-10-14 09:13:15 (MESZ): Application close currectly!
+2010-10-14 09:13:52 (MESZ): Application did start!
+2010-10-14 09:17:19 (MESZ): Application did start!
+2010-10-14 09:17:28 (MESZ): Application close currectly!
+2010-10-14 09:19:18 (MESZ): Application did start!
+2010-10-14 09:19:47 (MESZ): Application close currectly!
+2010-10-14 09:20:09 (MESZ): Application did start!
+2010-10-14 09:21:38 (MESZ): Application close currectly!
+2010-10-14 09:22:15 (MESZ): Application did start!
+2010-10-14 09:22:32 (MESZ): Application close currectly!
+2010-10-14 09:23:01 (MESZ): Application did start!
+2010-10-14 09:23:25 (MESZ): Application close currectly!
+2010-10-14 09:30:08 (MESZ): Application did start!
+2010-10-14 09:32:45 (MESZ): Application close currectly!
+2010-10-14 09:34:06 (MESZ): Application did start!
+2010-10-14 09:35:02 (MESZ): Application did start!
+2010-10-14 09:35:26 (MESZ): Application close currectly!
+2010-10-14 09:35:29 (MESZ): Application close currectly!
+2010-10-14 09:38:30 (MESZ): Application did start!
+2010-10-14 09:38:47 (MESZ): Application close currectly!
+2010-10-14 09:39:52 (MESZ): Application did start!
+2010-10-14 09:53:13 (MESZ): Application close currectly!
+2010-10-14 10:01:31 (MESZ): Application did start!
+2010-10-14 10:01:39 (MESZ): Application close currectly!
+2010-10-14 10:05:02 (MESZ): Application did start!
+2010-10-14 10:05:08 (MESZ): Application close currectly!
+2010-10-14 11:25:06 (MESZ): Application did start!
+2010-10-14 11:30:42 (MESZ): Application close currectly!
+2010-10-14 11:35:14 (MESZ): Application did start!
+2010-10-14 11:42:33 (MESZ): Application did start!
+2010-10-14 11:42:51 (MESZ): Application did start!
+2010-10-14 11:42:58 (MESZ): Application close currectly!
+2010-10-14 11:42:59 (MESZ): Application close currectly!
+2010-10-14 11:47:22 (MESZ): Application did start!
+2010-10-14 11:49:10 (MESZ): Application close currectly!
+2010-10-14 11:57:31 (MESZ): Application did start!
+2010-10-14 11:58:50 (MESZ): Application did start!
+2010-10-14 12:01:22 (MESZ): Application did start!
+2010-10-14 12:15:45 (MESZ): Application did start!
+2010-10-14 12:15:49 (MESZ): Waypoint wurde gesetzt Lat:50.84757295365389 Long:12.0849609375
+2010-10-14 12:15:51 (MESZ): Waypoint wurde gesetzt Lat:50.28933925329177 Long:11.5576171875
+2010-10-14 12:15:52 (MESZ): Waypoint wurde gesetzt Lat:50.90303283111257 Long:8.5693359375
+2010-10-14 12:15:53 (MESZ): Waypoint wurde gesetzt Lat:51.971345808851716 Long:9.77783203125
+2010-10-14 12:16:01 (MESZ): Waypoint wurde gesetzt Lat:50.973035056792035 Long:11.021196842193604
+2010-10-14 12:16:06 (MESZ): Waypoint wurde gesetzt Lat:50.973008033589856 Long:11.022655963897705
+2010-10-14 12:16:10 (MESZ): Waypoint wurde gesetzt Lat:50.972899940623826 Long:11.0237717628479
+2010-10-14 12:16:15 (MESZ): Waypoint wurde gesetzt Lat:50.97415650581677 Long:11.02480173110962
+2010-10-14 12:16:16 (MESZ): Waypoint wurde gesetzt Lat:50.97462939789044 Long:11.022162437438965
+2010-10-14 12:16:17 (MESZ): Waypoint wurde gesetzt Lat:50.97507526314935 Long:11.019866466522217
+2010-10-14 12:16:18 (MESZ): Waypoint wurde gesetzt Lat:50.974142994543904 Long:11.01926565170288
+2010-10-14 12:16:19 (MESZ): Waypoint wurde gesetzt Lat:50.9731701725672 Long:11.019222736358643
+2010-10-14 12:16:20 (MESZ): Waypoint wurde gesetzt Lat:50.97202167594838 Long:11.020467281341553
+2010-10-14 12:16:21 (MESZ): Waypoint wurde gesetzt Lat:50.97498068602792 Long:11.021819114685059
+2010-10-14 12:16:21 (MESZ): Waypoint wurde gesetzt Lat:50.9751968620225 Long:11.023557186126709
+2010-10-14 12:16:22 (MESZ): Waypoint wurde gesetzt Lat:50.974075438120636 Long:11.024136543273926
+2010-10-14 12:16:23 (MESZ): Waypoint wurde gesetzt Lat:50.97325124184359 Long:11.025424003601074
+2010-10-14 12:16:24 (MESZ): Waypoint wurde gesetzt Lat:50.972264889367494 Long:11.024630069732666
+2010-10-14 12:16:25 (MESZ): Waypoint wurde gesetzt Lat:50.9720622116067 Long:11.02329969406128
+2010-10-14 12:16:25 (MESZ): Waypoint wurde gesetzt Lat:50.971967628348956 Long:11.022419929504395
+2010-10-14 12:16:29 (MESZ): Waypoint wurde gesetzt Lat:50.97207572348494 Long:11.02329969406128
+2010-10-14 12:16:30 (MESZ): Waypoint wurde gesetzt Lat:50.97207572348494 Long:11.02329969406128
+2010-10-14 12:16:33 (MESZ): Waypoint wurde gesetzt Lat:50.97207572348494 Long:11.02329969406128
+2010-10-14 12:16:36 (MESZ): Waypoint wurde gesetzt Lat:50.97207572348494 Long:11.02329969406128
+2010-10-14 12:16:37 (MESZ): Waypoint wurde gesetzt Lat:50.97207572348494 Long:11.02329969406128
+2010-10-14 12:17:07 (MESZ): Waypoint wurde gesetzt Lat:50.9724000073833 Long:11.023707389831543
+2010-10-14 12:17:09 (MESZ): Application close currectly!
+2010-10-14 12:19:28 (MESZ): Application did start!
+2010-10-14 12:20:11 (MESZ): Application close currectly!
+2010-10-14 12:38:18 (MESZ): Application did start!
+2010-10-14 12:38:21 (MESZ): Waypoint wurde angelegt, Lat:51.80861475198521 Long:11.953125
+2010-10-14 12:38:26 (MESZ): Application close currectly!
+2010-10-14 13:15:41 (MESZ): Application did start!
+2010-10-14 13:15:44 (MESZ): Application close currectly!
+2010-10-14 13:16:57 (MESZ): Application did start!
+2010-10-14 13:17:14 (MESZ): Application close currectly!
+2010-10-14 13:17:45 (MESZ): Application did start!
+2010-10-14 13:18:09 (MESZ): Application close currectly!
+2010-10-14 13:20:06 (MESZ): Application did start!
+2010-10-14 13:20:10 (MESZ): Waypoint wurde angelegt, Lat:51.53608560178475 Long:10.4150390625
+2010-10-14 13:22:00 (MESZ): Application did start!
+2010-10-14 13:22:02 (MESZ): Waypoint wurde angelegt, Lat:51.713416052417614 Long:10.7666015625
+2010-10-14 13:22:04 (MESZ): Waypoint wurde angelegt, Lat:50.98609893339354 Long:12.3046875
+2010-10-14 13:22:07 (MESZ): Waypoint wurde angelegt, Lat:48.922499263758255 Long:7.4267578125
+2010-10-14 13:22:10 (MESZ): Waypoint wurde angelegt, Lat:50.331436330838834 Long:11.2939453125
+2010-10-14 13:22:12 (MESZ): Waypoint wurde angelegt, Lat:51.01375465718821 Long:8.61328125
+2010-10-14 13:22:14 (MESZ): Waypoint wurde angelegt, Lat:50.7225468336323 Long:11.77734375
+2010-10-14 13:22:21 (MESZ): Application close currectly!
+2010-10-14 13:25:36 (MESZ): Application did start!
+2010-10-14 13:25:41 (MESZ): Application close currectly!
+2010-10-14 13:26:03 (MESZ): Application did start!
+2010-10-14 13:26:25 (MESZ): Application close currectly!
+2010-10-14 13:26:27 (MESZ): Application did start!
+2010-10-14 13:26:33 (MESZ): Application close currectly!
+2010-10-14 13:27:33 (MESZ): Application did start!
+2010-10-14 13:27:44 (MESZ): Application close currectly!
+2010-10-14 13:28:27 (MESZ): Application did start!
+2010-10-14 13:29:39 (MESZ): Application did start!
+2010-10-14 13:29:49 (MESZ): Application close currectly!
+2010-10-14 13:30:22 (MESZ): Application did start!
+2010-10-14 13:30:33 (MESZ): Application close currectly!
+2010-10-14 13:34:15 (MESZ): Application did start!
+2010-10-14 13:35:54 (MESZ): Application did start!
+2010-10-14 13:36:02 (MESZ): Application close currectly!
+2010-10-14 13:37:33 (MESZ): Application did start!
+2010-10-14 13:40:15 (MESZ): Application did start!
+2010-10-14 13:40:22 (MESZ): Application close currectly!
+2010-10-14 13:40:55 (MESZ): Application did start!
+2010-10-14 13:41:10 (MESZ): Application close currectly!
+2010-10-14 13:42:09 (MESZ): Application did start!
+2010-10-14 13:42:46 (MESZ): Application did start!
+2010-10-14 13:42:46 (MESZ): Application did start!
+2010-10-14 13:42:52 (MESZ): Application close currectly!
+2010-10-14 13:42:54 (MESZ): Application close currectly!
+2010-10-14 13:42:56 (MESZ): Application close currectly!
+2010-10-14 14:56:28 (MESZ): Application did start!
+2010-10-14 14:56:31 (MESZ): Waypoint wurde angelegt, Lat:50.84757295365389 Long:10.9423828125
+2010-10-14 14:56:33 (MESZ): Waypoint wurde angelegt, Lat:51.330611637698524 Long:13.0517578125
+2010-10-14 14:56:34 (MESZ): Waypoint wurde angelegt, Lat:52.482780222078226 Long:10.1513671875
+2010-10-14 14:56:35 (MESZ): Waypoint wurde angelegt, Lat:50.40151532278236 Long:8.96484375
+2010-10-14 14:56:37 (MESZ): Application close currectly!
+2010-10-14 14:57:13 (MESZ): Application did start!
+2010-10-14 14:57:15 (MESZ): Waypoint wurde angelegt, Lat:51.998410382390325 Long:11.162109375
+2010-10-14 14:57:17 (MESZ): Waypoint wurde angelegt, Lat:50.999928855859636 Long:8.6572265625
+2010-10-14 14:57:17 (MESZ): Waypoint wurde angelegt, Lat:50.050084778382555 Long:10.92041015625
+2010-10-14 14:57:18 (MESZ): Waypoint wurde angelegt, Lat:49.880477638742555 Long:12.9638671875
+2010-10-14 14:57:19 (MESZ): Waypoint wurde angelegt, Lat:51.65892664880053 Long:13.5791015625
+2010-10-14 14:57:48 (MESZ): Waypoint wurde angelegt, Lat:51.09662294502995 Long:12.2607421875
+2010-10-14 14:57:49 (MESZ): Waypoint wurde angelegt, Lat:51.52241608253253 Long:9.90966796875
+2010-10-14 14:57:50 (MESZ): Waypoint wurde angelegt, Lat:50.40151532278236 Long:9.51416015625
+2010-10-14 14:57:52 (MESZ): Waypoint wurde angelegt, Lat:51.358061573190916 Long:13.9306640625
+2010-10-14 14:57:53 (MESZ): Waypoint wurde angelegt, Lat:51.50874245880332 Long:14.677734375
+2010-10-14 14:57:58 (MESZ): Waypoint wurde angelegt, Lat:51.385495069223204 Long:14.677734375
+2010-10-14 14:58:01 (MESZ): Waypoint wurde angelegt, Lat:51.303145259199056 Long:14.677734375
+2010-10-14 14:58:03 (MESZ): Waypoint wurde angelegt, Lat:51.09662294502995 Long:14.56787109375
+2010-10-14 14:58:04 (MESZ): Waypoint wurde angelegt, Lat:51.09662294502995 Long:14.56787109375
+2010-10-14 14:58:10 (MESZ): Application close currectly!
+2010-10-14 15:30:51 (MESZ): Application did start!
+2010-10-14 15:30:54 (MESZ): Application close currectly!
+2010-10-14 15:38:49 (MESZ): Application did start!
+2010-10-14 15:38:52 (MESZ): Application close currectly!
+2010-10-14 15:46:31 (MESZ): Application did start!
+2010-10-14 15:46:53 (MESZ): Waypoint wurde angelegt, Lat:51.11041991029264 Long:14.4140625
+2010-10-14 15:47:01 (MESZ): Application close currectly!
+2010-10-14 15:48:21 (MESZ): Application did start!
+2010-10-14 15:48:35 (MESZ): Application close currectly!
+2010-10-14 15:49:40 (MESZ): Application did start!
+2010-10-14 15:49:54 (MESZ): Application close currectly!
+2010-10-14 15:53:29 (MESZ): Application did start!
+2010-10-14 15:53:35 (MESZ): Application close currectly!
+2010-10-14 15:56:16 (MESZ): Application did start!
+2010-10-14 16:01:22 (MESZ): Application did start!
+2010-10-14 16:01:39 (MESZ): Waypoint wurde angelegt, Lat:51.358061573190916 Long:10.08544921875
+2010-10-14 16:01:41 (MESZ): Waypoint wurde angelegt, Lat:51.549751017014195 Long:11.4697265625
+2010-10-14 16:01:44 (MESZ): Waypoint wurde angelegt, Lat:50.999928855859636 Long:7.62451171875
+2010-10-14 16:01:45 (MESZ): Waypoint wurde angelegt, Lat:50.275298611425185 Long:11.79931640625
+2010-10-14 16:07:00 (MESZ): Application did start!
+2010-10-14 16:07:09 (MESZ): Application close currectly!
+2010-10-14 16:07:22 (MESZ): Application did start!
+2010-10-14 16:09:34 (MESZ): Waypoint wurde angelegt, Lat:50.98519390223454 Long:11.040658950805664
+2010-10-14 16:09:46 (MESZ): Waypoint wurde angelegt, Lat:50.98593683955771 Long:11.04301929473877
+2010-10-14 16:09:52 (MESZ): Waypoint wurde angelegt, Lat:50.985234426395124 Long:11.040723323822021
+2010-10-14 16:09:55 (MESZ): Waypoint wurde angelegt, Lat:50.985423538676756 Long:11.041131019592285
+2010-10-14 16:09:57 (MESZ): Waypoint wurde angelegt, Lat:50.985693697742654 Long:11.041581630706787
+2010-10-14 16:09:58 (MESZ): Waypoint wurde angelegt, Lat:50.985923331712485 Long:11.04201078414917
+2010-10-14 16:10:04 (MESZ): Waypoint wurde angelegt, Lat:50.98604490217781 Long:11.04250431060791
+2010-10-14 16:10:06 (MESZ): Waypoint wurde angelegt, Lat:50.98603139436406 Long:11.042375564575195
+2010-10-14 16:10:17 (MESZ): Waypoint wurde angelegt, Lat:50.984613052045454 Long:11.040980815887451
+2010-10-14 16:10:17 (MESZ): Waypoint wurde angelegt, Lat:50.983789042797525 Long:11.042375564575195
+2010-10-14 16:10:21 (MESZ): Waypoint wurde angelegt, Lat:50.983707991917484 Long:11.043448448181152
+2010-10-14 16:10:24 (MESZ): Waypoint wurde angelegt, Lat:50.984126753274495 Long:11.04402780532837
+2010-10-14 16:11:31 (MESZ): Waypoint wurde angelegt, Lat:50.98454551085412 Long:11.038792133331299
+2010-10-14 16:11:31 (MESZ): Waypoint wurde angelegt, Lat:50.9840051777858 Long:11.039886474609375
+2010-10-14 16:11:32 (MESZ): Waypoint wurde angelegt, Lat:50.98362694089595 Long:11.040723323822021
+2010-10-14 16:11:33 (MESZ): Waypoint wurde angelegt, Lat:50.98312712313628 Long:11.041409969329834
+2010-10-14 16:11:35 (MESZ): Waypoint wurde angelegt, Lat:50.9839241272831 Long:11.039435863494873
+2010-10-14 16:11:36 (MESZ): Waypoint wurde angelegt, Lat:50.98350536409832 Long:11.039714813232422
+2010-10-14 16:12:01 (MESZ): Waypoint wurde angelegt, Lat:50.98667976499068 Long:11.02776288986206
+2010-10-14 16:12:04 (MESZ): Waypoint wurde angelegt, Lat:50.98677431828378 Long:11.028449535369873
+2010-10-14 16:12:05 (MESZ): Waypoint wurde angelegt, Lat:50.98672028785418 Long:11.028835773468018
+2010-10-14 16:12:07 (MESZ): Waypoint wurde angelegt, Lat:50.98662573445104 Long:11.029157638549805
+2010-10-14 16:12:08 (MESZ): Waypoint wurde angelegt, Lat:50.9865311808553 Long:11.029436588287354
+2010-10-14 16:12:13 (MESZ): Waypoint wurde angelegt, Lat:50.986288042153326 Long:11.03001594543457
+2010-10-14 16:14:41 (MESZ): Application close currectly!
+2010-10-14 16:35:27 (MESZ): Application did start!
+2010-10-14 16:35:35 (MESZ): Waypoint wurde angelegt, Lat:50.52739681329302 Long:10.7666015625
+2010-10-14 16:35:36 (MESZ): Waypoint wurde angelegt, Lat:51.248163159055906 Long:13.68896484375
+2010-10-14 16:35:37 (MESZ): Waypoint wurde angelegt, Lat:50.02185841773444 Long:13.271484375
+2010-10-14 16:35:38 (MESZ): Waypoint wurde angelegt, Lat:49.79544988802771 Long:13.1396484375
+2010-10-14 16:35:39 (MESZ): Waypoint wurde angelegt, Lat:49.42526716083715 Long:10.83251953125
+2010-10-14 16:35:39 (MESZ): Waypoint wurde angelegt, Lat:49.453842594330716 Long:9.07470703125
+2010-10-14 16:35:40 (MESZ): Waypoint wurde angelegt, Lat:50.708634400828224 Long:7.734375
+2010-10-14 16:35:41 (MESZ): Waypoint wurde angelegt, Lat:52.17393169256849 Long:8.525390625
+2010-10-14 16:35:43 (MESZ): Waypoint wurde angelegt, Lat:52.16045455774706 Long:11.337890625
+2010-10-14 16:35:44 (MESZ): Waypoint wurde angelegt, Lat:51.549751017014195 Long:11.7333984375
+2010-10-14 16:35:45 (MESZ): Waypoint wurde angelegt, Lat:50.499452103967734 Long:12.1728515625
+2010-10-14 16:35:46 (MESZ): Waypoint wurde angelegt, Lat:49.66762782262194 Long:12.4365234375
+2010-10-14 16:35:47 (MESZ): Waypoint wurde angelegt, Lat:49.03786794532644 Long:12.216796875
+2010-10-14 16:35:47 (MESZ): Waypoint wurde angelegt, Lat:48.821332549646634 Long:11.25
+2010-10-14 16:35:48 (MESZ): Waypoint wurde angelegt, Lat:48.83579746243093 Long:9.580078125
+2010-10-14 16:35:49 (MESZ): Waypoint wurde angelegt, Lat:48.86471476180277 Long:8.15185546875
+2010-10-14 16:35:50 (MESZ): Waypoint wurde angelegt, Lat:49.439556958940855 Long:7.22900390625
+2010-10-14 16:35:51 (MESZ): Waypoint wurde angelegt, Lat:51.12421275782688 Long:7.6904296875
+2010-10-14 16:35:52 (MESZ): Waypoint wurde angelegt, Lat:51.41291212935532 Long:8.7890625
+2010-10-14 16:35:52 (MESZ): Waypoint wurde angelegt, Lat:51.303145259199056 Long:9.29443359375
+2010-10-14 16:35:53 (MESZ): Waypoint wurde angelegt, Lat:50.875311142200765 Long:9.7998046875
+2010-10-14 16:35:54 (MESZ): Waypoint wurde angelegt, Lat:50.40151532278236 Long:9.77783203125
+2010-10-14 16:35:55 (MESZ): Waypoint wurde angelegt, Lat:50.064191736659104 Long:9.9755859375
+2010-10-14 16:35:56 (MESZ): Waypoint wurde angelegt, Lat:50.064191736659104 Long:9.9755859375
+2010-10-14 16:35:57 (MESZ): Waypoint wurde angelegt, Lat:49.59647007089266 Long:10.1513671875
+2010-10-14 16:35:57 (MESZ): Waypoint wurde angelegt, Lat:49.196064000723794 Long:10.37109375
+2010-10-14 16:35:58 (MESZ): Waypoint wurde angelegt, Lat:48.74894534343293 Long:10.61279296875
+2010-10-14 16:35:59 (MESZ): Waypoint wurde angelegt, Lat:48.603857608232545 Long:11.53564453125
+2010-10-14 16:36:00 (MESZ): Waypoint wurde angelegt, Lat:48.661942846070055 Long:12.041015625
+2010-10-14 16:36:00 (MESZ): Waypoint wurde angelegt, Lat:48.719961222646276 Long:12.23876953125
+2010-10-14 16:36:03 (MESZ): Waypoint wurde angelegt, Lat:49.866316729538674 Long:13.55712890625
+2010-10-14 16:36:03 (MESZ): Waypoint wurde angelegt, Lat:49.453842594330716 Long:13.271484375
+2010-10-14 16:36:04 (MESZ): Waypoint wurde angelegt, Lat:48.980216985374994 Long:13.20556640625
+2010-10-14 16:36:16 (MESZ): Waypoint wurde angelegt, Lat:48.312427904071775 Long:13.29345703125
+2010-10-14 16:36:20 (MESZ): Waypoint wurde angelegt, Lat:48.45835188280866 Long:14.39208984375
+2010-10-14 16:36:21 (MESZ): Waypoint wurde angelegt, Lat:48.64742780553354 Long:14.501953125
+2010-10-14 16:36:23 (MESZ): Waypoint wurde angelegt, Lat:49.18170338770662 Long:15.0732421875
+2010-10-14 16:36:27 (MESZ): Waypoint wurde angelegt, Lat:53.396432127095984 Long:10.37109375
+2010-10-14 16:36:27 (MESZ): Waypoint wurde angelegt, Lat:53.26521293124656 Long:11.77734375
+2010-10-14 16:36:28 (MESZ): Waypoint wurde angelegt, Lat:52.696361078274485 Long:11.77734375
+2010-10-14 16:36:29 (MESZ): Waypoint wurde angelegt, Lat:51.80861475198521 Long:10.61279296875
+2010-10-14 16:36:29 (MESZ): Waypoint wurde angelegt, Lat:52.03897658307622 Long:10.17333984375
+2010-10-14 16:37:33 (MESZ): Application close currectly!
+2010-10-14 16:40:09 (MESZ): Application did start!
+2010-10-14 16:40:11 (MESZ): Waypoint wurde angelegt, Lat:50.40151532278236 Long:10.458984375
+2010-10-14 16:40:27 (MESZ): Waypoint wurde angelegt, Lat:50.792643884760125 Long:9.919989109039307
+2010-10-14 16:40:29 (MESZ): Waypoint wurde angelegt, Lat:50.79298298383862 Long:9.920225143432617
+2010-10-14 16:40:31 (MESZ): Waypoint wurde angelegt, Lat:50.793349208080215 Long:9.920375347137451
+2010-10-14 16:40:32 (MESZ): Waypoint wurde angelegt, Lat:50.793240697492976 Long:9.920439720153809
+2010-10-14 16:40:33 (MESZ): Waypoint wurde angelegt, Lat:50.792779524686736 Long:9.920117855072021
+2010-10-14 16:40:34 (MESZ): Waypoint wurde angelegt, Lat:50.79237260372603 Long:9.919753074645996
+2010-10-14 16:40:35 (MESZ): Waypoint wurde angelegt, Lat:50.79222339848618 Long:9.919624328613281
+2010-10-14 16:40:37 (MESZ): Application close currectly!
+2010-10-14 16:41:00 (MESZ): Application did start!
+2010-10-14 16:41:04 (MESZ): Application close currectly!
+2010-10-14 16:41:16 (MESZ): Application did start!
+2010-10-14 16:41:19 (MESZ): Application close currectly!
+2010-10-14 16:41:42 (MESZ): Application did start!
+2010-10-14 16:41:45 (MESZ): Application close currectly!
+2010-10-14 16:49:34 (MESZ): Application did start!
+2010-10-14 16:49:40 (MESZ): Application close currectly!
+2010-10-14 16:49:50 (MESZ): Application did start!
+2010-10-14 16:50:14 (MESZ): Application close currectly!
+2010-10-14 16:50:15 (MESZ): Application did start!
+2010-10-14 16:51:02 (MESZ): Application close currectly!
+2010-10-14 16:52:17 (MESZ): Application did start!
+2010-10-14 16:52:26 (MESZ): Waypoint wurde angelegt, Lat:50.973720765286124 Long:11.022489666938782
+2010-10-14 16:52:28 (MESZ): Waypoint wurde angelegt, Lat:50.97368698677966 Long:11.022393107414246
+2010-10-14 16:52:44 (MESZ): Waypoint wurde angelegt, Lat:50.97369712033417 Long:11.022377014160156
+2010-10-14 16:53:26 (MESZ): Waypoint wurde angelegt, Lat:50.973693742482915 Long:11.022393107414246
+2010-10-14 16:53:28 (MESZ): Waypoint wurde angelegt, Lat:50.973673475370184 Long:11.022403836250305
+2010-10-14 16:53:30 (MESZ): Application close currectly!
+2010-10-14 16:53:47 (MESZ): Application did start!
+2010-10-14 16:54:03 (MESZ): Application close currectly!
+2010-10-14 16:54:05 (MESZ): Application did start!
+2010-10-14 16:55:43 (MESZ): Application did start!
+2010-10-14 16:55:51 (MESZ): Waypoint wurde angelegt, Lat:50.97367685322292 Long:11.022344827651978
+2010-10-14 16:56:00 (MESZ): Application close currectly!
+2010-10-14 16:56:12 (MESZ): Application did start!
+2010-10-14 16:56:48 (MESZ): Application close currectly!
+2010-10-14 17:28:27 (MESZ): Application did start!
+2010-10-14 17:28:32 (MESZ): Waypoint wurde angelegt, Lat:50.974021392911254 Long:11.02402925491333
+2010-10-14 17:32:08 (MESZ): Application did start!
+2010-10-14 17:32:11 (MESZ): Waypoint wurde angelegt, Lat:50.97388627961264 Long:11.021969318389893
+2010-10-14 17:32:12 (MESZ): Waypoint wurde angelegt, Lat:50.97372414313539 Long:11.022977828979492
+2010-10-14 17:32:13 (MESZ): Waypoint wurde angelegt, Lat:50.97352147174286 Long:11.024694442749023
+2010-10-14 17:32:30 (MESZ): Waypoint wurde angelegt, Lat:50.97400788159907 Long:11.020939350128174
+2010-10-14 17:32:31 (MESZ): Waypoint wurde angelegt, Lat:50.97372414313539 Long:11.022977828979492

@@ -1,0 +1,68 @@
+2010-10-11 08:58:04 (MESZ): Application did start!
+2010-10-11 08:59:50 (MESZ): Application close currectly!
+2010-10-11 09:02:20 (MESZ): Application did start!
+2010-10-11 09:02:44 (MESZ): Zoom range ends!
+2010-10-11 09:02:48 (MESZ): Zoom range ends!
+2010-10-11 09:02:49 (MESZ): Zoom range ends!
+2010-10-11 09:02:49 (MESZ): Zoom range ends!
+2010-10-11 09:02:51 (MESZ): Application close currectly!
+2010-10-11 09:03:13 (MESZ): Application did start!
+2010-10-11 09:03:19 (MESZ): Application close currectly!
+2010-10-11 09:30:42 (MESZ): Application did start!
+2010-10-11 09:31:16 (MESZ): Application did start!
+2010-10-11 09:31:20 (MESZ): Application close currectly!
+2010-10-11 09:36:49 (MESZ): Application did start!
+2010-10-11 09:38:48 (MESZ): Application did start!
+2010-10-11 09:39:06 (MESZ): Application close currectly!
+2010-10-11 09:39:20 (MESZ): Application did start!
+2010-10-11 09:39:28 (MESZ): Application close currectly!
+2010-10-11 09:41:15 (MESZ): Application did start!
+2010-10-11 09:41:51 (MESZ): Application did start!
+2010-10-11 09:43:34 (MESZ): Application close currectly!
+2010-10-11 09:43:37 (MESZ): Application close currectly!
+2010-10-11 09:43:37 (MESZ): Application close currectly!
+2010-10-11 09:43:48 (MESZ): Application did start!
+2010-10-11 09:43:59 (MESZ): Zoom range ends!
+2010-10-11 09:43:59 (MESZ): Zoom range ends!
+2010-10-11 09:44:08 (MESZ): Zoom range ends!
+2010-10-11 09:44:11 (MESZ): Application close currectly!
+2010-10-11 09:44:31 (MESZ): Application did start!
+2010-10-11 09:44:35 (MESZ): Application close currectly!
+2010-10-11 09:45:14 (MESZ): Application did start!
+2010-10-11 09:45:32 (MESZ): Application close currectly!
+2010-10-11 09:47:43 (MESZ): Application did start!
+2010-10-11 09:49:50 (MESZ): Application did start!
+2010-10-11 09:49:50 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:49:50 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:49:50 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:49:50 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:49:50 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:49:50 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:49:50 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:49:50 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:49:50 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:52:21 (MESZ): Application did start!
+2010-10-11 09:52:22 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:52:22 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:52:22 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:52:22 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:52:22 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:52:22 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:52:22 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:52:22 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 09:52:22 (MESZ): URLImageRequest problem to load Image cause image is null!
+2010-10-11 10:00:46 (MESZ): Application did start!
+2010-10-11 10:03:36 (MESZ): Application close currectly!
+2010-10-11 10:03:54 (MESZ): Application did start!
+2010-10-11 10:04:45 (MESZ): Application close currectly!
+2010-10-11 10:26:54 (MESZ): Application did start!
+2010-10-11 10:27:04 (MESZ): Application close currectly!
+2010-10-11 11:03:47 (MESZ): Application did start!
+2010-10-11 11:07:04 (MESZ): Application close currectly!
+2010-10-11 11:12:19 (MESZ): Application did start!
+2010-10-11 11:12:52 (MESZ): Application did start!
+2010-10-11 11:13:25 (MESZ): No webcam foundet!
+2010-10-11 11:13:57 (MESZ): Application did start!
+2010-10-11 11:14:01 (MESZ): No webcam foundet!
+2010-10-11 11:14:13 (MESZ): Application close currectly!
+2010-10-11 11:14:45 (MESZ): Application close currectly!

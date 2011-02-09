@@ -1,0 +1,163 @@
+2011-02-09 09:01:46 (MEZ): Application did start!
+2011-02-09 09:02:48 (MEZ): Send: #acMAq
+2011-02-09 09:03:33 (MEZ): Send: #bC@E
+2011-02-09 09:03:38 (MEZ): Send: #bC@E
+2011-02-09 09:03:40 (MEZ): Send: #bC@E
+2011-02-09 09:04:39 (MEZ): Send: #bC@E
+2011-02-09 09:04:43 (MEZ): Send: #bc@e
+2011-02-09 09:05:10 (MEZ): Send: #bc@e
+2011-02-09 09:05:39 (MEZ): Send: #bc@e
+2011-02-09 09:05:46 (MEZ): Send: #bc@e
+2011-02-09 09:07:30 (MEZ): Send: #bc@e
+2011-02-09 09:07:54 (MEZ): Send: #bc@e
+2011-02-09 09:08:20 (MEZ): Send: #bc@e
+2011-02-09 09:11:12 (MEZ): Send: #bc@e
+2011-02-09 09:11:33 (MEZ): Send: #bc@e
+2011-02-09 09:11:34 (MEZ): Send: #bc@e
+2011-02-09 09:12:11 (MEZ): Application close currectly!
+2011-02-09 09:15:28 (MEZ): Application did start!
+2011-02-09 09:15:37 (MEZ): Please open connection at first.
+2011-02-09 09:16:18 (MEZ): Send: #cc@f
+2011-02-09 09:17:23 (MEZ): Send: #ccGAm
+2011-02-09 09:17:34 (MEZ): Send: #ccGAm
+2011-02-09 09:22:57 (MEZ): Send: #ccTAz
+2011-02-09 09:23:05 (MEZ): Send: #ccZB@
+2011-02-09 09:23:14 (MEZ): Send: #ccZB@
+2011-02-09 09:23:32 (MEZ): Send: #ccZB@
+2011-02-09 09:23:40 (MEZ): Send: #ccZB@
+2011-02-09 09:24:18 (MEZ): Send: #ccZB@
+2011-02-09 09:24:25 (MEZ): Send: #ccZB@
+2011-02-09 09:24:30 (MEZ): Send: #ccZB@
+2011-02-09 09:24:48 (MEZ): Send: #ccZB@
+2011-02-09 09:24:53 (MEZ): Send: #ccZB@
+2011-02-09 09:28:35 (MEZ): Application did start!
+2011-02-09 09:29:10 (MEZ): Send: #cCMAS
+2011-02-09 09:29:12 (MEZ): Send: #cCMAS
+2011-02-09 09:29:16 (MEZ): Send: #ccMAs
+2011-02-09 09:29:23 (MEZ): Send: #ccMAs
+2011-02-09 09:29:48 (MEZ): Application did start!
+2011-02-09 09:29:51 (MEZ): Application close currectly!
+2011-02-09 09:30:28 (MEZ): Send: #ccMAs
+2011-02-09 09:30:33 (MEZ): Send: #ccMAs
+2011-02-09 09:31:23 (MEZ): Application did start!
+2011-02-09 09:31:57 (MEZ): Send: #ccMAs
+2011-02-09 09:32:18 (MEZ): Send: #ccMAs
+2011-02-09 09:32:36 (MEZ): Send: #ccMAs
+2011-02-09 09:33:06 (MEZ): Send: #ccMAs
+2011-02-09 09:34:11 (MEZ): Send: #ccMAs
+2011-02-09 09:39:50 (MEZ): Application did start!
+2011-02-09 09:41:19 (MEZ): Send: #ccMAs
+2011-02-09 09:41:59 (MEZ): Send: #ccMAs
+2011-02-09 09:42:26 (MEZ): Send: #ccMAs
+2011-02-09 09:42:34 (MEZ): Send: #ccMAs
+2011-02-09 09:42:50 (MEZ): Send: #ccMAs
+2011-02-09 09:42:59 (MEZ): Send: #ccMAs
+2011-02-09 09:43:28 (MEZ): Send: #ccMAs
+2011-02-09 09:43:58 (MEZ): Send: #ccMAs
+2011-02-09 09:54:54 (MEZ): Send: #ccMAs
+2011-02-09 09:56:23 (MEZ): Application did start!
+2011-02-09 09:57:02 (MEZ): Send: #ccCAi
+2011-02-09 09:57:07 (MEZ): Send: #ccCAi
+2011-02-09 09:57:11 (MEZ): Send: #ccCAi
+2011-02-09 09:57:16 (MEZ): Send: #ccCAi
+2011-02-09 09:57:27 (MEZ): Send: #ccCAi
+2011-02-09 09:57:31 (MEZ): Send: #ccCAi
+2011-02-09 10:00:51 (MEZ): Application did start!
+2011-02-09 10:07:31 (MEZ): Send: #ccBAh
+2011-02-09 10:07:42 (MEZ): Send: #ccBMBu
+2011-02-09 10:07:48 (MEZ): Send: #ccBMBu
+2011-02-09 10:07:56 (MEZ): Send: #ccBIBq
+2011-02-09 10:08:21 (MEZ): Send: #cc{Ba
+2011-02-09 10:08:25 (MEZ): Send: #cc{VCw
+2011-02-09 10:08:39 (MEZ): Send: #cc==B`
+2011-02-09 10:08:42 (MEZ): Send: #cc"AH
+2011-02-09 10:08:49 (MEZ): Send: #ccaaCh
+2011-02-09 10:08:58 (MEZ): Send: #ccAaCH
+2011-02-09 10:10:09 (MEZ): Send: #ag@h
+2011-02-09 10:10:10 (MEZ): Send: #ag@h
+2011-02-09 10:10:11 (MEZ): Send: #ag@h
+2011-02-09 10:10:12 (MEZ): Send: #ag@h
+2011-02-09 10:10:28 (MEZ): Send: #ab@c
+2011-02-09 10:10:32 (MEZ): Send: #ab@c
+2011-02-09 10:10:38 (MEZ): Send: #ab=====ET
+2011-02-09 10:11:02 (MEZ): Send: #btMBC
+2011-02-09 10:11:05 (MEZ): Send: #btMBC
+2011-02-09 10:11:53 (MEZ): Send: #al@m
+2011-02-09 10:11:53 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:13:53 (MEZ): Application close currectly!
+2011-02-09 10:40:53 (MEZ): Application did start!
+2011-02-09 10:43:36 (MEZ): Send: #aqMB?
+2011-02-09 10:43:38 (MEZ): Send: #aqMB?
+2011-02-09 10:43:42 (MEZ): Send: #aqM==Cy
+2011-02-09 10:43:43 (MEZ): Send: #aqM==Cy
+2011-02-09 10:43:43 (MEZ): Send: #aqM==Cy
+2011-02-09 10:43:48 (MEZ): Send: #aqM===Dv
+2011-02-09 10:43:53 (MEZ): Send: #av@w
+2011-02-09 10:43:53 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:44:49 (MEZ): Send: #av@w
+2011-02-09 10:44:49 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:45:43 (MEZ): Send: #av@w
+2011-02-09 10:45:43 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:45:47 (MEZ): Send: #aq@r
+2011-02-09 10:45:48 (MEZ): Send: #aq@r
+2011-02-09 10:45:50 (MEZ): Send: #aq@r
+2011-02-09 10:46:16 (MEZ): Send: #baM===Dg
+2011-02-09 10:46:17 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:27 (MEZ): Send: #baMAp
+2011-02-09 10:46:27 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:28 (MEZ): Send: #baMAp
+2011-02-09 10:46:28 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:32 (MEZ): Send: #baMAp
+2011-02-09 10:46:40 (MEZ): Send: #baMAp
+2011-02-09 10:46:40 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:41 (MEZ): Send: #baMAp
+2011-02-09 10:46:41 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:42 (MEZ): Send: #baMAp
+2011-02-09 10:46:42 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:43 (MEZ): Send: #baMAp
+2011-02-09 10:46:43 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:44 (MEZ): Send: #baMAp
+2011-02-09 10:46:44 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:45 (MEZ): Send: #baMAp
+2011-02-09 10:46:45 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:45 (MEZ): Send: #baMAp
+2011-02-09 10:46:45 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:46 (MEZ): Send: #baMAp
+2011-02-09 10:46:46 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:47 (MEZ): Send: #baMAp
+2011-02-09 10:46:47 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:48 (MEZ): Send: #baMAp
+2011-02-09 10:46:48 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:48 (MEZ): Send: #baMAp
+2011-02-09 10:46:48 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:49 (MEZ): Send: #baMAp
+2011-02-09 10:46:49 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:50 (MEZ): Send: #baMAp
+2011-02-09 10:46:50 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:51 (MEZ): Send: #baMAp
+2011-02-09 10:46:51 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:51 (MEZ): Send: #baMAp
+2011-02-09 10:46:52 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:52 (MEZ): Send: #baMAp
+2011-02-09 10:46:52 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:53 (MEZ): Send: #baMAp
+2011-02-09 10:46:53 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:54 (MEZ): Send: #baMAp
+2011-02-09 10:46:54 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:55 (MEZ): Send: #baMAp
+2011-02-09 10:46:55 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:55 (MEZ): Send: #baMAp
+2011-02-09 10:46:55 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:56 (MEZ): Send: #baMAp
+2011-02-09 10:46:56 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:46:57 (MEZ): Send: #baMAp
+2011-02-09 10:46:57 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-09 10:48:31 (MEZ): Application close currectly!
+2011-02-09 10:52:49 (MEZ): Application did start!
+2011-02-09 10:53:29 (MEZ): Send: #ccGAm
+2011-02-09 10:55:14 (MEZ): Send: #bcGAl
+2011-02-09 10:55:24 (MEZ): Send: #acGAk
+2011-02-09 10:57:32 (MEZ): Send: #acGAk
+2011-02-09 11:04:10 (MEZ): Application did start!
+2011-02-09 11:04:12 (MEZ): Application close currectly!
+2011-02-09 11:04:14 (MEZ): Send: #acGAk
