@@ -1,0 +1,9 @@
+2011-02-17 07:23:31 (MEZ): Application did start!
+2011-02-17 07:23:56 (MEZ): Application close currectly!
+2011-02-17 07:24:32 (MEZ): Application did start!
+2011-02-17 07:24:49 (MEZ): Application close currectly!
+2011-02-17 07:26:39 (MEZ): Application did start!
+2011-02-17 07:27:40 (MEZ): Application did start!
+2011-02-17 07:27:49 (MEZ): Application close currectly!
+2011-02-17 07:27:51 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-17 07:28:08 (MEZ): Application close currectly!
