@@ -210,11 +210,11 @@ public class MKopter3DViewController extends JPanel
 		
 		LogSystem.CLog("Data0: "+Integer.toString(data[0])+" Data0: "+Integer.toString(data[1]));
 		
-		data3D.setNick((short) (((data[0] << 8) & 0xFF00 ) | data[1]));
-		data3D.setRoll((short) ((data[2] << 8) | data[3]));
-		data3D.setCompass((short) ((data[4] << 8) | data[5]));
-		Float value = (float) (((data[0] << 8) & 0xFF00 ) | data[1]);
-		LogSystem.CLog("Nick: "+data3D.nick() + " in float: " + value.toString());
+		data3D.setNick((short) (((data[1] << 8) & 0xFF00 ) | data[0]));
+		data3D.setRoll((short) (((data[3] << 8) & 0xFF00 ) | data[2]));
+		data3D.setCompass((short) (((data[5] << 8) & 0xFF00 ) | data[4]));
+		
+		LogSystem.CLog("Nick: "+data3D.nick());
 		LogSystem.CLog("Roll: "+data3D.roll());
 		LogSystem.CLog("Compass"+data3D.compass());
 	}
