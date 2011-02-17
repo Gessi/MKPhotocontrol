@@ -76,6 +76,7 @@ public class MKCameraControlWindow extends javax.swing.JFrame {
 				rollCameraSlider = new JSlider();
 				getContentPane().add(rollCameraSlider);
 				rollCameraSlider.setBounds(35, 309, 320, 16);
+				rollCameraSlider.setName("rollCameraSlider");
 				rollCameraSlider.addChangeListener(new ChangeListener() {
 					public void stateChanged(ChangeEvent evt) {
 						rollCameraSliderStateChanged(evt);
