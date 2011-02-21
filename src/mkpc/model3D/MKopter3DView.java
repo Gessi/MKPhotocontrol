@@ -6,11 +6,16 @@
 package mkpc.model3D;
 
 import java.awt.BorderLayout;
+import java.util.Timer;
+import java.util.TimerTask;
 
 import javax.media.opengl.*;
 import javax.media.opengl.glu.*;
 import javax.swing.JPanel;
 
+import mkpc.app.Application;
+import mkpc.comm.MKData3D;
+import mkpc.comm.MKParameter;
 import mkpc.log.LogSystem;
 
 import com.sun.opengl.util.FPSAnimator;
@@ -40,10 +45,11 @@ public class MKopter3DView extends JPanel implements GLEventListener {
 
 	static float rotateY = 0;
 	static float rotateZ = 0;
+	static float rotateX = 0;
 	
-	static float pitch = 0;
 	static float roll = 0;
 	static float yaw = 0;
+	static float nick = 0;
 	
 	private boolean isCoordianteLineHidden = true;
 	private MKCopterModel copterModel = null;
@@ -64,6 +70,8 @@ public class MKopter3DView extends JPanel implements GLEventListener {
 
 	public void startAnimation()
 	{
+		Timer atimer = new Timer();
+		atimer.schedule(new requestTask(), 100, 100);
 		new Thread() {
 			@Override
 			public void run() {
@@ -206,30 +214,34 @@ public class MKopter3DView extends JPanel implements GLEventListener {
 	private void update()
 	{
 		// Update the rotational angle after each refresh.
-		rotateY = rotateY%360 + 1;
 		
+		MKData3D data = MKParameter.shardParameter().getData3D();
 		
-		if(goON)
-		{
-			rotateZ += 1;
-		}
-		else
-		{
-			rotateZ -= 1;
-		}
+		roll = data.roll()/10;
+		nick = data.nick()/10;
 		
-		if(rotateZ > 30)
-		{
-			goON = false;
-		}
-		
-		if(rotateZ < -30)
-		{
-			goON = true;
-		}
-		
-		roll = rotateZ;
-		yaw =rotateY;
+//		rotateY = rotateY%360 + 1;
+//		if(goON)
+//		{
+//			rotateZ += 1;
+//		}
+//		else
+//		{
+//			rotateZ -= 1;
+//		}
+//		
+//		if(rotateZ > 30)
+//		{
+//			goON = false;
+//		}
+//		
+//		if(rotateZ < -30)
+//		{
+//			goON = true;
+//		}
+//		
+//		roll = rotateZ;
+//		yaw =rotateY;
 	}
 
 	@SuppressWarnings("unused")
@@ -260,7 +272,7 @@ public class MKopter3DView extends JPanel implements GLEventListener {
 		{	
 			gl.glRotatef(roll, 0.0f, 0.0f, 1.0f); // rotate about the z axe
 			gl.glRotatef(yaw, 0.0f, 1.0f, 0.0f); // rotate about the y axe
-			gl.glRotatef(pitch, 1.0f, 0.0f, 0.0f); // rotate about the x axe
+			gl.glRotatef(nick, 1.0f, 0.0f, 0.0f); // rotate about the x axe
 			
 			gl.glPushMatrix();
 			{
@@ -321,7 +333,7 @@ public class MKopter3DView extends JPanel implements GLEventListener {
 			
 			gl.glRotatef(roll, 0.0f, 0.0f, 1.0f); // rotate about the z axe
 			gl.glRotatef(yaw, 0.0f, 1.0f, 0.0f); // rotate about the y axe
-			gl.glRotatef(pitch, 1.0f, 0.0f, 0.0f); // rotate about the x axe
+			gl.glRotatef(nick, 1.0f, 0.0f, 0.0f); // rotate about the x axe
 			
 			gl.glPushMatrix();
 			{
@@ -634,5 +646,15 @@ public class MKopter3DView extends JPanel implements GLEventListener {
 
 	public MKCopterModel getCopterModel() {
 		return copterModel;
+	}
+	
+	class requestTask extends TimerTask
+	{
+
+		@Override
+		public void run() {
+			Application.sharedApplication().serialComm.sendCommand("#ccB");
+		}
+		
 	}
 }

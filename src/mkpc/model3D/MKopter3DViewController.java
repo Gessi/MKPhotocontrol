@@ -6,9 +6,12 @@ import java.awt.GridLayout;
 import java.awt.Rectangle;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.TimerTask;
 
 import javax.swing.*;
 
+import mkpc.app.Application;
+import mkpc.comm.MKCommunication;
 import mkpc.comm.MKData3D;
 import mkpc.comm.MKParameter;
 import mkpc.log.LogSystem;
