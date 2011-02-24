@@ -11,9 +11,12 @@ import javax.swing.JSlider;
 
 import javax.swing.WindowConstants;
 import javax.swing.border.BevelBorder;
+import javax.swing.event.AncestorEvent;
+import javax.swing.event.AncestorListener;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
+import mkpc.comm.MKParameter;
 import mkpc.log.LogSystem;
 import mkpc.webcam.WebcamView;
 
@@ -43,7 +46,11 @@ public class MKCameraControlWindow extends javax.swing.JFrame {
 	private JLabel lbl_webcamBackground;
 	private JSlider nickCameraSlider;
 	private JSlider rollCameraSlider;
-
+	
+	private int nickMin = -100;
+	private int nickMax = 100;
+	private char nickSteps = 10;
+	private int nickOldValue = 0;
 	/**
 	* Auto-generated main method to display this JFrame
 	*/
@@ -93,6 +100,9 @@ public class MKCameraControlWindow extends javax.swing.JFrame {
 						nickCameraSliderStateChanged(evt);
 					}
 				});
+				nickCameraSlider.setMinimum(nickMin);
+				nickCameraSlider.setMaximum(nickMax);
+				nickCameraSlider.setValue(nickOldValue);
 			}
 			{
 				lbl_webcamBackground = new JLabel();
@@ -123,13 +133,17 @@ public class MKCameraControlWindow extends javax.swing.JFrame {
 	private void nickCameraSliderStateChanged(ChangeEvent evt) 
 	{
 		LogSystem.CLog("nickCameraSlider.stateChanged, event="+evt);
+		if (nickCameraSlider != null && !nickCameraSlider.getValueIsAdjusting()) 
+		{
+			MKParameter.shardParameter().setNickForCamera((char)nickCameraSlider.getValue());
+		}
 	}
 	
 	private void rollCameraSliderStateChanged(ChangeEvent evt) 
 	{
 		LogSystem.CLog("rollCameraSlider.stateChanged, event="+evt);
 	}
-	
+
 	private class MKKeyDispatcher implements KeyEventDispatcher {
 	    @Override
 	    public boolean dispatchKeyEvent(KeyEvent e) {
@@ -149,7 +163,7 @@ public class MKCameraControlWindow extends javax.swing.JFrame {
 						break;
 					
 					case 38: //arrow up
-						nickCameraSlider.setValue(nickCameraSlider.getValue()+1);
+						nickCameraSlider.setValue(nickCameraSlider.getValue()+nickSteps);
 						break;
 						
 					case 39: //arrow right
@@ -157,12 +171,12 @@ public class MKCameraControlWindow extends javax.swing.JFrame {
 						break;
 						
 					case 40: //arrow down
-						nickCameraSlider.setValue(nickCameraSlider.getValue()-1);
+						nickCameraSlider.setValue(nickCameraSlider.getValue()-nickSteps);
 						break;
-
 					default:
 						break;
 					}
+		       
 		        } 
 		    	else if (e.getID() == KeyEvent.KEY_RELEASED) 
 		    	{

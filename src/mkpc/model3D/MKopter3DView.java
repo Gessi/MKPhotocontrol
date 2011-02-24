@@ -51,6 +51,8 @@ public class MKopter3DView extends JPanel implements GLEventListener {
 	static float yaw = 0;
 	static float nick = 0;
 	
+	public static float currectYaw = 0;
+	
 	private boolean isCoordianteLineHidden = true;
 	private MKCopterModel copterModel = null;
 	
@@ -218,7 +220,8 @@ public class MKopter3DView extends JPanel implements GLEventListener {
 		MKData3D data = MKParameter.shardParameter().getData3D();
 		
 		roll = data.roll()/10;
-		nick = data.nick()/10;
+		nick = -data.nick()/10;
+		yaw = (-data.compass()/10)+currectYaw;
 		
 //		rotateY = rotateY%360 + 1;
 //		if(goON)
@@ -653,7 +656,9 @@ public class MKopter3DView extends JPanel implements GLEventListener {
 
 		@Override
 		public void run() {
-			Application.sharedApplication().serialComm.sendCommand("#ccB");
+			int[] value = new int[1];
+			value[0] = 100;
+			Application.sharedApplication().serialComm.sendCommand('c', 'c', value);
 		}
 		
 	}

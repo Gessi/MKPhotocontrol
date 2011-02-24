@@ -1,5 +1,7 @@
 package mkpc.comm;
 
+import mkpc.app.Application;
+
 /**
  * This class take all settings of the and will save it, it will be use for sending commands
  * and to set some GUI elements with the right settings.
@@ -45,11 +47,19 @@ public class MKParameter
 	private char reserved[] = new char[7];
 	private char name[] = new char[12];
 	
+	// current new Data
+	private char[] serialPoti = new char[12];	// 0 = camera, 1 = camera nick movement, 3 - 12 nothing
+	
 	private MKData3D data3D = null;
 	
 	public MKParameter()
 	{
 		setData3D(new MKData3D());
+		
+		for(int i = 0; i < this.serialPoti.length; i++)
+		{
+			serialPoti[i] = 0;
+		}
 	}
 	
 	public static MKParameter shardParameter()
@@ -265,6 +275,20 @@ public class MKParameter
 	}
 	public void setName(char[] name) {
 		this.name = name;
+	}
+	
+	public void setNickForCamera(char value)
+	{
+		this.serialPoti[1] = value;
+		if(Application.sharedApplication().serialComm != null)
+		{
+			Application.sharedApplication().serialComm.sendCommand('b', 'y', this.serialPoti);
+		}
+	}
+	
+	public char getNickForCamera()
+	{
+		return this.serialPoti[1];
 	}
 
 	public void setData3D(MKData3D data3D) {
