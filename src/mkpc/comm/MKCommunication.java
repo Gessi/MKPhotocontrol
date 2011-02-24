@@ -47,14 +47,16 @@ public class MKCommunication
 
 	String buffer = "";
 	String packageInput = "";
-	
-	JButton refButton = null;
+
 	boolean stopButtonAnimation = true;
 	boolean isButtonAnimationStopped = false;
 	boolean initalCopterRequestStarted = false;
 	boolean isCopterConnected = false;
 	int requestTimeOut = 12000;	// ms
 	Timer timer = null;
+	
+	/// new since 24.02.2011
+	MKCommunicationDelegate delegate = null;
 	
 	public boolean isPortOpen()
 	{
@@ -66,14 +68,18 @@ public class MKCommunication
 	 * @param portName	Portname example COM1
 	 * @param btn Button which will change the text
 	 */
-	public void openComPort(String portName, JButton btn)
+	public void openComPort(String portName, MKCommunicationDelegate delegate)
 	{
-		this.refButton = btn;
 		final String comPort = portName;
+		final MKCommunicationDelegate answerDelegate = delegate;
+		
+		this.delegate = delegate;
+		
 		new Thread(new Runnable() {
 			public void run() {
 				if(openComPort(comPort))
 				{
+					answerDelegate.communicationDidOpenCOMPort();
 					// request copter
 					initalCopterRequestStarted = true;
 					
@@ -92,59 +98,10 @@ public class MKCommunication
 					//stopButtonAnimation = true;
 					//setButtonTextToFinish();
 				}
-				else
-				{
-					stopButtonAnimation = true;
-					setButtonTextToClose();
-				}
-			}
-		}).start();
-		stopButtonAnimation = false;
-		new Thread(new Runnable() {
-			public void run() {
-				int points = 6;
-				int count = 1;
-				isButtonAnimationStopped = false;
-				refButton.setEnabled(false);
-				while(!stopButtonAnimation)
-				{
-					String pointsStr = "Search ";
-					for(int i = 0; i < count%points; i++)
-						pointsStr = pointsStr + ".";
-					refButton.setText(pointsStr);
-					++count;
-					try {
-						Thread.sleep(500);
-					} catch (InterruptedException e) {
-						e.printStackTrace();
-					}
-				}
-				isButtonAnimationStopped = true;
 			}
 		}).start();
 	}
-	
-	public void setButtonTextToFinish()
-	{
-		// wait for stopped animation
-		while(!isButtonAnimationStopped)
-		{}
-		
-		refButton.setEnabled(true);
-		refButton.setText(LogSystem.getMessage("buttonConnectCopterFinshed"));
-	}
-	
-	public void setButtonTextToClose()
-	{
-		this.closeComPort();
-		
-		// wait for stopped animation
-		while(!isButtonAnimationStopped)
-		{}
-		refButton.setEnabled(true);
-		refButton.setText(LogSystem.getMessage("buttonConnectCopter"));
-	}
-	
+
 	public boolean openComPort(String portName)
 	{
 		Boolean foundPort = false;
@@ -165,40 +122,57 @@ public class MKCommunication
 				break;
 			}
 		}
-		if (foundPort != true) {
+		if (foundPort != true) 
+		{
+			delegate.communicationDidFailOpenCOMPort(LogSystem.getMessage("serialCommError003")+ " " + portName);
 			LogSystem.addLog(LogSystem.getMessage("serialCommError003")+ " " + portName);
 			return false;
 		}
 
-		try {
+		try 
+		{
 			serialPort = (SerialPort) serialPortId.open("Öffnen und Senden", 500);
-		} catch (PortInUseException e) {
-			LogSystem.addLog("Port belegt");
+		} 
+		catch (PortInUseException e) 
+		{
+			delegate.communicationDidFailOpenCOMPort("Portbelegt");
 		}
 		
-		try {
+		try 
+		{
 			outputStream = serialPort.getOutputStream();
-		} catch (IOException e) {
-			LogSystem.addLog("Keinen Zugriff auf OutputStream");
+		} 
+		catch (IOException e) 
+		{
+			delegate.communicationDidFailOpenCOMPort("Keinen Zugriff auf OutputStream");
 		}
 
-		try {
+		try 
+		{
 			inputStream = serialPort.getInputStream();
-		} catch (IOException e) {
-			LogSystem.addLog("Keinen Zugriff auf InputStream");
+		} 
+		catch (IOException e) 
+		{
+			delegate.communicationDidFailOpenCOMPort("Keinen Zugriff auf InputStream");
 		}
 
-		try {
+		try 
+		{
 			serialPort.addEventListener(new serialPortEventListener());
-		} catch (TooManyListenersException e) {
-			LogSystem.addLog("TooManyListenersException für Serialport");
+		} 
+		catch (TooManyListenersException e) 
+		{
+			delegate.communicationDidFailOpenCOMPort("TooManyListenersException für Serialport");
 		}
 		serialPort.notifyOnDataAvailable(true);
-		try {
-			serialPort
-					.setSerialPortParams(baudrate, dataBits, stopBits, parity);
-		} catch (UnsupportedCommOperationException e) {
-			LogSystem.addLog("Konnte Schnittstellen-Paramter nicht setzen");
+		
+		try 
+		{
+			serialPort.setSerialPortParams(baudrate, dataBits, stopBits, parity);
+		} 
+		catch (UnsupportedCommOperationException e) 
+		{
+			delegate.communicationDidFailOpenCOMPort("Konnte Schnittstellen-Paramter nicht setzen");
 		}
 		
 		isPortOpen = true;
@@ -294,7 +268,7 @@ public class MKCommunication
 			timer.cancel();
 			timer = null;
 			stopButtonAnimation = true;
-			setButtonTextToFinish();
+			delegate.communicationDidOpenCopterConnection();
 		}
 		// testing ---
 		
@@ -399,14 +373,6 @@ public class MKCommunication
 		switch (command)
 		{
 			case MKCommand.SerialLinkTestResponse:
-				if(initalCopterRequestStarted)
-				{
-					initalCopterRequestStarted = false;
-					timer.cancel();
-					timer = null;
-					stopButtonAnimation = true;
-					setButtonTextToFinish();
-				}
 				break;
 			case MKCommand.ErrorTextResponse:
 				break;
@@ -468,6 +434,26 @@ public class MKCommunication
 			int a = (i*3<params.length)?params[i*3]:0;
             int b = ((i*3+1)<params.length)?params[i*3+1]:0;
             int c = ((i*3+2)<params.length)?params[i*3+2]:0;
+
+            result[i*4] =  (char)((a >> 2)+'=' );
+            result[i*4+1] = (char)('=' + (((a & 0x03) << 4) | ((b & 0xf0) >> 4)));
+            result[i*4+2] = (char)('=' + (((b & 0x0f) << 2) | ((c & 0xc0) >> 6)));
+            result[i*4+3] = (char)('=' + ( c & 0x3f));
+		}
+		
+		return result;
+	}
+	
+	public char[] encode64(char[] params)
+	{
+		int length = ( params.length/3 + (params.length%3==0?0:1) )*4;
+		char[] result = new char[length];
+		
+		for ( int i = 0; i < length/4; ++i)
+		{
+			char a = (i*3<params.length)?params[i*3]:0;
+            char b = ((i*3+1)<params.length)?params[i*3+1]:0;
+            char c = ((i*3+2)<params.length)?params[i*3+2]:0;
 
             result[i*4] =  (char)((a >> 2)+'=' );
             result[i*4+1] = (char)('=' + (((a & 0x03) << 4) | ((b & 0xf0) >> 4)));
@@ -662,6 +648,47 @@ public class MKCommunication
 		{
             for(char value : dataBuffer)
             {
+            	//System.out.print(value);
+            	outputStream.write(value);
+            }
+            //outputStream.flush();
+        } 
+		catch (IOException e) 
+        {
+        	LogSystem.CLog(e.getMessage());
+        }
+	}
+	
+	public void sendCommand(char modul, char command, char[] params)
+	{
+		if (!this.isPortOpen)
+		{
+			LogSystem.addLog("Please start copter connect.");
+			return;
+		}
+		
+		char[] encode64Data = this.encode64(params);
+		char[] dataBuffer = new char[6+encode64Data.length];	// 6 = stateByte, addressByte, commandByte, check sum Bytes (CRC1/ CRC2), endByte
+		
+		int i = 0;
+		dataBuffer[i] = '#';
+		dataBuffer[++i] = modul;
+		dataBuffer[++i] = command;
+		
+		for(int j = 0; j < encode64Data.length; j++)
+		{
+			dataBuffer[++i] = encode64Data[j];
+		}
+		
+		char[] crc = this.createCheckSum(dataBuffer, dataBuffer.length - 3);
+		dataBuffer[++i] = crc[0];
+		dataBuffer[++i] = crc[1];
+		dataBuffer[++i] = '\r';
+
+		try 
+		{
+            for(char value : dataBuffer)
+            {
             	System.out.print(value);
             	outputStream.write(value);
             }
@@ -733,7 +760,7 @@ public class MKCommunication
 			 initalCopterRequestStarted = false;
 			 isCopterConnected = false;
 			 stopButtonAnimation = true;
-			 setButtonTextToClose();
+			 delegate.communicationDidFailOpenCopterConnection(LogSystem.getMessage("serialCommError004"));
 			 LogSystem.addLog(LogSystem.getMessage("serialCommError004"));
 		 }
 	}

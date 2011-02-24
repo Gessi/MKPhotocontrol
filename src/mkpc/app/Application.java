@@ -3,11 +3,13 @@ package mkpc.app;
 import java.awt.Point;
 import java.awt.Rectangle;
 import java.awt.event.*;
-import java.util.Properties;
+import java.util.*;
+import java.util.Timer;
 
 import javax.swing.*;
 
 import mkpc.comm.MKCommunication;
+import mkpc.comm.MKCommunicationDelegate;
 import mkpc.fligthcontrol.MKCameraControlWindow;
 import mkpc.log.LogSystem;
 import mkpc.maps.ActivityIndicator;
@@ -37,7 +39,7 @@ import org.jdesktop.application.SingleFrameApplication;
  * @version 0.1.0.0
  * 
  */
-public class Application extends SingleFrameApplication 
+public class Application extends SingleFrameApplication implements MKCommunicationDelegate
 {
 	private static Application sharedApplication;
     private JPanel topPanel;
@@ -76,6 +78,9 @@ public class Application extends SingleFrameApplication
 
     // Serial Communication
     public MKCommunication serialComm = null;
+    
+    // button animation timer
+    java.util.Timer buttonTimer = null;
     
     @Override
     protected void startup() 
@@ -584,26 +589,7 @@ public class Application extends SingleFrameApplication
     	}
     }
     
-    private void btn_connectCopterActionPerformed(ActionEvent evt) 
-    {
-    	LogSystem.CLog("btn_connectCopter.actionPerformed, event="+evt);
-    	if( serialComm == null )
-    	{
-    		serialComm = new MKCommunication();
-    	}
-    	
-    	if(!serialComm.isPortOpen())
-    	{
-    		if(MKSettings.hasValueForKey("comPort"))
-    		{
-    			serialComm.openComPort(MKSettings.getValueForKey("comPort"), btn_connectCopter);
-    		}
-    		else
-    		{
-    			serialComm.openComPort("COM1");
-    		}
-    	}
-    }
+    
     
     private void btn_sendCommandActionPerformed(ActionEvent evt) 
     {
@@ -677,4 +663,89 @@ public class Application extends SingleFrameApplication
     		LogSystem.addLog("Please open connection at first.");
     	}
     }
+
+//>> Copter connection Button, Delegate calls, and button animation
+    private void btn_connectCopterActionPerformed(ActionEvent evt) 
+    {
+    	LogSystem.CLog("btn_connectCopter.actionPerformed, event="+evt);
+    	if( serialComm == null )
+    	{
+    		serialComm = new MKCommunication();
+    	}
+    	
+    	if(!serialComm.isPortOpen())
+    	{
+    		if(buttonTimer == null)
+    		{
+    			buttonTimer = new java.util.Timer();
+    		}
+    		
+    		btn_connectCopter.setEnabled(false);
+    		buttonTimer.schedule(new MKCopterConnectButtonAnimation(), 10, 200);
+    		if(MKSettings.hasValueForKey("comPort"))
+    		{
+    			serialComm.openComPort(MKSettings.getValueForKey("comPort"), this);
+    		}
+    		else
+    		{
+    			serialComm.openComPort("COM1", this);
+    		}
+    	}
+    }
+    
+	@Override
+	public void communicationDidOpenCOMPort() 
+	{
+		LogSystem.addLog("COMPort has open.");
+	}
+
+	@Override
+	public void communicationDidFailOpenCOMPort(String error) 
+	{
+		LogSystem.addLog(error);
+		buttonTimer.cancel();
+		buttonTimer = null;
+		btn_connectCopter.setEnabled(true);
+		btn_connectCopter.setText("btnConnectCopter");
+	}
+
+	@Override
+	public void communicationDidOpenCopterConnection() 
+	{
+		LogSystem.addLog("Copter connected!");
+		buttonTimer.cancel();
+		buttonTimer = null;
+		btn_connectCopter.setEnabled(true);
+		btn_connectCopter.setText("btnCopterConnected");
+	}
+
+	@Override
+	public void communicationDidFailOpenCopterConnection(String error) 
+	{
+		LogSystem.addLog(error);
+		buttonTimer.cancel();
+		buttonTimer = null;
+		btn_connectCopter.setEnabled(true);
+		btn_connectCopter.setText("btnConnectCopter");
+	}
+	
+	class MKCopterConnectButtonAnimation extends java.util.TimerTask
+	{
+		int position;
+		@Override
+		public void run() 
+		{
+			String dots = "";
+			for (int i = 0; i < position; ++i)
+			{
+				dots = dots + ".";
+			}
+			++position;
+			if(position > 6)
+				position = 0;
+			
+			btn_connectCopter.setText("Search "+dots);
+		}
+		
+	}
 }
