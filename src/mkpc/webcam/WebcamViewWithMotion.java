@@ -51,7 +51,7 @@ public class WebcamViewWithMotion extends JPanel {
 
 			mediaPlayer.start();
 		} catch (NoPlayerException noPlayerException) {
-			LogSystem.addLog("No webcam foundet!");
+			LogSystem.addLog("No webcam.");
 		} catch (CannotRealizeException cre) {
 			LogSystem.addLog("Could not realize media player.");
 		} catch (IOException ie) {

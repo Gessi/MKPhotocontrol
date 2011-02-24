@@ -291,6 +291,15 @@ public class MKParameter
 		return this.serialPoti[1];
 	}
 
+	public void setCameraShootValue(char value)
+	{
+		this.serialPoti[0] = value;
+		if(Application.sharedApplication().serialComm != null)
+		{
+			Application.sharedApplication().serialComm.sendCommand('b', 'y', this.serialPoti);
+		}
+	}
+
 	public void setData3D(MKData3D data3D) {
 		this.data3D = data3D;
 	}

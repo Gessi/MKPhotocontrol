@@ -656,7 +656,7 @@ public class MKopter3DView extends JPanel implements GLEventListener {
 
 		@Override
 		public void run() {
-			int[] value = new int[1];
+			char[] value = new char[1];
 			value[0] = 100;
 			Application.sharedApplication().serialComm.sendCommand('c', 'c', value);
 		}

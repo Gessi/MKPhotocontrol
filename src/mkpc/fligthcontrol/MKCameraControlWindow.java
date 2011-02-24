@@ -128,6 +128,7 @@ public class MKCameraControlWindow extends javax.swing.JFrame {
 	private void btn_makePhotoActionPerformed(ActionEvent evt) 
 	{
 		LogSystem.CLog("btn_makePhoto.actionPerformed, event="+evt);
+		new Thread(new MKCameraShootPhoto()).start();
 	}
 	
 	private void nickCameraSliderStateChanged(ChangeEvent evt) 
@@ -191,7 +192,49 @@ public class MKCameraControlWindow extends javax.swing.JFrame {
 	    }
 	}
 
-
-
+	/**
+	 * This is a Runnable implemented class, which controll the photo-command and the button animation.
+	 * @author Kristof Friess
+	 */
+	class MKCameraShootPhoto implements Runnable
+	{
+		@Override
+		public void run() 
+		{
+			String oldText = btn_makePhoto.getText();
+			btn_makePhoto.setText("Shoot ");
+			btn_makePhoto.setEnabled(false);
+			MKParameter.shardParameter().setCameraShootValue((char)127);
+			int shootFinishTime = 10000; // in ms
+			int shootTime = 0;	// in ms
+			int dotCount = 0; 	//
+			while (shootTime < shootFinishTime)
+			{
+				String dots = "";
+				for(int i = 0; i < dotCount && shootTime <= shootFinishTime; ++i)
+				{
+					dots = dots + ".";
+				}
+				++dotCount;
+				if(dotCount >= 5)
+					dotCount = 0;
+				
+				btn_makePhoto.setText("Shoot " + dots);
+				
+				try 
+				{
+					Thread.sleep(200);
+				} 
+				catch (InterruptedException e) 
+				{
+					e.printStackTrace();
+				}
+				shootTime += 200;
+			}
+			MKParameter.shardParameter().setCameraShootValue((char)0);
+			btn_makePhoto.setText(oldText);
+			btn_makePhoto.setEnabled(true);
+		}
+	}
 
 }
