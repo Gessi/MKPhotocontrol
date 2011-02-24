@@ -10,6 +10,7 @@ import gnu.io.UnsupportedCommOperationException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.util.ArrayList;
 import java.util.Enumeration;
 import java.util.TimerTask;
 import java.util.TooManyListenersException;
@@ -48,8 +49,6 @@ public class MKCommunication
 	String buffer = "";
 	String packageInput = "";
 
-	boolean stopButtonAnimation = true;
-	boolean isButtonAnimationStopped = false;
 	boolean initalCopterRequestStarted = false;
 	boolean isCopterConnected = false;
 	int requestTimeOut = 12000;	// ms
@@ -57,6 +56,14 @@ public class MKCommunication
 	
 	/// new since 24.02.2011
 	MKCommunicationDelegate delegate = null;
+	ArrayList<String> outputQueue = null;
+	boolean isExecutingOutputQueue = false;
+	
+	public MKCommunication() 
+	{
+		outputQueue = new ArrayList<String>();
+		isExecutingOutputQueue = false;
+	}
 	
 	public boolean isPortOpen()
 	{
@@ -125,7 +132,7 @@ public class MKCommunication
 		if (foundPort != true) 
 		{
 			delegate.communicationDidFailOpenCOMPort(LogSystem.getMessage("serialCommError003")+ " " + portName);
-			LogSystem.addLog(LogSystem.getMessage("serialCommError003")+ " " + portName);
+			//LogSystem.addLog(LogSystem.getMessage("serialCommError003")+ " " + portName);
 			return false;
 		}
 
@@ -267,7 +274,6 @@ public class MKCommunication
 			initalCopterRequestStarted = false;
 			timer.cancel();
 			timer = null;
-			stopButtonAnimation = true;
 			delegate.communicationDidOpenCopterConnection();
 		}
 		// testing ---
@@ -659,45 +665,77 @@ public class MKCommunication
         }
 	}
 	
-	public void sendCommand(char modul, char command, char[] params)
+	public void sendCommand(final char modul, final char command, final char[] params)
 	{
 		if (!this.isPortOpen)
 		{
 			LogSystem.addLog("Please start copter connect.");
 			return;
 		}
-		
-		char[] encode64Data = this.encode64(params);
-		char[] dataBuffer = new char[6+encode64Data.length];	// 6 = stateByte, addressByte, commandByte, check sum Bytes (CRC1/ CRC2), endByte
-		
-		int i = 0;
-		dataBuffer[i] = '#';
-		dataBuffer[++i] = modul;
-		dataBuffer[++i] = command;
-		
-		for(int j = 0; j < encode64Data.length; j++)
-		{
-			dataBuffer[++i] = encode64Data[j];
-		}
-		
-		char[] crc = this.createCheckSum(dataBuffer, dataBuffer.length - 3);
-		dataBuffer[++i] = crc[0];
-		dataBuffer[++i] = crc[1];
-		dataBuffer[++i] = '\r';
+		new Thread(new Runnable() {
+			
+			@Override
+			public void run() {
+				char[] encode64Data = encode64(params);
+				char[] dataBuffer = new char[6+encode64Data.length];	// 6 = stateByte, addressByte, commandByte, check sum Bytes (CRC1/ CRC2), endByte
+				
+				int i = 0;
+				dataBuffer[i] = '#';
+				dataBuffer[++i] = modul;
+				dataBuffer[++i] = command;
+				
+				for(int j = 0; j < encode64Data.length; j++)
+				{
+					dataBuffer[++i] = encode64Data[j];
+				}
+				
+				char[] crc = createCheckSum(dataBuffer, dataBuffer.length - 3);
+				dataBuffer[++i] = crc[0];
+				dataBuffer[++i] = crc[1];
+				dataBuffer[++i] = '\r';
 
-		try 
-		{
-            for(char value : dataBuffer)
-            {
-            	System.out.print(value);
-            	outputStream.write(value);
-            }
-            //outputStream.flush();
-        } 
-		catch (IOException e) 
-        {
-        	LogSystem.CLog(e.getMessage());
-        }
+				String output = "";
+	            for(char value : dataBuffer)
+	            {
+	            	System.out.print(value);
+	            	output = output + value;
+	            }
+	            
+	            addCommandToOutputQueue(output);
+			}
+		}).start();
+		
+//		char[] encode64Data = this.encode64(params);
+//		char[] dataBuffer = new char[6+encode64Data.length];	// 6 = stateByte, addressByte, commandByte, check sum Bytes (CRC1/ CRC2), endByte
+//		
+//		int i = 0;
+//		dataBuffer[i] = '#';
+//		dataBuffer[++i] = modul;
+//		dataBuffer[++i] = command;
+//		
+//		for(int j = 0; j < encode64Data.length; j++)
+//		{
+//			dataBuffer[++i] = encode64Data[j];
+//		}
+//		
+//		char[] crc = this.createCheckSum(dataBuffer, dataBuffer.length - 3);
+//		dataBuffer[++i] = crc[0];
+//		dataBuffer[++i] = crc[1];
+//		dataBuffer[++i] = '\r';
+//
+//		try 
+//		{
+//            for(char value : dataBuffer)
+//            {
+//            	System.out.print(value);
+//            	outputStream.write(value);
+//            }
+//            //outputStream.flush();
+//        } 
+//		catch (IOException e) 
+//        {
+//        	LogSystem.CLog(e.getMessage());
+//        }
 	}
 	
 	public void sendCommand(final String command)
@@ -713,13 +751,60 @@ public class MKCommunication
 					char[] crc = createCheckSum(dataBuffer, dataBuffer.length);
 					String output = command + crc[0] + crc[1] + '\r';
 					LogSystem.addLog("Send: "+output);
-		            outputStream.write(output.getBytes());
-		            //outputStream.flush();
+		            addCommandToOutputQueue(output);
+		            
 		        } 
-				catch (IOException e) 
+				catch (Exception e) 
 		        {
 		        	LogSystem.CLog(e.getMessage());
 		        }
+			}
+		}).start();
+	}
+	
+	/**
+	 * Add a command to the serial output queue, and start executing
+	 * @param command
+	 */
+	public void addCommandToOutputQueue(String command)
+	{
+		outputQueue.add(command);
+		this.executeOutputQueue();
+	}
+	
+	/**
+	 * start executing of the output queue and sends the commands
+	 * start only if no sending currently active
+	 */
+	public void executeOutputQueue()
+	{
+		LogSystem.CLog("executing ..............");
+		if(isExecutingOutputQueue == true)
+		{
+			return;
+		}
+		
+		isExecutingOutputQueue = true;
+		new Thread(new Runnable() 
+		{
+			@Override
+			public void run() 
+			{
+				while(outputQueue.size() > 0)
+				{
+					LogSystem.CLog("Working and sending.");
+					String command = outputQueue.get(0);
+					try 
+					{
+						outputStream.write(command.getBytes());
+					} 
+					catch (IOException e) 
+					{
+						LogSystem.addLog("Error: Can't send command: "+command);
+					}
+					outputQueue.remove(0);
+				}
+				isExecutingOutputQueue = false;
 			}
 		}).start();
 	}
@@ -759,9 +844,8 @@ public class MKCommunication
 		 {
 			 initalCopterRequestStarted = false;
 			 isCopterConnected = false;
-			 stopButtonAnimation = true;
 			 delegate.communicationDidFailOpenCopterConnection(LogSystem.getMessage("serialCommError004"));
-			 LogSystem.addLog(LogSystem.getMessage("serialCommError004"));
+			 //LogSystem.addLog(LogSystem.getMessage("serialCommError004"));
 		 }
 	}
 }
