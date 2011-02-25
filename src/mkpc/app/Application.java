@@ -104,6 +104,7 @@ public class Application extends SingleFrameApplication implements MKCommunicati
     			}
     		});
     	}
+
     	// setup gui
     	{
     		topMenu = new JMenuBar();
@@ -258,7 +259,7 @@ public class Application extends SingleFrameApplication implements MKCommunicati
         	topPanel.add(btn_connectCopter);
         	btn_connectCopter.setBounds(510, 7, 206, 26);
         	btn_connectCopter.setName("btn_connectCopter");
-        	btn_connectCopter.setText(LogSystem.getMessage("buttonConnectCopter"));
+        	btn_connectCopter.setText(LogSystem.getMessage("buttonCopterConnect"));
         	btn_connectCopter.addActionListener(new ActionListener() {
 				public void actionPerformed(ActionEvent evt) {
 					btn_connectCopterActionPerformed(evt);
@@ -275,6 +276,7 @@ public class Application extends SingleFrameApplication implements MKCommunicati
         {
         	btn_makePhoto = new JButton();
         	topPanel.add(btn_makePhoto);
+        	btn_makePhoto.setVisible(false);
         	btn_makePhoto.setBounds(510, 59, 206, 26);
         	btn_makePhoto.setName("btn_makePhoto");
         	btn_makePhoto.setText(LogSystem.getMessage("buttonMakePhoto"));
@@ -619,7 +621,6 @@ public class Application extends SingleFrameApplication implements MKCommunicati
     	LogSystem.CLog("btn_makePhoto.actionPerformed, event="+evt);
     	if( serialComm != null && serialComm.isPortOpen())
     	{
-    		btn_makePhoto.setEnabled(false);
     		btn_makePhoto.setText(LogSystem.getMessage("buttonMakePhotoInProgress"));
     		
     		int[] values = new int[12];
