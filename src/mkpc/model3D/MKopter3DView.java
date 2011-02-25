@@ -47,9 +47,9 @@ public class MKopter3DView extends JPanel implements GLEventListener {
 	static float rotateZ = 0;
 	static float rotateX = 0;
 	
-	static float roll = 0;
-	static float yaw = 0;
-	static float nick = 0;
+	static float roll = 20;
+	static float yaw = 140;
+	static float nick = 20;
 	
 	public static float currectYaw = 0;
 	
@@ -219,9 +219,9 @@ public class MKopter3DView extends JPanel implements GLEventListener {
 		
 		MKData3D data = MKParameter.shardParameter().getData3D();
 		
-		roll = data.roll()/10;
-		nick = -data.nick()/10;
-		yaw = (-data.compass()/10)+currectYaw;
+		//roll = data.roll()/10;
+		//nick = -data.nick()/10;
+		//yaw = (-data.compass()/10)+currectYaw;
 		
 //		rotateY = rotateY%360 + 1;
 //		if(goON)

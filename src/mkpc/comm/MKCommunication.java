@@ -702,38 +702,6 @@ public class MKCommunication
 	            addCommandToOutputQueue(output);
 			}
 		}).start();
-		
-//		char[] encode64Data = this.encode64(params);
-//		char[] dataBuffer = new char[6+encode64Data.length];	// 6 = stateByte, addressByte, commandByte, check sum Bytes (CRC1/ CRC2), endByte
-//		
-//		int i = 0;
-//		dataBuffer[i] = '#';
-//		dataBuffer[++i] = modul;
-//		dataBuffer[++i] = command;
-//		
-//		for(int j = 0; j < encode64Data.length; j++)
-//		{
-//			dataBuffer[++i] = encode64Data[j];
-//		}
-//		
-//		char[] crc = this.createCheckSum(dataBuffer, dataBuffer.length - 3);
-//		dataBuffer[++i] = crc[0];
-//		dataBuffer[++i] = crc[1];
-//		dataBuffer[++i] = '\r';
-//
-//		try 
-//		{
-//            for(char value : dataBuffer)
-//            {
-//            	System.out.print(value);
-//            	outputStream.write(value);
-//            }
-//            //outputStream.flush();
-//        } 
-//		catch (IOException e) 
-//        {
-//        	LogSystem.CLog(e.getMessage());
-//        }
 	}
 	
 	public void sendCommand(final String command)
@@ -776,7 +744,7 @@ public class MKCommunication
 	 */
 	public void executeOutputQueue()
 	{
-		LogSystem.CLog("executing ..............");
+		// if queue allready executing --- exit
 		if(isExecutingOutputQueue == true)
 		{
 			return;
@@ -790,7 +758,6 @@ public class MKCommunication
 			{
 				while(outputQueue.size() > 0)
 				{
-					LogSystem.CLog("Working and sending.");
 					String command = outputQueue.get(0);
 					try 
 					{
@@ -808,7 +775,7 @@ public class MKCommunication
 	}
 	
 	/**
-	 * @author bk
+	 * @author Kristof
 	 * Internal Class to listen the serial port events
 	 */
 	class serialPortEventListener implements SerialPortEventListener {
@@ -834,7 +801,7 @@ public class MKCommunication
 	/**
 	 * Inital Request has an timer, if no answer incoming this timer will close the connection
 	 * and gives feedback
-	 * @author bk
+	 * @author Kristof
 	 */
 	class InitalBreakTask extends TimerTask 
 	{

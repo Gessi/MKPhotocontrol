@@ -24,6 +24,8 @@
 
 <entry key="buttonAutomaticFly">automationscher Flug</entry>
 <entry key="buttonPhotoControl">Photo Session starten</entry>
+<entry key="buttonCopterConnect">Kopterverbindung aufbauen</entry>
+<entry key="buttonSendCommand">Befehl senden</entry>
 
 <!-- Settings Names -->
 <entry key="settingsLabelTitle">Einstellungen</entry>

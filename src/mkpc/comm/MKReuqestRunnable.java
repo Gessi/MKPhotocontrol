@@ -25,12 +25,15 @@ public class MKReuqestRunnable implements Runnable
 		// TODO write down the flags here
 		//> Flags
 		boolean isData3D = false;
-		boolean isGPSRequest = false;
+		boolean isOSD = true;
 		
 		// TODO Set Flags for the Requests (check available features)
 		
 		
 		// TODO Create the Requests and send
+		
+		//> OSD
+		
 	}
 
 }
