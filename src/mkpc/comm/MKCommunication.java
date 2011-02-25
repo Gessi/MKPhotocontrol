@@ -16,8 +16,6 @@ import java.util.TimerTask;
 import java.util.TooManyListenersException;
 import java.util.Timer;
 
-import javax.swing.JButton;
-
 import mkpc.app.Application;
 import mkpc.log.LogSystem;
 

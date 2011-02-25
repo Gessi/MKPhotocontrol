@@ -11,8 +11,6 @@ import javax.media.MediaLocator;
 import javax.media.NoPlayerException;
 import javax.media.Player;
 import javax.media.bean.playerbean.MediaPlayer;
-import javax.media.format.VideoFormat;
-import javax.swing.JComboBox;
 import javax.swing.JPanel;
 
 import mkpc.log.LogSystem;
