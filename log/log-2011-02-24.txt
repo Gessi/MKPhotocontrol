@@ -1,0 +1,1417 @@
+2011-02-24 14:01:28 (MEZ): Application did start!
+2011-02-24 14:01:30 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-24 14:01:34 (MEZ): Port belegt
+2011-02-24 14:01:44 (MEZ): Application close currectly!
+2011-02-24 14:01:45 (MEZ): Application did start!
+2011-02-24 14:01:46 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-24 14:02:36 (MEZ): Application did start!
+2011-02-24 14:02:36 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-24 14:02:45 (MEZ): Application close currectly!
+2011-02-24 14:02:46 (MEZ): Application did start!
+2011-02-24 14:02:47 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-24 14:03:36 (MEZ): Application did start!
+2011-02-24 14:03:37 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-24 14:03:58 (MEZ): Application did start!
+2011-02-24 14:03:58 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-24 14:04:23 (MEZ): Serialport nicht gefunden: COM3
+2011-02-24 14:04:33 (MEZ): Please start copter connect.
+2011-02-24 14:04:33 (MEZ): Please start copter connect.
+2011-02-24 14:04:33 (MEZ): Please start copter connect.
+2011-02-24 14:04:33 (MEZ): Please start copter connect.
+2011-02-24 14:04:33 (MEZ): Please start copter connect.
+2011-02-24 14:04:33 (MEZ): Please start copter connect.
+2011-02-24 14:04:34 (MEZ): Please start copter connect.
+2011-02-24 14:04:34 (MEZ): Please start copter connect.
+2011-02-24 14:04:34 (MEZ): Please start copter connect.
+2011-02-24 14:04:34 (MEZ): Please start copter connect.
+2011-02-24 14:04:34 (MEZ): Please start copter connect.
+2011-02-24 14:04:35 (MEZ): Please start copter connect.
+2011-02-24 14:04:35 (MEZ): Please start copter connect.
+2011-02-24 14:04:35 (MEZ): Please start copter connect.
+2011-02-24 14:04:35 (MEZ): Please start copter connect.
+2011-02-24 14:04:47 (MEZ): Incoming string has an unknown address.
+2011-02-24 14:04:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:04:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:10 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:10 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:10 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:10 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:10 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:10 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:10 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:10 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:10 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:10 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:11 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:11 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:11 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:11 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:11 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:11 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:11 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:11 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:11 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:12 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:12 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:12 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:05:18 (MEZ): Application did start!
+2011-02-24 14:05:18 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-24 14:06:01 (MEZ): Serialport nicht gefunden: COM3
+2011-02-24 14:06:44 (MEZ): Application close currectly!
+2011-02-24 14:06:46 (MEZ): Application did start!
+2011-02-24 14:06:47 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-24 14:07:11 (MEZ): Application did start!
+2011-02-24 14:07:12 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-24 14:10:08 (MEZ): Application did start!
+2011-02-24 14:10:08 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-24 14:10:31 (MEZ): Send: #by=============MT
+2011-02-24 14:10:37 (MEZ): Send: #by==A==========MX
+2011-02-24 14:10:39 (MEZ): Send: #by==AA=========M\
+2011-02-24 14:10:41 (MEZ): Send: #by=AAA=========M`
+2011-02-24 14:10:46 (MEZ): Send: #byAAAA=========Md
+2011-02-24 14:10:49 (MEZ): Send: #byAVAA=========My
+2011-02-24 14:10:52 (MEZ): Send: #byAAAA=========Md
+2011-02-24 14:10:55 (MEZ): Send: #byACAA=========Mf
+2011-02-24 14:10:59 (MEZ): Send: #byAEAA=========Mh
+2011-02-24 14:11:02 (MEZ): Send: #byABAA=========Me
+2011-02-24 14:11:07 (MEZ): Send: #byAHAA=========Mk
+2011-02-24 14:11:11 (MEZ): Send: #byABAA=========Me
+2011-02-24 14:11:28 (MEZ): Send: #byABAA=========Me
+2011-02-24 14:11:34 (MEZ): Send: #byABAA=========Me
+2011-02-24 14:11:37 (MEZ): Send: #byAVAA=========My
+2011-02-24 14:12:00 (MEZ): Application did start!
+2011-02-24 14:12:01 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-24 14:13:27 (MEZ): Send: #by==SDH
+2011-02-24 14:13:29 (MEZ): Send: #by==CCx
+2011-02-24 14:13:32 (MEZ): Send: #by=FCDA
+2011-02-24 14:13:36 (MEZ): Send: #by=BBz
+2011-02-24 14:13:54 (MEZ): Application close currectly!
+2011-02-24 14:13:57 (MEZ): Application did start!
+2011-02-24 14:13:57 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-24 14:16:53 (MEZ): Application did start!
+2011-02-24 14:17:50 (MEZ): Application close currectly!
+2011-02-24 14:18:02 (MEZ): Application did start!
+2011-02-24 14:18:46 (MEZ): Application did start!
+2011-02-24 14:19:12 (MEZ): Serialport nicht gefunden: COM3
+2011-02-24 14:20:37 (MEZ): Application close currectly!
+2011-02-24 14:28:11 (MEZ): Application did start!
+2011-02-24 14:34:35 (MEZ): Application did start!
+2011-02-24 14:35:14 (MEZ): Application did start!
+2011-02-24 14:35:22 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:22 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:22 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:22 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:22 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:22 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:57 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:58 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:35:59 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:00 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:01 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:02 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:03 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:04 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:05 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:06 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:07 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:08 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:09 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:10 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:10 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:10 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:10 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:10 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:10 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:36:10 (MEZ): Application close currectly!
+2011-02-24 14:44:53 (MEZ): Application did start!
+2011-02-24 14:45:00 (MEZ): Please start copter connect.
+2011-02-24 14:45:02 (MEZ): Please start copter connect.
+2011-02-24 14:45:05 (MEZ): Please start copter connect.
+2011-02-24 14:45:05 (MEZ): Please start copter connect.
+2011-02-24 14:45:06 (MEZ): Please start copter connect.
+2011-02-24 14:45:06 (MEZ): Please start copter connect.
+2011-02-24 14:45:07 (MEZ): Please start copter connect.
+2011-02-24 14:45:07 (MEZ): Please start copter connect.
+2011-02-24 14:45:08 (MEZ): Please start copter connect.
+2011-02-24 14:45:08 (MEZ): Please start copter connect.
+2011-02-24 14:45:15 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:16 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:16 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:16 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:16 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:16 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:16 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:16 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:16 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:16 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:16 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:17 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:17 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:17 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:17 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:17 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:17 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:17 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:17 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:17 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:17 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:18 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:18 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:18 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:18 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:18 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:18 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:18 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:18 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:18 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:19 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:19 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:19 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:19 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:19 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:19 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:19 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:19 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:19 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:20 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:20 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:20 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:20 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:20 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:20 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:20 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:20 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:20 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:20 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:21 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:21 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:21 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:21 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:21 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:21 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:21 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:21 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:21 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:21 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:22 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:22 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:22 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:22 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:22 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:22 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:22 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:22 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:22 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:23 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:24 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:25 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:26 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:27 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:28 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:29 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:30 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:31 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:32 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:33 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:34 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:35 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:36 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:37 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:38 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:39 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:40 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:41 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:42 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:43 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:44 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:45 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:46 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:47 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:48 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:49 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:50 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:51 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:52 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:53 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:54 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:55 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:56 (MEZ): Application close currectly!
+2011-02-24 14:45:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:45:56 (MEZ): Incoming string has an unknown command-ID for address 'd'.
+2011-02-24 14:46:24 (MEZ): Application did start!
+2011-02-24 14:51:23 (MEZ): Application did start!
+2011-02-24 14:52:41 (MEZ): Application did start!
+2011-02-24 14:54:02 (MEZ): Application close currectly!
+2011-02-24 14:54:40 (MEZ): Application did start!
+2011-02-24 14:54:45 (MEZ): Application close currectly!
+2011-02-24 14:54:47 (MEZ): Application did start!
+2011-02-24 14:56:38 (MEZ): Application did start!
+2011-02-24 14:59:00 (MEZ): Application did start!
+2011-02-24 14:59:24 (MEZ): Application close currectly!
+2011-02-24 14:59:45 (MEZ): Application did start!
+2011-02-24 14:59:50 (MEZ): Application did start!
+2011-02-24 14:59:52 (MEZ): Application close currectly!
+2011-02-24 14:59:55 (MEZ): Application close currectly!
+2011-02-24 14:59:58 (MEZ): Application did start!
+2011-02-24 15:00:01 (MEZ): Application close currectly!
+2011-02-24 15:02:27 (MEZ): Application did start!
+2011-02-24 15:04:40 (MEZ): Application did start!
+2011-02-24 15:06:35 (MEZ): Application did start!
+2011-02-24 15:09:59 (MEZ): Application did start!
+2011-02-24 15:10:49 (MEZ): Application did start!
+2011-02-24 15:11:18 (MEZ): Application did start!
+2011-02-24 15:11:48 (MEZ): Application did start!
+2011-02-24 15:13:45 (MEZ): Application did start!
+2011-02-24 15:13:48 (MEZ): Application close currectly!
+2011-02-24 15:13:51 (MEZ): Application close currectly!
+2011-02-24 15:13:54 (MEZ): Application did start!
+2011-02-24 15:15:53 (MEZ): Application did start!
+2011-02-24 15:16:20 (MEZ): Serialport nicht gefunden: COM3
+2011-02-24 15:16:57 (MEZ): Application did start!
+2011-02-24 15:24:18 (MEZ): Application did start!
+2011-02-24 16:04:23 (MEZ): Application did start!
+2011-02-24 16:04:36 (MEZ): Serialport nicht gefunden: COM3
+2011-02-24 16:04:36 (MEZ): Serialport nicht gefunden: COM3
+2011-02-24 16:06:36 (MEZ): Application did start!
+2011-02-24 16:06:49 (MEZ): Serialport nicht gefunden: COM3
+2011-02-24 16:06:49 (MEZ): Serialport nicht gefunden: COM3
+2011-02-24 16:07:52 (MEZ): Application did start!
+2011-02-24 16:08:04 (MEZ): Serialport nicht gefunden: COM3
+2011-02-24 16:08:04 (MEZ): Serialport nicht gefunden: COM3
+2011-02-24 16:28:44 (MEZ): Application did start!
+2011-02-24 16:28:57 (MEZ): Serialport nicht gefunden: COM3
+2011-02-24 16:29:53 (MEZ): COMPort has open.
+2011-02-24 16:29:53 (MEZ): Copter connected!
+2011-02-24 16:31:28 (MEZ): Application close currectly!
+2011-02-24 16:32:24 (MEZ): Application did start!
+2011-02-24 16:32:46 (MEZ): COMPort has open.
+2011-02-24 16:32:47 (MEZ): Copter connected!
+2011-02-24 16:34:04 (MEZ): Application did start!
+2011-02-24 16:34:06 (MEZ): Portbelegt
+2011-02-24 16:34:10 (MEZ): Application close currectly!
+2011-02-24 16:34:14 (MEZ): Application close currectly!
+2011-02-24 16:34:25 (MEZ): Application did start!
+2011-02-24 16:34:47 (MEZ): COMPort has open.
+2011-02-24 16:34:47 (MEZ): Copter connected!
+2011-02-24 16:36:19 (MEZ): Application did start!
+2011-02-24 16:36:22 (MEZ): Application close currectly!
+2011-02-24 16:36:24 (MEZ): Application close currectly!
+2011-02-24 16:36:52 (MEZ): Application did start!
+2011-02-24 16:37:14 (MEZ): COMPort has open.
+2011-02-24 16:37:14 (MEZ): Copter connected!
+2011-02-24 16:37:22 (MEZ): Send: #bv@x
+2011-02-24 16:37:26 (MEZ): Send: #bv@x
+2011-02-24 16:37:27 (MEZ): Send: #bv@x
+2011-02-24 16:37:28 (MEZ): Send: #bv@x
+2011-02-24 16:37:29 (MEZ): Send: #bv@x
+2011-02-24 16:37:31 (MEZ): Send: #bv@x
+2011-02-24 16:37:33 (MEZ): Send: #bv@x
+2011-02-24 16:37:34 (MEZ): Send: #bv@x
+2011-02-24 16:37:35 (MEZ): Send: #bv@x
+2011-02-24 16:37:36 (MEZ): Send: #bv@x
+2011-02-24 16:37:37 (MEZ): Send: #bv@x
+2011-02-24 16:37:38 (MEZ): Send: #bv@x
+2011-02-24 16:37:39 (MEZ): Send: #bv@x
+2011-02-24 16:38:47 (MEZ): Application did start!
+2011-02-24 16:38:56 (MEZ): Application close currectly!
+2011-02-24 16:39:04 (MEZ): Application did start!
+2011-02-24 16:39:10 (MEZ): Please start copter connect.
+2011-02-24 16:39:10 (MEZ): Please start copter connect.
+2011-02-24 16:39:27 (MEZ): COMPort has open.
+2011-02-24 16:39:27 (MEZ): Copter connected!
+2011-02-24 16:40:41 (MEZ): Application close currectly!
+2011-02-24 16:41:01 (MEZ): Application did start!
+2011-02-24 16:41:24 (MEZ): Serialport nicht gefunden: COM3
+2011-02-24 16:41:29 (MEZ): Please open connection at first.
+2011-02-24 16:41:35 (MEZ): COMPort has open.
+2011-02-24 16:41:36 (MEZ): Copter connected!
+2011-02-24 16:41:39 (MEZ): Send: #bv@x
+2011-02-24 16:42:41 (MEZ): Application close currectly!
+2011-02-24 16:42:45 (MEZ): Application did start!
+2011-02-24 16:43:25 (MEZ): COMPort has open.
+2011-02-24 16:43:26 (MEZ): Copter connected!
+2011-02-24 16:43:33 (MEZ): Send: #bv@x
+2011-02-24 16:43:33 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 16:44:43 (MEZ): Application did start!
+2011-02-24 16:44:50 (MEZ): COMPort has open.
+2011-02-24 16:44:50 (MEZ): Copter connected!
+2011-02-24 16:46:14 (MEZ): Send: #bv@x
+2011-02-24 16:46:14 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 16:48:48 (MEZ): Application close currectly!
+2011-02-24 17:04:58 (MEZ): Application did start!
+2011-02-24 17:05:39 (MEZ): COMPort has open.
+2011-02-24 17:05:39 (MEZ): Copter connected!
+2011-02-24 17:06:37 (MEZ): Application did start!
+2011-02-24 17:07:16 (MEZ): COMPort has open.
+2011-02-24 17:07:16 (MEZ): Copter connected!
+2011-02-24 17:07:48 (MEZ): Application close currectly!
+2011-02-24 17:08:33 (MEZ): Application did start!
+2011-02-24 17:08:40 (MEZ): COMPort has open.
+2011-02-24 17:08:40 (MEZ): Copter connected!
+2011-02-24 17:10:07 (MEZ): Application close currectly!
+2011-02-24 17:10:17 (MEZ): Application did start!
+2011-02-24 17:10:20 (MEZ): Portbelegt
+2011-02-24 17:10:23 (MEZ): Portbelegt
+2011-02-24 17:10:27 (MEZ): Application did start!
+2011-02-24 17:10:29 (MEZ): Portbelegt
+2011-02-24 17:10:44 (MEZ): Application did start!
+2011-02-24 17:10:51 (MEZ): COMPort has open.
+2011-02-24 17:10:52 (MEZ): Copter connected!
+2011-02-24 17:13:07 (MEZ): Application did start!
+2011-02-24 17:13:14 (MEZ): Application close currectly!
+2011-02-24 17:13:17 (MEZ): Application close currectly!
+2011-02-24 17:13:21 (MEZ): Application did start!
+2011-02-24 17:13:27 (MEZ): COMPort has open.
+2011-02-24 17:13:27 (MEZ): Copter connected!
+2011-02-24 17:20:35 (MEZ): Application close currectly!
+2011-02-24 17:28:41 (MEZ): Application did start!
+2011-02-24 17:28:47 (MEZ): Please start copter connect.
+2011-02-24 17:28:50 (MEZ): Please start copter connect.
+2011-02-24 17:28:50 (MEZ): Please start copter connect.
+2011-02-24 17:28:51 (MEZ): Please start copter connect.
+2011-02-24 17:28:51 (MEZ): Please start copter connect.
+2011-02-24 17:28:52 (MEZ): Please start copter connect.
+2011-02-24 17:28:52 (MEZ): Please start copter connect.
+2011-02-24 17:28:53 (MEZ): Please start copter connect.
+2011-02-24 17:28:53 (MEZ): Please start copter connect.
+2011-02-24 17:29:02 (MEZ): COMPort has open.
+2011-02-24 17:29:03 (MEZ): Copter connected!
+2011-02-24 17:29:28 (MEZ): Send: #bx@z
+2011-02-24 17:29:34 (MEZ): Send: #bxM===E>
+2011-02-24 17:29:36 (MEZ): Send: #bxM===E>
+2011-02-24 17:29:36 (MEZ): Send: #bxM===E>
+2011-02-24 17:29:38 (MEZ): Send: #bxM===E>
+2011-02-24 17:29:40 (MEZ): Send: #bxM===E>
+2011-02-24 17:29:41 (MEZ): Send: #bxM===E>
+2011-02-24 17:29:41 (MEZ): Send: #bxM===E>
+2011-02-24 17:29:42 (MEZ): Send: #bxM===E>
+2011-02-24 17:29:43 (MEZ): Send: #bxM===E>
+2011-02-24 17:29:43 (MEZ): Send: #bxM===E>
+2011-02-24 17:29:43 (MEZ): Send: #bxM===E>
+2011-02-24 17:29:44 (MEZ): Send: #bxM===E>
+2011-02-24 17:29:48 (MEZ): Send: #cxM===E?
+2011-02-24 17:29:56 (MEZ): Send: #cx====Do
+2011-02-24 17:30:01 (MEZ): Send: #cx@{
+2011-02-24 17:30:06 (MEZ): Send: #cx@{
+2011-02-24 17:30:08 (MEZ): Send: #cx@{
+2011-02-24 17:34:45 (MEZ): Send: #dw@{
+2011-02-24 17:34:51 (MEZ): Send: #aw@x
+2011-02-24 17:35:13 (MEZ): Send: #adMAr
+2011-02-24 17:35:13 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:14 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:14 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:15 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:16 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:16 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:17 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:24 (MEZ): Send: #ad@e
+2011-02-24 17:35:24 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:25 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:25 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:26 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:27 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:27 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:28 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:31 (MEZ): Send: #ad@e
+2011-02-24 17:35:31 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:32 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:33 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:33 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:34 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:34 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:35 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:35:53 (MEZ): Send: #bn@p
+2011-02-24 17:35:56 (MEZ): Send: #bn@p
+2011-02-24 17:36:06 (MEZ): Send: #an@o
+2011-02-24 17:36:08 (MEZ): Send: #cn@q
+2011-02-24 17:36:15 (MEZ): Send: #ap@q
+2011-02-24 17:36:18 (MEZ): Send: #bp@r
+2011-02-24 17:36:20 (MEZ): Send: #bp@r
+2011-02-24 17:36:20 (MEZ): Send: #bp@r
+2011-02-24 17:37:31 (MEZ): Send: #ag@h
+2011-02-24 17:37:35 (MEZ): Send: #agMAu
+2011-02-24 17:37:36 (MEZ): Send: #agMAu
+2011-02-24 17:37:37 (MEZ): Send: #agMAu
+2011-02-24 17:37:37 (MEZ): Send: #agMAu
+2011-02-24 17:37:38 (MEZ): Send: #agMAu
+2011-02-24 17:37:39 (MEZ): Send: #agMAu
+2011-02-24 17:37:40 (MEZ): Send: #agMAu
+2011-02-24 17:37:40 (MEZ): Send: #agMAu
+2011-02-24 17:37:45 (MEZ): Send: #ag========HP
+2011-02-24 17:37:46 (MEZ): Send: #ag========HP
+2011-02-24 17:37:47 (MEZ): Send: #ag========HP
+2011-02-24 17:37:47 (MEZ): Send: #ag========HP
+2011-02-24 17:37:48 (MEZ): Send: #ag========HP
+2011-02-24 17:37:56 (MEZ): Send: #ab@c
+2011-02-24 17:37:57 (MEZ): Send: #ab@c
+2011-02-24 17:37:58 (MEZ): Send: #ab@c
+2011-02-24 17:37:58 (MEZ): Send: #ab@c
+2011-02-24 17:37:59 (MEZ): Send: #ab@c
+2011-02-24 17:38:00 (MEZ): Send: #ab@c
+2011-02-24 17:38:00 (MEZ): Send: #ab@c
+2011-02-24 17:38:05 (MEZ): Send: #aa@b
+2011-02-24 17:38:05 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:38:06 (MEZ): Send: #aa@b
+2011-02-24 17:38:06 (MEZ): Incoming string has an unknown command-ID for address 'a'.
+2011-02-24 17:38:40 (MEZ): Application close currectly!
+2011-02-24 17:39:04 (MEZ): Application did start!
+2011-02-24 17:39:29 (MEZ): COMPort has open.
+2011-02-24 17:39:29 (MEZ): Copter connected!
+2011-02-24 17:39:58 (MEZ): Send: #buMBD
+2011-02-24 17:40:01 (MEZ): Send: #bu@w
+2011-02-24 17:40:04 (MEZ): Send: #buUUCa
+2011-02-24 17:40:06 (MEZ): Send: #buCCC=
+2011-02-24 17:40:08 (MEZ): Send: #auCCB|
+2011-02-24 17:40:16 (MEZ): Send: #cuMBE
+2011-02-24 17:40:17 (MEZ): Send: #cuMBE
+2011-02-24 17:40:19 (MEZ): Send: #cu@x
+2011-02-24 17:40:20 (MEZ): Send: #cu@x
+2011-02-24 17:40:20 (MEZ): Send: #cu@x
+2011-02-24 17:40:20 (MEZ): Send: #cu@x
+2011-02-24 17:40:21 (MEZ): Send: #cu@x
+2011-02-24 17:40:21 (MEZ): Send: #cu@x
+2011-02-24 17:40:21 (MEZ): Send: #cu@x
+2011-02-24 17:40:21 (MEZ): Send: #cu@x
+2011-02-24 17:40:36 (MEZ): Send: #cxMBH
+2011-02-24 17:40:38 (MEZ): Send: #cxMBH
+2011-02-24 17:40:49 (MEZ): Send: #ce@h
+2011-02-24 17:40:50 (MEZ): Send: #ce@h
+2011-02-24 17:40:52 (MEZ): Send: #ce@h
+2011-02-24 17:40:54 (MEZ): Send: #ce@h
+2011-02-24 17:40:55 (MEZ): Send: #ce@h
+2011-02-24 17:40:56 (MEZ): Send: #ce@h
+2011-02-24 17:40:57 (MEZ): Send: #ce@h
+2011-02-24 17:46:57 (MEZ): Application close currectly!

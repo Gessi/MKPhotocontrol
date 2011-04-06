@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>System settings</comment>
+<entry key="appPositionY">305</entry>
+<entry key="appPositionX">242</entry>
+<entry key="viewController3DVisible">0</entry>
+</properties>

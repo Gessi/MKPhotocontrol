@@ -1,0 +1,2 @@
+2011-04-06 12:36:53 (MESZ): Application did start!
+2011-04-06 12:37:11 (MESZ): Application close currectly!

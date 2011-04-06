@@ -1,0 +1,80 @@
+2011-04-06 12:16:11 (MESZ): Application did start!
+2011-04-06 12:16:13 (MESZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-04-06 12:17:51 (MESZ): Application did start!
+2011-04-06 12:17:52 (MESZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-04-06 12:19:06 (MESZ): COMPort has open.
+2011-04-06 12:19:06 (MESZ): Copter connected!
+2011-04-06 12:19:29 (MESZ): Application close currectly!
+2011-04-06 12:19:44 (MESZ): Application did start!
+2011-04-06 12:19:45 (MESZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-04-06 12:19:52 (MESZ): COMPort has open.
+2011-04-06 12:19:53 (MESZ): Copter connected!
+2011-04-06 12:20:18 (MESZ): Application close currectly!
+2011-04-06 12:20:26 (MESZ): Application did start!
+2011-04-06 12:20:27 (MESZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-04-06 12:20:59 (MESZ): Application did start!
+2011-04-06 12:20:59 (MESZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-04-06 12:21:05 (MESZ): COMPort has open.
+2011-04-06 12:21:06 (MESZ): Copter connected!
+2011-04-06 12:21:53 (MESZ): Application did start!
+2011-04-06 12:21:53 (MESZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-04-06 12:21:59 (MESZ): COMPort has open.
+2011-04-06 12:21:59 (MESZ): Copter connected!
+2011-04-06 12:26:03 (MESZ): Application close currectly!
+2011-04-06 12:26:06 (MESZ): Application did start!
+2011-04-06 12:26:40 (MESZ): Please start copter connect.
+2011-04-06 12:26:40 (MESZ): Please start copter connect.
+2011-04-06 12:26:40 (MESZ): Please start copter connect.
+2011-04-06 12:26:40 (MESZ): Please start copter connect.
+2011-04-06 12:26:40 (MESZ): Please start copter connect.
+2011-04-06 12:26:40 (MESZ): Please start copter connect.
+2011-04-06 12:26:40 (MESZ): Please start copter connect.
+2011-04-06 12:26:40 (MESZ): Please start copter connect.
+2011-04-06 12:26:40 (MESZ): Please start copter connect.
+2011-04-06 12:26:40 (MESZ): Please start copter connect.
+2011-04-06 12:26:41 (MESZ): Please start copter connect.
+2011-04-06 12:26:41 (MESZ): Please start copter connect.
+2011-04-06 12:26:41 (MESZ): Please start copter connect.
+2011-04-06 12:26:41 (MESZ): Please start copter connect.
+2011-04-06 12:26:41 (MESZ): Please start copter connect.
+2011-04-06 12:26:41 (MESZ): Please start copter connect.
+2011-04-06 12:26:41 (MESZ): Please start copter connect.
+2011-04-06 12:26:41 (MESZ): Please start copter connect.
+2011-04-06 12:26:41 (MESZ): Please start copter connect.
+2011-04-06 12:26:42 (MESZ): Please start copter connect.
+2011-04-06 12:26:42 (MESZ): Please start copter connect.
+2011-04-06 12:26:42 (MESZ): Please start copter connect.
+2011-04-06 12:26:42 (MESZ): Please start copter connect.
+2011-04-06 12:26:42 (MESZ): Please start copter connect.
+2011-04-06 12:26:42 (MESZ): Please start copter connect.
+2011-04-06 12:26:42 (MESZ): Please start copter connect.
+2011-04-06 12:26:42 (MESZ): Please start copter connect.
+2011-04-06 12:26:42 (MESZ): Please start copter connect.
+2011-04-06 12:26:42 (MESZ): Please start copter connect.
+2011-04-06 12:26:42 (MESZ): Please start copter connect.
+2011-04-06 12:26:43 (MESZ): Please start copter connect.
+2011-04-06 12:26:43 (MESZ): Please start copter connect.
+2011-04-06 12:26:43 (MESZ): Please start copter connect.
+2011-04-06 12:26:43 (MESZ): Please start copter connect.
+2011-04-06 12:26:43 (MESZ): Please start copter connect.
+2011-04-06 12:26:43 (MESZ): Please start copter connect.
+2011-04-06 12:26:43 (MESZ): Please start copter connect.
+2011-04-06 12:26:44 (MESZ): Please start copter connect.
+2011-04-06 12:26:44 (MESZ): Please start copter connect.
+2011-04-06 12:26:44 (MESZ): Please start copter connect.
+2011-04-06 12:26:44 (MESZ): Please start copter connect.
+2011-04-06 12:26:44 (MESZ): Please start copter connect.
+2011-04-06 12:26:44 (MESZ): Please start copter connect.
+2011-04-06 12:26:44 (MESZ): Please start copter connect.
+2011-04-06 12:26:44 (MESZ): Please start copter connect.
+2011-04-06 12:26:44 (MESZ): Please start copter connect.
+2011-04-06 12:26:44 (MESZ): Please start copter connect.
+2011-04-06 12:26:44 (MESZ): Please start copter connect.
+2011-04-06 12:26:44 (MESZ): Please start copter connect.
+2011-04-06 12:26:44 (MESZ): Please start copter connect.
+2011-04-06 12:26:45 (MESZ): Please start copter connect.
+2011-04-06 12:26:46 (MESZ): Please start copter connect.
+2011-04-06 12:26:53 (MESZ): Application did start!
+2011-04-06 12:27:32 (MESZ): COMPort has open.
+2011-04-06 12:27:32 (MESZ): Copter connected!
+2011-04-06 12:29:26 (MESZ): Application close currectly!

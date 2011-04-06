@@ -1,0 +1,103 @@
+2011-02-25 09:57:07 (MEZ): Application did start!
+2011-02-25 09:57:09 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-25 09:57:56 (MEZ): Application close currectly!
+2011-02-25 09:57:58 (MEZ): Application did start!
+2011-02-25 09:58:27 (MEZ): COMPort has open.
+2011-02-25 09:58:27 (MEZ): Copter connected!
+2011-02-25 10:02:24 (MEZ): Application close currectly!
+2011-02-25 10:05:14 (MEZ): Application did start!
+2011-02-25 10:05:36 (MEZ): COMPort has open.
+2011-02-25 10:05:36 (MEZ): Copter connected!
+2011-02-25 10:06:20 (MEZ): Application close currectly!
+2011-02-25 10:21:49 (MEZ): Application did start!
+2011-02-25 10:22:02 (MEZ): Serialport nicht gefunden: COM3
+2011-02-25 10:22:12 (MEZ): Serialport nicht gefunden: COM3
+2011-02-25 10:22:22 (MEZ): Serialport nicht gefunden: COM3
+2011-02-25 10:22:30 (MEZ): Serialport nicht gefunden: COM3
+2011-02-25 10:24:38 (MEZ): Serialport nicht gefunden: COM3
+2011-02-25 10:25:25 (MEZ): COMPort has open.
+2011-02-25 10:25:25 (MEZ): Copter connected!
+2011-02-25 10:26:36 (MEZ): Application close currectly!
+2011-02-25 14:25:09 (MEZ): Application did start!
+2011-02-25 14:25:13 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-25 14:26:44 (MEZ): Serialport nicht gefunden: COM3
+2011-02-25 14:26:50 (MEZ): Serialport nicht gefunden: COM3
+2011-02-25 14:26:51 (MEZ): Serialport nicht gefunden: COM3
+2011-02-25 14:26:52 (MEZ): Serialport nicht gefunden: COM3
+2011-02-25 14:26:53 (MEZ): Serialport nicht gefunden: COM3
+2011-02-25 14:26:57 (MEZ): Application close currectly!
+2011-02-25 14:28:59 (MEZ): Application did start!
+2011-02-25 14:29:00 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-25 14:29:10 (MEZ): Application close currectly!
+2011-02-25 14:31:32 (MEZ): Application did start!
+2011-02-25 14:31:33 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-25 14:31:43 (MEZ): Waypoint wurde angelegt, Lat:50.97504824113433 Long:11.020703315734863
+2011-02-25 14:31:44 (MEZ): Waypoint wurde angelegt, Lat:50.97395383631107 Long:11.023449897766113
+2011-02-25 14:31:45 (MEZ): Waypoint wurde angelegt, Lat:50.973197195675034 Long:11.020231246948242
+2011-02-25 14:31:46 (MEZ): Waypoint wurde angelegt, Lat:50.97279184740618 Long:11.018579006195068
+2011-02-25 14:31:46 (MEZ): Waypoint wurde angelegt, Lat:50.974332152006255 Long:11.020660400390625
+2011-02-25 14:31:51 (MEZ): Waypoint wurde angelegt, Lat:50.97469695350788 Long:11.02452278137207
+2011-02-25 14:31:52 (MEZ): Waypoint wurde angelegt, Lat:50.974075438120636 Long:11.024565696716309
+2011-02-25 14:31:53 (MEZ): Waypoint wurde angelegt, Lat:50.97329177642871 Long:11.02351427078247
+2011-02-25 15:02:09 (MEZ): Waypoint wurde angelegt, Lat:50.97483206444789 Long:11.021003723144531
+2011-02-25 15:02:12 (MEZ): Waypoint wurde angelegt, Lat:50.9736700975172 Long:11.023857593536377
+2011-02-25 15:02:14 (MEZ): Waypoint wurde angelegt, Lat:50.97495366395784 Long:11.022205352783203
+2011-02-25 15:02:17 (MEZ): Waypoint wurde angelegt, Lat:50.97496717499484 Long:11.022956371307373
+2011-02-25 15:02:19 (MEZ): Waypoint wurde angelegt, Lat:50.97491313082323 Long:11.023750305175781
+2011-02-25 15:02:22 (MEZ): Waypoint wurde angelegt, Lat:50.97450779753141 Long:11.022205352783203
+2011-02-25 15:03:42 (MEZ): Serialport nicht gefunden: COM3
+2011-02-25 15:03:45 (MEZ): Please open connection at first.
+2011-02-25 15:03:49 (MEZ): Application close currectly!
+2011-02-25 15:11:35 (MEZ): Application did start!
+2011-02-25 15:11:37 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-25 15:11:47 (MEZ): Application close currectly!
+2011-02-25 15:12:09 (MEZ): Application did start!
+2011-02-25 15:12:10 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-25 15:17:02 (MEZ): Application close currectly!
+2011-02-25 15:17:24 (MEZ): Application did start!
+2011-02-25 15:17:25 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-25 15:17:42 (MEZ): Application close currectly!
+2011-02-25 15:18:33 (MEZ): Application did start!
+2011-02-25 15:18:34 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-25 15:18:43 (MEZ): Application close currectly!
+2011-02-25 15:18:55 (MEZ): Application did start!
+2011-02-25 15:18:56 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-25 15:19:01 (MEZ): Application close currectly!
+2011-02-25 15:19:03 (MEZ): Application did start!
+2011-02-25 15:19:03 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-25 15:19:06 (MEZ): Application close currectly!
+2011-02-25 15:19:25 (MEZ): Application did start!
+2011-02-25 15:19:26 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-25 15:19:32 (MEZ): Application close currectly!
+2011-02-25 15:20:31 (MEZ): Application did start!
+2011-02-25 15:20:32 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-25 15:20:36 (MEZ): Application close currectly!
+2011-02-25 15:22:32 (MEZ): Application did start!
+2011-02-25 15:22:33 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-25 15:22:37 (MEZ): Serialport nicht gefunden: COM3
+2011-02-25 15:22:37 (MEZ): Application close currectly!
+2011-02-25 15:23:23 (MEZ): Application did start!
+2011-02-25 15:23:47 (MEZ): Application did start!
+2011-02-25 15:23:48 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-25 15:24:24 (MEZ): Application did start!
+2011-02-25 15:24:25 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-25 15:26:55 (MEZ): Application did start!
+2011-02-25 15:26:57 (MEZ): Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.
+2011-02-25 15:27:23 (MEZ): Waypoint wurde angelegt, Lat:50.97310261472877 Long:11.022613048553467
+2011-02-25 15:27:26 (MEZ): Waypoint wurde angelegt, Lat:50.974683442392255 Long:11.019673347473145
+2011-02-25 15:27:28 (MEZ): Nichts kann NICHT gelöscht werden.
+2011-02-25 15:27:28 (MEZ): Nichts kann NICHT gelöscht werden.
+2011-02-25 15:27:42 (MEZ): Waypoint wurde angelegt, Lat:50.98515337803857 Long:11.042289733886719
+2011-02-25 15:27:45 (MEZ): Waypoint wurde angelegt, Lat:50.98540327668342 Long:11.042139530181885
+2011-02-25 15:27:48 (MEZ): Waypoint wurde angelegt, Lat:50.98529521256965 Long:11.041849851608276
+2011-02-25 15:27:49 (MEZ): Waypoint wurde angelegt, Lat:50.98519390223454 Long:11.041624546051025
+2011-02-25 15:27:50 (MEZ): Waypoint wurde angelegt, Lat:50.98512636188829 Long:11.041431427001953
+2011-02-25 15:27:51 (MEZ): Waypoint wurde angelegt, Lat:50.98505882144377 Long:11.04150652885437
+2011-02-25 15:27:52 (MEZ): Waypoint wurde angelegt, Lat:50.98498452684132 Long:11.041635274887085
+2011-02-25 15:27:54 (MEZ): Waypoint wurde angelegt, Lat:50.98488996990257 Long:11.0417640209198
+2011-02-25 15:27:55 (MEZ): Waypoint wurde angelegt, Lat:50.9848291831974 Long:11.041871309280396
+2011-02-25 15:27:57 (MEZ): Waypoint wurde angelegt, Lat:50.984944002462576 Long:11.042171716690063
+2011-02-25 15:28:00 (MEZ): Waypoint wurde angelegt, Lat:50.98516688610783 Long:11.042429208755493
+2011-02-25 15:28:21 (MEZ): Waypoint wurde angelegt, Lat:50.98518039417315 Long:11.042091250419617
+2011-02-25 15:28:23 (MEZ): Waypoint wurde angelegt, Lat:50.985204033278016 Long:11.042649149894714
+2011-02-25 15:55:20 (MEZ): Application close currectly!

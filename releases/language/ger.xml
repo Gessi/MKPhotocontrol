@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Language: German</comment>
+<entry key="menuFile">Datei</entry>
+<entry key="menuItemSettings">Einstellungen</entry>
+<entry key="menuItemBluetoothDevice">Bluetooth Gerät</entry>
+<entry key="menuItemExit">Beenden</entry>
+
+<entry key="menuWindows">Ansicht/ Fenster</entry>
+<entry key="menuItemWebcamWindow">Webcam</entry>
+<entry key="menuItem3DViewWindow">3D Ansicht</entry>
+<entry key="menuItemConsole">Console</entry>
+<entry key="menuItemWaypointEditor">Waypoint Editor</entry>
+
+<entry key="menuHelp">?</entry>
+<entry key="menuItemHelpSite">Hilfe</entry>
+<entry key="menuItemAbout">Über ...</entry>
+
+<entry key="showSatellite">Google Satellitenbild</entry>
+<entry key="unshowSatellite">Zurück zur Roadmap</entry>
+<entry key="waypointCreated">Waypoint wurde angelegt, </entry>
+<entry key="waypointDeleted">Waypoint wurde gelöscht, </entry>
+
+<entry key="buttonAutomaticFly">automationscher Flug</entry>
+<entry key="buttonPhotoControl">Photo Session starten</entry>
+<entry key="buttonCopterConnect">Kopterverbindung aufbauen</entry>
+<entry key="buttonSendCommand">Befehl senden</entry>
+
+<!-- Settings Names -->
+<entry key="settingsLabelTitle">Einstellungen</entry>
+<entry key="settingsLabelComPort">Com-Port</entry>
+<entry key="settingsLabelLanguage">Sprache</entry>
+<entry key="settingsButtonSave">Speichern</entry>
+<entry key="settingsButtonAbort">Abbrechen</entry>
+
+<!-- WayPoint Names -->
+<entry key="waypointNameYellow">Flugpunkt</entry>
+<entry key="waypointNameW">Wegpunkt</entry>
+<entry key="waypointNameP">Fotopunkt</entry>
+<entry key="waypointNameStart">Startpunkt</entry>
+<entry key="waypointNameEnd">Endpunkt</entry>
+<entry key="waypointNameRed">Rot</entry>
+<entry key="waypointNameBlue">Blau</entry>
+
+<!-- Settings Errors -->
+<entry key="settingsError001">Can't create settings file! Please check the permissions of this Application.</entry>
+
+<!-- WaypointEditor Errors -->
+<entry key="waypointEditorError001">Nichts kann NICHT gelöscht werden.</entry>
+
+<!-- 3DView Errors -->
+<entry key="3DViewError001">Eine 3D Darstellung ist derzeitig nur unter Windows möglich.</entry>
+
+<!-- WebcamView Errors -->
+<entry key="webcamViewError001">Es wurde keine Webcam gefunden, bzw. Ihnen fehlt das JMF-Framework.</entry>
+<entry key="webcamViewError002">Could not realize media player.</entry>
+<entry key="webcamViewError003">Error reading from the source.</entry>
+
+<!-- Serial Communication Errors -->
+<entry key="serialCommError001">Fehler beim Lesen empfangener Daten</entry>
+<entry key="serialCommError002">COM-Port bereits geöffnet.</entry>
+<entry key="serialCommError003">Serialport nicht gefunden:</entry>
+<entry key="serialCommError004">Der Mikrokopter antwortet nicht.</entry>
+
+</properties>
