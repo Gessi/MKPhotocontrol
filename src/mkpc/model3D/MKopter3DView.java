@@ -73,7 +73,7 @@ public class MKopter3DView extends JPanel implements GLEventListener {
 	public void startAnimation()
 	{
 		Timer atimer = new Timer();
-		atimer.schedule(new requestTask(), 100, 100);
+		atimer.schedule(new requestTask(), 100, 4000);
 		new Thread() {
 			@Override
 			public void run() {
@@ -219,9 +219,9 @@ public class MKopter3DView extends JPanel implements GLEventListener {
 		
 		MKData3D data = MKParameter.shardParameter().getData3D();
 		
-		//roll = data.roll()/10;
-		//nick = -data.nick()/10;
-		//yaw = (-data.compass()/10)+currectYaw;
+		roll = data.roll()/10;
+		nick = -data.nick()/10;
+		yaw = (-data.compass()/10)+currectYaw;
 		
 //		rotateY = rotateY%360 + 1;
 //		if(goON)
@@ -657,7 +657,7 @@ public class MKopter3DView extends JPanel implements GLEventListener {
 		@Override
 		public void run() {
 			char[] value = new char[1];
-			value[0] = 100;
+			value[0] = 10;
 			Application.sharedApplication().serialComm.sendCommand('c', 'c', value);
 		}
 		
